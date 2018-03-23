@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Catégorie%20comité.xsd" generated="2018-03-23T09:21:05">
+<Catégorie_x0020_comité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Catégorie>Comité local</Catégorie>
+</Catégorie_x0020_comité>
+<Catégorie_x0020_comité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Catégorie>Comité départemental</Catégorie>
+</Catégorie_x0020_comité>
+<Catégorie_x0020_comité>
+<N_x00B0_catégorie>3</N_x00B0_catégorie>
+<Catégorie>Comité local à vocation départementale</Catégorie>
+</Catégorie_x0020_comité>
+<Catégorie_x0020_comité>
+<N_x00B0_catégorie>4</N_x00B0_catégorie>
+<Catégorie>Correspondant</Catégorie>
+</Catégorie_x0020_comité>
+<Catégorie_x0020_comité>
+<N_x00B0_catégorie>5</N_x00B0_catégorie>
+<Catégorie>Contacts</Catégorie>
+</Catégorie_x0020_comité>
+</dataroot>

@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Éléments%20du%20Menu%20Général.xsd" generated="2018-03-23T09:22:02">
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>1</SwitchboardID>
+<ItemNumber>0</ItemNumber>
+<ItemText>Menu Général principal</ItemText>
+<Command>0</Command>
+<Argument>Défaut</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>1</SwitchboardID>
+<ItemNumber>1</ItemNumber>
+<ItemText>Saisir des informations membres, contacts, pétitionnaires</ItemText>
+<Command>1</Command>
+<Argument>2</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>1</SwitchboardID>
+<ItemNumber>2</ItemNumber>
+<ItemText>Saisir des informations sur les comités</ItemText>
+<Command>1</Command>
+<Argument>3</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>1</SwitchboardID>
+<ItemNumber>3</ItemNumber>
+<ItemText>Compléter des choix de commissions, responsabilités</ItemText>
+<Command>1</Command>
+<Argument>4</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>1</SwitchboardID>
+<ItemNumber>4</ItemNumber>
+<ItemText>Imprimer des listes ou des états</ItemText>
+<Command>1</Command>
+<Argument>5</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>1</SwitchboardID>
+<ItemNumber>5</ItemNumber>
+<ItemText>Imprimer des étiquettes</ItemText>
+<Command>1</Command>
+<Argument>6</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>1</SwitchboardID>
+<ItemNumber>8</ItemNumber>
+<ItemText>Quitter cette base de données</ItemText>
+<Command>6</Command>
+<Argument></Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>2</SwitchboardID>
+<ItemNumber>0</ItemNumber>
+<ItemText>Menu Général formulaires</ItemText>
+<Command>0</Command>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>2</SwitchboardID>
+<ItemNumber>1</ItemNumber>
+<ItemText>Saisir ou afficher les adhérents par comités</ItemText>
+<Command>3</Command>
+<Argument>Formulaire de saisie des adhérents par comités</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>2</SwitchboardID>
+<ItemNumber>2</ItemNumber>
+<ItemText>Saisir ou afficher des contacts</ItemText>
+<Command>3</Command>
+<Argument>Formulaire de saisie des contacts</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>2</SwitchboardID>
+<ItemNumber>3</ItemNumber>
+<ItemText>Saisir des pétitionnaires</ItemText>
+<Command>3</Command>
+<Argument>Formulaire de saisie des pétitionnaires</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>2</SwitchboardID>
+<ItemNumber>4</ItemNumber>
+<ItemText>Saisir ou afficher des dons pour 2005</ItemText>
+<Command>3</Command>
+<Argument>Formulaire de saisie des dons 2005</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>2</SwitchboardID>
+<ItemNumber>5</ItemNumber>
+<ItemText>Affecter un GTC à un membre</ItemText>
+<Command>3</Command>
+<Argument>Formulaire de saisie des GTC par membre</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>2</SwitchboardID>
+<ItemNumber>7</ItemNumber>
+<ItemText>Revenir au Menu Général</ItemText>
+<Command>1</Command>
+<Argument>1</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>2</SwitchboardID>
+<ItemNumber>8</ItemNumber>
+<ItemText>Quitter cette base de données</ItemText>
+<Command>6</Command>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>3</SwitchboardID>
+<ItemNumber>0</ItemNumber>
+<ItemText>Menu Général formulaires comités</ItemText>
+<Command>0</Command>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>3</SwitchboardID>
+<ItemNumber>1</ItemNumber>
+<ItemText>Saisir des informations sur les comités</ItemText>
+<Command>3</Command>
+<Argument>Formulaire de saisie des comités</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>3</SwitchboardID>
+<ItemNumber>7</ItemNumber>
+<ItemText>Revenir au Menu Général</ItemText>
+<Command>1</Command>
+<Argument>1</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>3</SwitchboardID>
+<ItemNumber>8</ItemNumber>
+<ItemText>Quitter cette base de données</ItemText>
+<Command>6</Command>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>4</SwitchboardID>
+<ItemNumber>0</ItemNumber>
+<ItemText>Menu Général formulaires organisation générale</ItemText>
+<Command>0</Command>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>4</SwitchboardID>
+<ItemNumber>1</ItemNumber>
+<ItemText>Saisir ou modifier des groupes de travail et des commissions</ItemText>
+<Command>3</Command>
+<Argument>Formulaire de saisie groupes travail commissions</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>4</SwitchboardID>
+<ItemNumber>3</ItemNumber>
+<ItemText>Ajouter ou afficher des Informations sur mon organisation.</ItemText>
+<Command>3</Command>
+<Argument>Informations sur mon organisation</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>4</SwitchboardID>
+<ItemNumber>7</ItemNumber>
+<ItemText>Revenir au Menu Général</ItemText>
+<Command>1</Command>
+<Argument>1</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>4</SwitchboardID>
+<ItemNumber>8</ItemNumber>
+<ItemText>Quitter cette base de données</ItemText>
+<Command>6</Command>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>5</SwitchboardID>
+<ItemNumber>0</ItemNumber>
+<ItemText>Menu Général états</ItemText>
+<Command>0</Command>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>5</SwitchboardID>
+<ItemNumber>1</ItemNumber>
+<ItemText>Liste alphabétique des membres</ItemText>
+<Command>1</Command>
+<Argument>1</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>5</SwitchboardID>
+<ItemNumber>2</ItemNumber>
+<ItemText>Aperçu de l&apos;état Membres du comité</ItemText>
+<Command>1</Command>
+<Argument>1</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>5</SwitchboardID>
+<ItemNumber>3</ItemNumber>
+<ItemText>Aperçu de l&apos;état Liste par type d&apos;adhésion</ItemText>
+<Command>1</Command>
+<Argument>1</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>5</SwitchboardID>
+<ItemNumber>4</ItemNumber>
+<ItemText>Liste des comités par départements</ItemText>
+<Command>4</Command>
+<Argument>Etat adresses des comités par départements</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>5</SwitchboardID>
+<ItemNumber>7</ItemNumber>
+<ItemText>Revenir au Menu Général</ItemText>
+<Command>1</Command>
+<Argument>1</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>5</SwitchboardID>
+<ItemNumber>8</ItemNumber>
+<ItemText>Quitter cette base de données</ItemText>
+<Command>6</Command>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>6</SwitchboardID>
+<ItemNumber>0</ItemNumber>
+<ItemText>Menu Général étiquettes</ItemText>
+<Command>0</Command>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>6</SwitchboardID>
+<ItemNumber>1</ItemNumber>
+<ItemText>Etiquettes du Bureau National</ItemText>
+<Command>4</Command>
+<Argument>Étiquettes BN</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>6</SwitchboardID>
+<ItemNumber>2</ItemNumber>
+<ItemText>Etiquettes du Conseil National</ItemText>
+<Command>4</Command>
+<Argument>Étiquettes CN</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>6</SwitchboardID>
+<ItemNumber>3</ItemNumber>
+<ItemText>Etiquettes des comités par code postal</ItemText>
+<Command>4</Command>
+<Argument>Étiquettes Adresses des comités par départements</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>6</SwitchboardID>
+<ItemNumber>4</ItemNumber>
+<ItemText>Etiquettes des bureaux des comités</ItemText>
+<Command>4</Command>
+<Argument>Étiquettes bureau des comités</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>6</SwitchboardID>
+<ItemNumber>5</ItemNumber>
+<ItemText>Etiquettes des comités Ile de France</ItemText>
+<Command>4</Command>
+<Argument>Etiquettes comités Ile de France</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>6</SwitchboardID>
+<ItemNumber>6</ItemNumber>
+<ItemText>Etiquettes des comités PACA</ItemText>
+<Command>4</Command>
+<Argument>Etiquettes comités PACA</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>6</SwitchboardID>
+<ItemNumber>7</ItemNumber>
+<ItemText>Revenir au Menu Général</ItemText>
+<Command>1</Command>
+<Argument>1</Argument>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+<Éléments_x0020_du_x0020_Menu_x0020_Général>
+<SwitchboardID>6</SwitchboardID>
+<ItemNumber>8</ItemNumber>
+<ItemText>Quitter cette base de données</ItemText>
+<Command>6</Command>
+</Éléments_x0020_du_x0020_Menu_x0020_Général>
+</dataroot>

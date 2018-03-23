@@ -1,0 +1,5100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Comites.xsd" generated="2018-03-23T09:19:53">
+<Comités>
+<RéfComité>2</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>4</N_x00B0_dép>
+<NomComité>Comité de Manosque et des Environs du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>Maison des Associations</Adresse1>
+<Adresse2>11 boulevard du Temps Perdu</Adresse2>
+<CodeP>04100</CodeP>
+<Ville>MANOSQUE</Ville>
+<Téléphone>0492726897</Téléphone>
+<Courriel>manosque@mvtpaix.org</Courriel>
+<Contact>Léo Roussin</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>3</RéfComité>
+<Région>Centre</Région>
+<N_x00B0_dép>18</N_x00B0_dép>
+<NomComité>Comité de Bourges et du Cher du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>3</N_x00B0_catégorie>
+<Adresse1>C/o Jeannick Leprêtre</Adresse1>
+<Adresse2>28 rue Gambon</Adresse2>
+<CodeP>18000</CodeP>
+<Ville>BOURGES</Ville>
+<Mobile>06 64 39 43 75</Mobile>
+<Courriel>18@mvtpaix.org</Courriel>
+<Contact>Jeannick Leprêtre</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>4</RéfComité>
+<Région>Bourgogne</Région>
+<N_x00B0_dép>58</N_x00B0_dép>
+<NomComité>Comité départemental de la Nièvre du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>Maison Municipale des Eduens - Bureau 3</Adresse1>
+<Adresse2>Allée des Droits de l&apos;Enfant</Adresse2>
+<CodeP>58000</CodeP>
+<Ville>NEVERS</Ville>
+<Téléphone>0386600126</Téléphone>
+<Mobile>06 30 25 30 10</Mobile>
+<Courriel>mvtpaixnievre@yahoo.fr</Courriel>
+<Contact>Marie-Hélène Bourdier</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>5</RéfComité>
+<Région>Poitou-Charente</Région>
+<N_x00B0_dép>17</N_x00B0_dép>
+<NomComité>Comité de Saintes du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Patruce Salafranque</Adresse1>
+<Adresse2>142 route de la Turpaudiaire</Adresse2>
+<CodeP>17100</CodeP>
+<Ville>LA CHAPELLE DES POTS</Ville>
+<Mobile>06 89 35 78 60</Mobile>
+<Courriel>sallafranque.pat@wanadoo.fr</Courriel>
+<Contact>Patrice Sallafranque</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>6</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>13</N_x00B0_dép>
+<NomComité>Conseil départemental du Mouvement de la Paix des Bouches du Rhône</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>45 rue de Forbin</Adresse1>
+<CodeP>13002</CodeP>
+<Ville>MARSEILLE</Ville>
+<Téléphone>0491914700</Téléphone>
+<Mobile>04 91 91 06 45</Mobile>
+<Fax>0491910645</Fax>
+<Courriel>13@mvtpaix.org</Courriel>
+<Contact>Régine Minetti</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>7</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>13</N_x00B0_dép>
+<NomComité>Comité du 10ème arrondissement de Marseille du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Josiane De Lucas</Adresse1>
+<Adresse2>39 rue Antoine RE</Adresse2>
+<CodeP>13010</CodeP>
+<Ville>MARSEILLE</Ville>
+<Mobile>06 74 42 53 80</Mobile>
+<Courriel>josiane.de-luca@live.fr</Courriel>
+<Contact>Josiane De-Luca</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>8</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>3</N_x00B0_dép>
+<NomComité>Comité de l&apos;Agglomération Montluçoise du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>Maison des associations</Adresse1>
+<Adresse2>19 rue de Presle</Adresse2>
+<CodeP>03100</CodeP>
+<Ville>MONTLUCON</Ville>
+<Téléphone>0470050464</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>9</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>5</N_x00B0_dép>
+<NomComité>Comité départemental des Hautes Alpes du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>3</N_x00B0_catégorie>
+<Adresse1>Centre social du centre ville</Adresse1>
+<Adresse2>Rue Pasteur Prolongée</Adresse2>
+<CodeP>05000</CodeP>
+<Ville>GAP</Ville>
+<Mobile>06 18 48 16 85</Mobile>
+<Courriel>gap@mvtpaix.org</Courriel>
+<Contact>Nicole Castellas</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>11</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>5</N_x00B0_dép>
+<NomComité>Comité de Laragne Montéglin du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Hubert Brunel</Adresse1>
+<Adresse2>Quartier le Plan - Châteauneuf de Chabre</Adresse2>
+<CodeP>05300</CodeP>
+<Ville>VAL BUECH MEOUGE</Ville>
+<Téléphone>0492650567</Téléphone>
+<Courriel>laragne@mvtpaix.org</Courriel>
+<Contact>Hubert Brunel</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>12</RéfComité>
+<Région>Languedoc-Roussillon</Région>
+<N_x00B0_dép>11</N_x00B0_dép>
+<NomComité>Comité Audois du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>C/o Martine Jouin</Adresse1>
+<Adresse2>7 Hameau Castanviels</Adresse2>
+<CodeP>11160</CodeP>
+<Ville>PEYRIAC MINERVOIS</Ville>
+<Téléphone>0468784952</Téléphone>
+<Courriel>comite.audois.mvtpaix@orange.fr</Courriel>
+<Contact>Martine Jouin</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>13</RéfComité>
+<Région>Auvergne</Région>
+<N_x00B0_dép>15</N_x00B0_dép>
+<NomComité>Comité du Cantal du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>15</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>22</N_x00B0_dép>
+<NomComité>Comité de Lamballe du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Christine Prunaud</Adresse1>
+<Adresse2>5 rue du Champs du Four</Adresse2>
+<CodeP>22400</CodeP>
+<Ville>LA POTERIE</Ville>
+<Téléphone>0296500047</Téléphone>
+<Courriel>lamballe@mvtpaix.org</Courriel>
+<Contact>Christine Prunaud</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>16</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>22</N_x00B0_dép>
+<NomComité>Comité de Saint Brieux du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>17</RéfComité>
+<Région>Franche-Comté</Région>
+<N_x00B0_dép>25</N_x00B0_dép>
+<NomComité>Comité Valentigney du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o LIGNIER Françoise</Adresse1>
+<Adresse2>19 rue des Chintres</Adresse2>
+<CodeP>25700</CodeP>
+<Ville>VALENTIGNEY</Ville>
+<Courriel>cgtferc.fc@wanadoo.fr</Courriel>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>18</RéfComité>
+<Région>Franche-Comté</Région>
+<N_x00B0_dép>25</N_x00B0_dép>
+<NomComité>Comité départemental du Doubs du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>38 rue Erik Satie</Adresse1>
+<CodeP>25000</CodeP>
+<Ville>BESANÇON</Ville>
+<Téléphone>0381524590</Téléphone>
+<Courriel>25@mvtpaix.org</Courriel>
+<Contact>Patrice Salzenstein</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>20</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>31</N_x00B0_dép>
+<NomComité>Comité départemental de Haute Garonne du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>19 place Saint-Sernin</Adresse1>
+<CodeP>31070</CodeP>
+<Ville>TOULOUSE CEDEX</Ville>
+<Téléphone>0561140350</Téléphone>
+<Mobile>06 82 43 25 81</Mobile>
+<Courriel>31@mvtpaix.org</Courriel>
+<Contact>Christine Rosemberg</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>21</RéfComité>
+<Région>Aquitaine</Région>
+<N_x00B0_dép>33</N_x00B0_dép>
+<NomComité>Comité Girondin du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>C/o Nicole Lavallée</Adresse1>
+<Adresse2>19 rue de l&apos;Hôtel de Ville</Adresse2>
+<CodeP>33138</CodeP>
+<Ville>LANTON</Ville>
+<Mobile>06 72 94 28 01</Mobile>
+<Courriel>michelaere_n@yahoo.fr</Courriel>
+<Contact>Nicole Lavallée</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>22</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>35</N_x00B0_dép>
+<NomComité>Comité départemental d&apos;Ille et Vilaine du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>13 square de Galicie</Adresse1>
+<CodeP>35200</CodeP>
+<Ville>RENNES</Ville>
+<Téléphone>0299512403</Téléphone>
+<Mobile>06 85 02 87 14</Mobile>
+<Fax>0299512403</Fax>
+<Courriel>rennes@mvtpaix.org; roland.nivet@gmail.com</Courriel>
+<Contact>Roland Nivet</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>23</RéfComité>
+<Région>Centre</Région>
+<N_x00B0_dép>37</N_x00B0_dép>
+<NomComité>Comité d&apos;Indre et Loire du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Pascal Mijeon</Adresse1>
+<Adresse2>8 impasse des Papillons</Adresse2>
+<CodeP>37000</CodeP>
+<Ville>TOURS</Ville>
+<Téléphone>0247470086</Téléphone>
+<Courriel>alain.limousin@wanadoo.fr</Courriel>
+<Contact>Pascal Mijeon</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>25</RéfComité>
+<Région>Centre</Région>
+<N_x00B0_dép>41</N_x00B0_dép>
+<NomComité>Comité départemental du Loir et Cher du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>C/o Jacky Hurault</Adresse1>
+<Adresse2>39 route de Cellettes</Adresse2>
+<CodeP>41120</CodeP>
+<Ville>CHITENAY</Ville>
+<Téléphone>0254703527</Téléphone>
+<Courriel>41@mvtpaix.org</Courriel>
+<Contact>Jacky Hurault</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>26</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>42</N_x00B0_dép>
+<NomComité>Comité de Saint Etienne du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>17 rue Sainte Catherine</Adresse1>
+<CodeP>42000</CodeP>
+<Ville>SAINT ETIENNE</Ville>
+<Téléphone>0477384010</Téléphone>
+<Courriel>mvtpaix42@free.fr</Courriel>
+<Contact>Aurélie Royon</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>27</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>46</N_x00B0_dép>
+<NomComité>Comité du Lot du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>Bourse du Travail</Adresse1>
+<Adresse2>34 place Rousseau</Adresse2>
+<CodeP>46000</CodeP>
+<Ville>CAHORS</Ville>
+<Téléphone>0565220405</Téléphone>
+<Courriel>46@mvtpaix.org</Courriel>
+<Contact>Marie Annick Le Floch</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>28</RéfComité>
+<Région>Basse-Normandie</Région>
+<N_x00B0_dép>50</N_x00B0_dép>
+<NomComité>Comité départemental de la Manche du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>C/o Danièle Brisset</Adresse1>
+<Adresse2>7 rue Amiral Duquesne</Adresse2>
+<CodeP>50120</CodeP>
+<Ville>EQUEURDREVILLE</Ville>
+<Téléphone>0233930771</Téléphone>
+<Courriel>50@mvtpaix.org</Courriel>
+<Contact>Danièle Brisset</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>30</RéfComité>
+<Région>Champagne-Ardennes</Région>
+<N_x00B0_dép>51</N_x00B0_dép>
+<NomComité>Comité du Mouvement de la Paix de Reims</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o ROBERT Julien</Adresse1>
+<Adresse2>33 rue Martin Peller</Adresse2>
+<CodeP>51100</CodeP>
+<Ville>REIMS</Ville>
+<Mobile>07 68 90 35 29</Mobile>
+<Courriel>j.robert@tutanota.com</Courriel>
+<Contact>Julien Robert</Contact>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>32</RéfComité>
+<Région>Nord-Pas-de-Calais</Région>
+<N_x00B0_dép>59</N_x00B0_dép>
+<NomComité>Comité de Roubaix du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Monique Verbanck</Adresse1>
+<Adresse2>22/303 passage Villon</Adresse2>
+<CodeP>59100</CodeP>
+<Ville>ROUBAIX</Ville>
+<Téléphone>0320736412</Téléphone>
+<Courriel>monique.verbanck@aliceadsl.fr</Courriel>
+<Contact>Monique Verbanck</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>33</RéfComité>
+<Région>Nord-Pas-de-Calais</Région>
+<N_x00B0_dép>59</N_x00B0_dép>
+<NomComité>Comité de Dunkerque du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Jean Pierre Descodts</Adresse1>
+<Adresse2>Rd. Grand Pavois - 597 boulevard du 8 Mai 45</Adresse2>
+<CodeP>59240</CodeP>
+<Ville>DUNKERQUE</Ville>
+<Téléphone>0328290646</Téléphone>
+<Courriel>f.decodts@wanadoo.fr</Courriel>
+<Contact>Jean Pierre Descodts</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>38</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>13</N_x00B0_dép>
+<NomComité>Comité de Port de Bouc du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Boulenouar Sirat</Adresse1>
+<Adresse2>1 rue des Arcacdes</Adresse2>
+<CodeP>13110</CodeP>
+<Ville>PORT DE BOUC</Ville>
+<Téléphone>0442061760</Téléphone>
+<Courriel>portdebouc@mvtpaix.org</Courriel>
+<Contact>Boune Sirat</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>39</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>13</N_x00B0_dép>
+<NomComité>Comité de Martigues du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>Centre Social des Joncquières</Adresse1>
+<Adresse2>Place du 8 Mai 1945</Adresse2>
+<CodeP>13500</CodeP>
+<Ville>MARTIGUES</Ville>
+<Téléphone>0442440392</Téléphone>
+<Courriel>martigues@mvtpaix.org</Courriel>
+<Contact>Elisabeth Grand</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>40</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>13</N_x00B0_dép>
+<NomComité>Comité Septémois du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>Hôtel de Ville</Adresse1>
+<Adresse2>Place Tramoni</Adresse2>
+<CodeP>13240</CodeP>
+<Ville>SEPTEMES LES VALLONS</Ville>
+<Téléphone>0491514119</Téléphone>
+<Mobile>06 81 9 68 33</Mobile>
+<Courriel>septemes@mvtpaix.org</Courriel>
+<Contact>Edmond Bonnet</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>41</RéfComité>
+<Région>Basse-Normandie</Région>
+<N_x00B0_dép>14</N_x00B0_dép>
+<NomComité>Conseil départemental du Calvados du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>Maison des Associations</Adresse1>
+<Adresse2>1018 Grand Parc</Adresse2>
+<CodeP>14200</CodeP>
+<Ville>HEROUVILLE</Ville>
+<Téléphone>0231957277</Téléphone>
+<Courriel>14@mvtpaix.org</Courriel>
+<Contact>Claude Ruelland</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>42</RéfComité>
+<Région>Basse-Normandie</Région>
+<N_x00B0_dép>14</N_x00B0_dép>
+<NomComité>Comité de Dives sur Mer et de la Côte Fleurie du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>46 rue du Port</Adresse1>
+<CodeP>14160</CodeP>
+<Ville>DIVES SUR MER</Ville>
+<Courriel>dives@mvtpaix.org</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>43</RéfComité>
+<Région>Limousin</Région>
+<N_x00B0_dép>19</N_x00B0_dép>
+<NomComité>Comité départemental de la Corrèze du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>Maison du Bénévolat</Adresse1>
+<Adresse2>10 boulevard Marx Dormoy</Adresse2>
+<CodeP>19100</CodeP>
+<Ville>BRIVE</Ville>
+<Courriel>mouvementdelapaix19@gmail.com</Courriel>
+<Contact>Louis Puydebois - 05 55 23 11 89 / Henri Vacher - 06 13 16 36 09</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>44</RéfComité>
+<Région>Poitou-Charente</Région>
+<N_x00B0_dép>17</N_x00B0_dép>
+<NomComité>Mouvement de la Paix de la Rochelle</NomComité>
+<N_x00B0_catégorie>3</N_x00B0_catégorie>
+<Adresse1>99 rue Nicolas Gargot</Adresse1>
+<CodeP>17000</CodeP>
+<Ville>LA ROCHELLE</Ville>
+<Mobile>05 46 01 52 64</Mobile>
+<Courriel>monique.fontenil@wanadoo.fr</Courriel>
+<Contact>Monique Fontenil / Eric Thomas - mdlpaix17@gmail.com - 06 07 40 87 39</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>45</RéfComité>
+<Région>Bourgogne</Région>
+<N_x00B0_dép>21</N_x00B0_dép>
+<NomComité>Comité de Dijon et de la Côte d&apos;Or du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>Centre Municipal des Associations</Adresse1>
+<Adresse2>Boite E5 - 2 rue des Corroyeurs</Adresse2>
+<CodeP>21000</CodeP>
+<Ville>DIJON</Ville>
+<Courriel>raphael.porteilla@u-bourgogne.fr; jeanclaudetru@gmail.com</Courriel>
+<Contact>Raphaël Porteilla - 06 89 44 06 81 / Jean Claude Truaisch - 06 20 10 88 98</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>46</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>29</N_x00B0_dép>
+<NomComité>Comité du Mouvement de la Paix du Pays de Morlaix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Antoinette L&apos;Henaff</Adresse1>
+<Adresse2>77 route de Primel Trégastel</Adresse2>
+<CodeP>29630</CodeP>
+<Ville>PLOUGASNOU</Ville>
+<Téléphone>0298723416</Téléphone>
+<Mobile>06 37 63 88 95</Mobile>
+<Courriel>anne.lhenaff@orange.fr; morlaix@mvtpaix.org</Courriel>
+<Contact>Antoinette L&apos;Henaff</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>47</RéfComité>
+<Région>Languedoc-Roussillon</Région>
+<N_x00B0_dép>30</N_x00B0_dép>
+<NomComité>Association Sociale et Culturel du Mouvement de la Paix du Gard</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Marianne Durand</Adresse1>
+<Adresse2>25 rue Charles des Guerrois</Adresse2>
+<CodeP>30900</CodeP>
+<Ville>NIMES</Ville>
+<Téléphone>0466296159</Téléphone>
+<Courriel>30@mvtpaix.org</Courriel>
+<Contact>Marianne Durand</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>48</RéfComité>
+<Région>Languedoc-Roussillon</Région>
+<N_x00B0_dép>34</N_x00B0_dép>
+<NomComité>Comité de Montpellier du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o WEBER Henri</Adresse1>
+<Adresse2>20 rue Pous de las Sers</Adresse2>
+<CodeP>34090</CodeP>
+<Ville>MONTPELLIER</Ville>
+<Téléphone>0467635743</Téléphone>
+<Courriel>montpellier@mvtpaix.org</Courriel>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>506</RéfComité>
+<N_x00B0_dép>101</N_x00B0_dép>
+<NomComité>Z-Saisie en vrac</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+</Comités>
+<Comités>
+<RéfComité>49</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>38</N_x00B0_dép>
+<NomComité>Comité de Saint Martin d&apos;Hères du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Michèle Bellemin</Adresse1>
+<Adresse2>6 rue André Chenier</Adresse2>
+<CodeP>38400</CodeP>
+<Ville>ST MARTIN D HERES</Ville>
+<Téléphone>0476423844</Téléphone>
+<Mobile>06 88 25 11 59</Mobile>
+<Courriel>saintmartindheres@mvtpaix.org</Courriel>
+<Contact>Michèle Bellemin</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>50</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>38</N_x00B0_dép>
+<NomComité>Comité départemental de l&apos;Isère du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>Maison des Associations</Adresse1>
+<Adresse2>2 rue Berthe Boissieux</Adresse2>
+<CodeP>38000</CodeP>
+<Ville>GRENOBLE</Ville>
+<Mobile>06 07 15 21 64</Mobile>
+<Courriel>jeanpaul.vienne@free.fr</Courriel>
+<Contact>Jean-Paul Vienne</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>51</RéfComité>
+<Région>Aquitaine</Région>
+<N_x00B0_dép>40</N_x00B0_dép>
+<NomComité>Comité Montois du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>3</N_x00B0_catégorie>
+<Adresse1>Maison des Associations René Lucbernet</Adresse1>
+<Adresse2>6 rue du 8 mai 1945</Adresse2>
+<CodeP>40000</CodeP>
+<Ville>MONT DE MARSAN</Ville>
+<Mobile>06 70 75 62 61</Mobile>
+<Courriel>40@mvtpaix.org</Courriel>
+<Contact>Daniel Salhorgne</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>52</RéfComité>
+<Région>Pays-de-la-Loire</Région>
+<N_x00B0_dép>44</N_x00B0_dép>
+<NomComité>Comité Nazairien du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>Agora 1901</Adresse1>
+<Adresse2>2 bis rue Albert de Mun</Adresse2>
+<CodeP>44600</CodeP>
+<Ville>SAINT NAZAIRE</Ville>
+<Téléphone>0240703697</Téléphone>
+<Mobile>06 83 33 94 91</Mobile>
+<Courriel>fanchon.44@wanadoo.fr</Courriel>
+<Contact>Françoise Cabon / Paulette Merand - 02 40 53 57 27 - monique.jouandurand@sfr.fr</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>53</RéfComité>
+<Région>Aquitaine</Région>
+<N_x00B0_dép>64</N_x00B0_dép>
+<NomComité>Comité départemental des Pyrénées Atlantiques du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>C/o Claude Roussie</Adresse1>
+<Adresse2>Quartier Castet</Adresse2>
+<CodeP>64360</CodeP>
+<Ville>MONEIN</Ville>
+<Courriel>claude.roussie@orange.fr; pau.lanta@wanadoo.fr</Courriel>
+<Contact>Claude Roussie - 05 59 21 43 25 / Paule Lanta - 05 59 84 27 59</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>54</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>65</N_x00B0_dép>
+<NomComité>Comité départemental des Hautes Pyrénées du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>13 rue de la Victoire</Adresse1>
+<CodeP>65000</CodeP>
+<Ville>TARBES</Ville>
+<Mobile>06 88 78 54 79</Mobile>
+<Courriel>65@mvtpaix.org</Courriel>
+<Contact>Dany Allaire</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>55</RéfComité>
+<Région>Languedoc-Roussillon</Région>
+<N_x00B0_dép>66</N_x00B0_dép>
+<NomComité>Comité départemental des Pyrénées Orientales du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>1 rue Michel Doutres - FOL</Adresse1>
+<CodeP>66000</CodeP>
+<Ville>PERPIGNAN</Ville>
+<Téléphone>0468812315</Téléphone>
+<Courriel>canadelnoel@hotmail.fr</Courriel>
+<Contact>Noëlle Canadell</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>56</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>69</N_x00B0_dép>
+<NomComité>Comité de Décines du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>Maison du Peuple</Adresse1>
+<Adresse2>8 boulevard Laurent Gérin</Adresse2>
+<CodeP>69200</CodeP>
+<Ville>VENISSIEUX</Ville>
+<Mobile>06 72 86 00 10</Mobile>
+<Courriel>mvtpaix69@orange.fr; arlette.cavillon@mvtpaix.org</Courriel>
+<Contact>Arlette Cavillon</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>57</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>69</N_x00B0_dép>
+<NomComité>Comité de Vénissieux du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>3</N_x00B0_catégorie>
+<Adresse1>Maison du Peuple</Adresse1>
+<Adresse2>8 boulevard Laurent Gérin</Adresse2>
+<CodeP>69200</CodeP>
+<Ville>VENISSIEUX</Ville>
+<Mobile>06 72 86 00 10</Mobile>
+<Fax>0472517906</Fax>
+<Courriel>mvtpaix69@orange.fr; arlette.cavillon@mvtpaix.org</Courriel>
+<Contact>Arlette Cavillon</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>58</RéfComité>
+<Région>Bourgogne</Région>
+<N_x00B0_dép>71</N_x00B0_dép>
+<NomComité>Comité d&apos;Aze du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>3</N_x00B0_catégorie>
+<Adresse1>C/o DRILLON Sandra</Adresse1>
+<Adresse2>Route de Cluny</Adresse2>
+<CodeP>71260</CodeP>
+<Ville>AZE</Ville>
+<Téléphone>0385334775</Téléphone>
+<Courriel>mvtpaix71@mvtpaix.org</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>59</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>73</N_x00B0_dép>
+<NomComité>Comité de Montmélian du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Roland Gardien</Adresse1>
+<Adresse2>3 place de la Libération</Adresse2>
+<CodeP>73000</CodeP>
+<Ville>CHAMBERY</Ville>
+<Mobile>06 62 07 36 30</Mobile>
+<Courriel>roland.gardien@yahoo.fr</Courriel>
+<Contact>Roland Gardien</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>60</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>75</N_x00B0_dép>
+<NomComité>Comité du 10 et 11ème Arrondissement de Paris du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>Le Picoulet</Adresse1>
+<Adresse2>59 rue de la Fontaine au Roi</Adresse2>
+<CodeP>75011</CodeP>
+<Ville>PARIS</Ville>
+<Téléphone>0144939793</Téléphone>
+<Mobile>06 03 55 03 39</Mobile>
+<Courriel>colette.letournel@orange.fr</Courriel>
+<Contact>Colette Letournel</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>61</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>75</N_x00B0_dép>
+<NomComité>Comité de Paris Centre du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o BLOTNIK Roland</Adresse1>
+<Adresse2>28 rue Rivoli</Adresse2>
+<CodeP>75004</CodeP>
+<Ville>PARIS</Ville>
+<Téléphone>0148879358</Téléphone>
+<Courriel>roland.blotnik@wanadoo.fr</Courriel>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>62</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>75</N_x00B0_dép>
+<NomComité>Conseil Parisien du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>74 quai de l&apos; Hôtel de Ville</Adresse1>
+<CodeP>75004</CodeP>
+<Ville>PARIS</Ville>
+<Courriel>paris@mvtpaix.org</Courriel>
+<Contact>Aurélien Amsellem - 06 64 61 94 55 - aurelien.amsellem@mvtpaix.org</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>63</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>75</N_x00B0_dép>
+<NomComité>Comité du 12 / 13 et 14ème Arrondissement de Paris du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Maryse Benech</Adresse1>
+<Adresse2>63 rue Clisson Appt 47</Adresse2>
+<CodeP>75013</CodeP>
+<Ville>PARIS</Ville>
+<Téléphone>0145865384</Téléphone>
+<Courriel>marysebenech@wanadoo.fr</Courriel>
+<Contact>Maryse Benech / Micheline Guilhaumon - micheline.guilhaumon@gmail.com - 01 45 86 16 10</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>64</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>75</N_x00B0_dép>
+<NomComité>Comité du 19 et 20ème Arrondissement de Paris du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Monique Randoux</Adresse1>
+<Adresse2>22 ter rue Armand Carrel</Adresse2>
+<CodeP>75019</CodeP>
+<Ville>PARIS</Ville>
+<Téléphone>0142451268</Téléphone>
+<Courriel>moniquerandoux@dbmail.com</Courriel>
+<Contact>Monique Randoux</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>65</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>73</N_x00B0_dép>
+<NomComité>Comité d&apos;Albertville Ugine du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Françoise Darmois</Adresse1>
+<Adresse2>9 chemin du Paradis</Adresse2>
+<CodeP>73200</CodeP>
+<Ville>ALBERTVILLE</Ville>
+<Téléphone>0479322793</Téléphone>
+<Fax>0479322793</Fax>
+<Courriel>francoise.darmois@wanadoo.fr</Courriel>
+<Contact>Françoise Dormois</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>66</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>91</N_x00B0_dép>
+<NomComité>Comité de Morsang sur Orge du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Hélène Dumontier</Adresse1>
+<Adresse2>7 rue Colas</Adresse2>
+<CodeP>91390</CodeP>
+<Ville>MORSANG SUR ORGE</Ville>
+<Téléphone>0169040813</Téléphone>
+<Courriel>dumontierhj@wanadoo.fr</Courriel>
+<Contact>Hélène Dumontier</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>67</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>92</N_x00B0_dép>
+<NomComité>Comité Clichois du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<CodeP>92110</CodeP>
+<Ville>CLICHY</Ville>
+<Mobile>06 74 29 37 37</Mobile>
+<Courriel>paix.clichy92@orange.fr</Courriel>
+<Contact>Yves Jean Gallas</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>68</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>92</N_x00B0_dép>
+<NomComité>Comité de Fontenay aux Roses du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<CodeP>92260</CodeP>
+<Ville>FONTENAY AUX ROSES</Ville>
+<Courriel>fontenayauxroses@mvtpaix.org</Courriel>
+<Contact>Geneviève Deleplace</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>69</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>92</N_x00B0_dép>
+<NomComité>Comité de Malakoff du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>Maison de la vie associative</Adresse1>
+<Adresse2>28 rue Victor Hugo</Adresse2>
+<CodeP>92240</CodeP>
+<Ville>MALAKOFF</Ville>
+<Téléphone>0146540747</Téléphone>
+<Mobile>06 70 57 91 23</Mobile>
+<Courriel>nicole.bouexel@mvtpaix.org</Courriel>
+<Contact>Nicole Bouexel</Contact>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>71</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>93</N_x00B0_dép>
+<NomComité>Collectif Dyonisien du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>Bourse du Travail</Adresse1>
+<Adresse2>9 / 11 rue Génin</Adresse2>
+<CodeP>93200</CodeP>
+<Ville>SAINT DENIS</Ville>
+<Mobile>06 74 63 85 05</Mobile>
+<Courriel>saintdenis@mvtpaix.org</Courriel>
+<Contact>Claude Chapet</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>76</RéfComité>
+<Région>Alsace</Région>
+<N_x00B0_dép>67</N_x00B0_dép>
+<NomComité>Conseil départemental du Bas Rhin du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>Maison des associations</Adresse1>
+<Adresse2>1A place des Orphelins</Adresse2>
+<CodeP>67000</CodeP>
+<Ville>STRASBOURG</Ville>
+<Téléphone>0388263024</Téléphone>
+<Mobile>06 09 18 52 65</Mobile>
+<Courriel>bernard.revollon@gmail.com</Courriel>
+<Contact>Roger Strelbicki</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>79</RéfComité>
+<Région>Pays-de-la-Loire</Région>
+<N_x00B0_dép>72</N_x00B0_dép>
+<NomComité>Comité du Mouvement de la Paix du Mans</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o VIVET Didier</Adresse1>
+<Adresse2>20 rue des Ormeaux</Adresse2>
+<CodeP>72650</CodeP>
+<Ville>LA MILESSE</Ville>
+<Téléphone>0243253459</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>80</RéfComité>
+<Région>Haute-Normandie</Région>
+<N_x00B0_dép>76</N_x00B0_dép>
+<NomComité>Coordination de l&apos;Agglomération Havraise du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Fax>0235477842</Fax>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>81</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>78</N_x00B0_dép>
+<NomComité>Comité de Trappes et Environs du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>Maison des Associations</Adresse1>
+<Adresse2>4 allée Saint Exupéry</Adresse2>
+<CodeP>78190</CodeP>
+<Ville>TRAPPES</Ville>
+<Courriel>d.cordry@laposte.net; alban.liechti@wanadoo.fr</Courriel>
+<Contact>Didier Cordry - 01 30 66 01 05 / Alban Liechti - 01 30 51 84 67</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>82</RéfComité>
+<Région>Picardie</Région>
+<N_x00B0_dép>80</N_x00B0_dép>
+<NomComité>Conseil départemental de la Somme du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>C/o Patrick Kaczmarek</Adresse1>
+<Adresse2>12 quai de l&apos;Ecluse</Adresse2>
+<CodeP>80000</CodeP>
+<Ville>AMIENS</Ville>
+<Téléphone>0322917966</Téléphone>
+<Courriel>80@mvtpaix.org</Courriel>
+<Contact>Patrick Kaczmarek</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>83</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>78</N_x00B0_dép>
+<NomComité>Comité de Achères - Carrières - Poissy du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Michel Thouzeau</Adresse1>
+<Adresse2>12 rue Ile de la Dérivation</Adresse2>
+<CodeP>78955</CodeP>
+<Ville>CARRIERES SOUS POISSY</Ville>
+<Téléphone>0139742063</Téléphone>
+<Mobile>06 63 00 84 61</Mobile>
+<Fax>0139751230</Fax>
+<Courriel>acherescarrierespoissy@mvtpaix.org</Courriel>
+<Contact>Michel Thouzeau</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>85</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>83</N_x00B0_dép>
+<NomComité>Comité de la Cadière d&apos;Azur du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o ZYLBERT Nicole</Adresse1>
+<Adresse2>2208 chemin de Cuges</Adresse2>
+<CodeP>83740</CodeP>
+<Ville>LA CADIÈRE DAZUR</Ville>
+<Téléphone>0494900521</Téléphone>
+<Courriel>lacadieredazur@mvtpaix.org</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>87</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>84</N_x00B0_dép>
+<NomComité>Comité du Vaucluse du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>Centre culturel des cheminots</Adresse1>
+<Adresse2>1A rue Jean Catelas</Adresse2>
+<CodeP>84000</CodeP>
+<Ville>AVIGNON</Ville>
+<Courriel>mvtpaix84@gmail.com; eleonor21dutto@range.fr</Courriel>
+<Contact>Françoise Lenoble</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>88</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>84</N_x00B0_dép>
+<NomComité>Comité de Velleron du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o AGNEL Aline</Adresse1>
+<Adresse2>Place du Château</Adresse2>
+<CodeP>84740</CodeP>
+<Ville>VELLERON</Ville>
+<Téléphone>0490200113</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>89</RéfComité>
+<Région>Bourgogne</Région>
+<N_x00B0_dép>89</N_x00B0_dép>
+<NomComité>Association de l&apos;Yonne du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>C/o MARTIN Denis</Adresse1>
+<Adresse2>6 rue Anatole France</Adresse2>
+<CodeP>89000</CodeP>
+<Ville>AUXERRE</Ville>
+<Téléphone>0386481930</Téléphone>
+<Courriel>denis.martin@auxerre.com</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>90</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>92</N_x00B0_dép>
+<NomComité>Comité de Sèvres et Alentour du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Gilles Vuillemenot</Adresse1>
+<Adresse2>3 rue Jules Gevelot</Adresse2>
+<CodeP>92310</CodeP>
+<Ville>SEVRES</Ville>
+<Téléphone>0145078382</Téléphone>
+<Fax>0145078382</Fax>
+<Courriel>gvuillemenot@wanadoo.fr</Courriel>
+<Contact>Gilles Vuillemenot</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>91</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>92</N_x00B0_dép>
+<NomComité>Comité de Bagneux du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Yves Philippe</Adresse1>
+<Adresse2>10 allée Jacques Brel</Adresse2>
+<CodeP>92220</CodeP>
+<Ville>BAGNEUX</Ville>
+<Mobile>06 18 07 53 84</Mobile>
+<Courriel>sylvie.roger@wanadoo.fr</Courriel>
+<Contact>Yves Philippe / Patricia Philippe - 06 21 39 44 43</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>92</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>9</N_x00B0_dép>
+<NomComité>Comité de l&apos;Ariège du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>93</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>93</N_x00B0_dép>
+<NomComité>Comité de Blanc Mesnil du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Mme Alexandre</Adresse1>
+<Adresse2>26 bis rue de Berne</Adresse2>
+<CodeP>93150</CodeP>
+<Ville>BLANC MESNIL</Ville>
+<Courriel>blancmesnil@mvtpaix.org</Courriel>
+<Contact>Yvonne D&apos;Henry</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>99</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>93</N_x00B0_dép>
+<NomComité>Comité de Saint Ouen du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>La Maison de la Paix</Adresse1>
+<Adresse2>9 rue Dulcie September</Adresse2>
+<CodeP>93400</CodeP>
+<Ville>SAINT OUEN</Ville>
+<Mobile>06 15 86 39 74</Mobile>
+<Courriel>lydia-texier@orange.fr</Courriel>
+<Contact>Lydia Texier</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>100</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>93</N_x00B0_dép>
+<NomComité>Comité de Stains du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>Maison des associations</Adresse1>
+<CodeP>93240</CodeP>
+<Ville>STAINS</Ville>
+<Téléphone>0148376662</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>101</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>94</N_x00B0_dép>
+<NomComité>Comité de Orly du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<CodeP>94310</CodeP>
+<Ville>ORLY</Ville>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>102</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>94</N_x00B0_dép>
+<NomComité>Comité de Vitry du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Isabelle Ougier</Adresse1>
+<Adresse2>31 rue Alfred de Musset</Adresse2>
+<CodeP>94400</CodeP>
+<Ville>VITRY SUR SEINE</Ville>
+<Mobile>06 70 71 90 95</Mobile>
+<Courriel>mvtpaix.vitry@yahoo.fr</Courriel>
+<Contact>Isabelle Ougier</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>104</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>94</N_x00B0_dép>
+<NomComité>Comité de Boissy Saint Leger du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o René Bailly</Adresse1>
+<Adresse2>25 place de la Frenaire</Adresse2>
+<CodeP>94470</CodeP>
+<Ville>BOISSY SAINT LEGER</Ville>
+<Téléphone>0145990172</Téléphone>
+<Courriel>rm.bailly@orange.fr</Courriel>
+<Contact>René Bailly</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>106</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>94</N_x00B0_dép>
+<NomComité>Comité de Champigny sur Marne du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>191 rue de Verdun</Adresse1>
+<CodeP>94500</CodeP>
+<Ville>CHAMPIGNY SUR MARNE</Ville>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>108</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>95</N_x00B0_dép>
+<NomComité>Comité du Mouvement de la Paix de Saint Ouen l&apos;Aumone</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o PRESENT Jean</Adresse1>
+<Adresse2>61 quai de l&apos;Ecluse</Adresse2>
+<CodeP>95310</CodeP>
+<Ville>SAINT OUEN LAUMONE</Ville>
+<Téléphone>0134300771</Téléphone>
+<Courriel>present.jean@wanadoo.fr</Courriel>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>110</RéfComité>
+<Région>Pays-de-la-Loire</Région>
+<N_x00B0_dép>49</N_x00B0_dép>
+<NomComité>Comité d&apos;Angers du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>22 rue du Maine</Adresse1>
+<CodeP>49100</CodeP>
+<Ville>ANGERS</Ville>
+<Téléphone>0950724220</Téléphone>
+<Courriel>mouvementdelapaixangers@sfr.fr</Courriel>
+<Contact>Thierry Menan - tmenan@free.fr</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>111</RéfComité>
+<Région>Pays-de-la-Loire</Région>
+<N_x00B0_dép>49</N_x00B0_dép>
+<NomComité>Comité de Cholet du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>13 rue Georges Braque</Adresse1>
+<CodeP>49300</CodeP>
+<Ville>CHOLET</Ville>
+<Téléphone>0241624748</Téléphone>
+<Mobile>06 22 34 27 96</Mobile>
+<Courriel>mvtpaixcholet@gmail.com; cholet@mvtpaix.org</Courriel>
+<Contact>Aurélie Monrouzeau</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Date_x0020_parution_x0020_JO>2003-05-03T00:00:00</Date_x0020_parution_x0020_JO>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>113</RéfComité>
+<Région>Languedoc-Roussillon</Région>
+<N_x00B0_dép>30</N_x00B0_dép>
+<NomComité>Comité d&apos;Ales du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<CodeP>30100</CodeP>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>114</RéfComité>
+<Région>Languedoc-Roussillon</Région>
+<N_x00B0_dép>34</N_x00B0_dép>
+<NomComité>Comité de Sète du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Annick Lepinçon</Adresse1>
+<Adresse2>315 chemin du Couchant</Adresse2>
+<CodeP>34200</CodeP>
+<Ville>SETE</Ville>
+<Téléphone>0467515285</Téléphone>
+<Contact>Annick Lepinçon</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>115</RéfComité>
+<Région>Franche-Comté</Région>
+<N_x00B0_dép>39</N_x00B0_dép>
+<NomComité>Comité de Saint Claude du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o LAHAUT Francis</Adresse1>
+<Adresse2>5 rue Lacuzon</Adresse2>
+<CodeP>39200</CodeP>
+<Ville>SAINT CLAUDE</Ville>
+<Téléphone>0384455334</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>116</RéfComité>
+<Région>Franche-Comté</Région>
+<N_x00B0_dép>39</N_x00B0_dép>
+<NomComité>Comité de Damparis du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o GINIES Michel</Adresse1>
+<Adresse2>9 rue des Acacias</Adresse2>
+<CodeP>39500</CodeP>
+<Ville>DAMPARIS</Ville>
+<Téléphone>0384718444</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>117</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>29</N_x00B0_dép>
+<NomComité>Comité de Quimperlé et sa Région du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>C/o MORVAN Marcel</Adresse1>
+<Adresse2>19 boulevard de Laïta</Adresse2>
+<CodeP>29300</CodeP>
+<Ville>QUIMPERLE</Ville>
+<Téléphone>0298960293</Téléphone>
+<Courriel>mvtpaixquimperle@orange.fr</Courriel>
+<Contact>Marcel Morvan</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>118</RéfComité>
+<Région>Poitou-Charente</Région>
+<N_x00B0_dép>86</N_x00B0_dép>
+<NomComité>Comité de Châtellerault et de la Vienne du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>121</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>13</N_x00B0_dép>
+<NomComité>Comité du 15ème arrondissement de Marseille du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Pierre Laffont</Adresse1>
+<Adresse2>22 boulevard Denis Papin</Adresse2>
+<CodeP>13015</CodeP>
+<Ville>MARSEILLE</Ville>
+<Courriel>marseille15@mvtpaix.org</Courriel>
+<Contact>Pierre Laffont - 04 91 58 41 12 / Vincent Pagano - 04 91 64 30 83</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>122</RéfComité>
+<Région>Centre</Région>
+<N_x00B0_dép>18</N_x00B0_dép>
+<NomComité>Comité de Vierzon du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o POURNIN Solange</Adresse1>
+<Adresse2>37 rue Daniel Casanova</Adresse2>
+<CodeP>18100</CodeP>
+<Ville>VIERZON</Ville>
+<Téléphone>0248753521</Téléphone>
+<Courriel>vierzon@mvtpaix.org</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>123</RéfComité>
+<Région>Limousin</Région>
+<N_x00B0_dép>23</N_x00B0_dép>
+<NomComité>Comité départemental de la Creuse du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Jean Penot</Adresse1>
+<Adresse2>7 rue de la Grande Pigue</Adresse2>
+<CodeP>23000</CodeP>
+<Ville>GUERET</Ville>
+<Courriel>jeanne-marie.raynaud@wanadoo.fr</Courriel>
+<Contact>Jean Penot - 05 55 52 24 54 / Jeanne Marie Raynaud - 06 82 43 00 51</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>124</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>29</N_x00B0_dép>
+<NomComité>Comité de Brest du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Murielle Dubreulle</Adresse1>
+<Adresse2>13 rue Quillimerien</Adresse2>
+<CodeP>29290</CodeP>
+<Ville>SAINT RENAN</Ville>
+<Téléphone>0298326662</Téléphone>
+<Mobile>06 17 26 20 92</Mobile>
+<Courriel>alain.dubreule@wanadoo.fr</Courriel>
+<Contact>Murielle Dubreule</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>125</RéfComité>
+<Région>Aquitaine</Région>
+<N_x00B0_dép>33</N_x00B0_dép>
+<NomComité>Comité de la Teste du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o GILLET Alain</Adresse1>
+<Adresse2>10 rue Paul Doussy</Adresse2>
+<CodeP>33260</CodeP>
+<Ville>LA TESTE DE BUCH</Ville>
+<Téléphone>0556666426</Téléphone>
+<Courriel>Alagillet@aol.com</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>126</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>92</N_x00B0_dép>
+<NomComité>Conseil départemental des Hauts Seine du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>C/o Nicole Bouexel</Adresse1>
+<Adresse2>35 rue Savier</Adresse2>
+<CodeP>92240</CodeP>
+<Ville>MALAKOFF</Ville>
+<Téléphone>0146540747</Téléphone>
+<Mobile>06 70 57 91 23</Mobile>
+<Courriel>nicole.bouexel@mvtpaix.org</Courriel>
+<Contact>Nicole Bouexel</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>127</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>92</N_x00B0_dép>
+<NomComité>Comité de Colombes du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o BARDIN Paul</Adresse1>
+<Adresse2>34 rue Laplace</Adresse2>
+<CodeP>92700</CodeP>
+<Ville>COLOMBES</Ville>
+<Téléphone>0147817637</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>128</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>94</N_x00B0_dép>
+<NomComité>Comité de Fontenay sous Bois du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o BIGNON Claudine</Adresse1>
+<Adresse2>7 bis boulevard de Verdun</Adresse2>
+<CodeP>94120</CodeP>
+<Ville>FONTENAY SOUS BOIS</Ville>
+<Téléphone>0148769482</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>129</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>6</N_x00B0_dép>
+<NomComité>Comité du Mouvement de la Paix des Alpes Maritimes</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>Maison des Associations</Adresse1>
+<Adresse2>9 rue Louis Brailles</Adresse2>
+<CodeP>06400</CodeP>
+<Ville>CANNES</Ville>
+<Mobile>06 62 35 35 72</Mobile>
+<Courriel>mouvement.paix06@wanadoo.fr</Courriel>
+<Contact>Odile Clémente - 13clementines@gmail.com</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>130</RéfComité>
+<Région>Basse-Normandie</Région>
+<N_x00B0_dép>61</N_x00B0_dép>
+<NomComité>Comité de Bourg Saint Léonard du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Daniel Postaire</Adresse1>
+<Adresse2>1 rue des fleurs</Adresse2>
+<CodeP>61310</CodeP>
+<Ville>BOURG SAINT LEONNARD</Ville>
+<Téléphone>0233673016</Téléphone>
+<Courriel>dpostaire@gmail.com</Courriel>
+<Contact>Daniel Postaire</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>131</RéfComité>
+<Région>Bourgogne</Région>
+<N_x00B0_dép>21</N_x00B0_dép>
+<NomComité>Comité de Beaune du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o TAMENE Marcelle</Adresse1>
+<Adresse2>4 rue de Beauséjour</Adresse2>
+<CodeP>21200</CodeP>
+<Ville>BEAUNE</Ville>
+<Téléphone>0380221489</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>132</RéfComité>
+<Région>Bourgogne</Région>
+<N_x00B0_dép>21</N_x00B0_dép>
+<NomComité>Comité de Chenôve du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o MONNIER Christiane</Adresse1>
+<Adresse2>1 Boulevard rue Edouard Branly</Adresse2>
+<CodeP>21300</CodeP>
+<Ville>CHENOVE</Ville>
+<Téléphone>0380522912</Téléphone>
+<Courriel>mcdorcy@aol.com</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>133</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>13</N_x00B0_dép>
+<NomComité>Comité de la Ciotat du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>4</N_x00B0_catégorie>
+<Adresse1>C/o LAFITTE Nicole</Adresse1>
+<Adresse2>Eden Parc N°99 2772 Montée du Vieux Camp</Adresse2>
+<CodeP>83330</CodeP>
+<Ville>LE CASTELLET</Ville>
+<Mobile>06 82 69 74 89</Mobile>
+<Courriel>ciotat@mvtpaix.org</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>134</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>77</N_x00B0_dép>
+<NomComité>Comité de Seine et Marne du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>C/o Nathalie Gauchet</Adresse1>
+<Adresse2>Rd. du Parc Appt-422 - 21 place Picard</Adresse2>
+<CodeP>77124</CodeP>
+<Ville>VILLENOY</Ville>
+<Mobile>06 86 84 27 24</Mobile>
+<Courriel>77@mvtpaix.org</Courriel>
+<Contact>Nathalie Gauchet</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>136</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>93</N_x00B0_dép>
+<NomComité>Comité de V A S T du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o LABORDE Josette</Adresse1>
+<Adresse2>51 avenue Vercingétorix</Adresse2>
+<CodeP>93600</CodeP>
+<Ville>AULNAY SOUS BOIS</Ville>
+<Téléphone>0148791939</Téléphone>
+<Mobile>06 85 90 04 15</Mobile>
+<Fax>0632384290</Fax>
+<Courriel>vast@mvtpaix.org</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>137</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>93</N_x00B0_dép>
+<NomComité>Comité de Bobigny du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Yvonne D&apos;Henry</Adresse1>
+<Adresse2>47 avenue Georges Pompidou - Bät A n° 9</Adresse2>
+<CodeP>93320</CodeP>
+<Ville>LES PAVILLONS SOUS BOIS</Ville>
+<Courriel>bobigny@mvtpaix.org</Courriel>
+<Contact>Yvonne D&apos;Henry</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>138</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>92</N_x00B0_dép>
+<NomComité>Comité de Nanterre du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Jean Paul &amp; Yolande Traimond</Adresse1>
+<Adresse2>26 rue du Docteur Foucault</Adresse2>
+<CodeP>92000</CodeP>
+<Ville>NANTERRE</Ville>
+<Téléphone>0147253452</Téléphone>
+<Courriel>yolande.traimond@orange.fr; e.aymard@voila.fr</Courriel>
+<Contact>Yolande Traimond - 01 47 25 34 52 / Evelyne Aymard - 01 47 25 07 65</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>139</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>73</N_x00B0_dép>
+<NomComité>Comité de Chambéry du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>Maison des Assonciations</Adresse1>
+<Adresse2>67 rue St François - Boîte C1</Adresse2>
+<CodeP>73000</CodeP>
+<Ville>CHAMBERY</Ville>
+<Téléphone>0479859491</Téléphone>
+<Courriel>chambery@mvtpaix.org; guillermin.pascale@wanadoo.fr; laurette.mugnier@orange.fr</Courriel>
+<Contact>Marie Chabord</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>143</RéfComité>
+<Région>Lorraine</Région>
+<N_x00B0_dép>88</N_x00B0_dép>
+<NomComité>Comité des Vosges du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Claude Lhote</Adresse1>
+<Adresse2>41 rue Jean Mermoz</Adresse2>
+<CodeP>88190</CodeP>
+<Ville>GOLBEY</Ville>
+<Téléphone>0329311737</Téléphone>
+<Courriel>yvonne.lhote@wanadoo.fr</Courriel>
+<Contact>Claude Lhote</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>144</RéfComité>
+<Région>Pays-de-la-Loire</Région>
+<N_x00B0_dép>85</N_x00B0_dép>
+<NomComité>Comité départemental de Vendée les Sables d&apos;Olonne du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>C/o Bertrand Lavigne</Adresse1>
+<Adresse2>Rd. La Corolle - 2 rue de la Poissonnerie</Adresse2>
+<CodeP>85100</CodeP>
+<Ville>LES SABLES D OLONNE</Ville>
+<Téléphone>0251239275</Téléphone>
+<Mobile>06 72 14 58 70</Mobile>
+<Courriel>bertrand39.lavigne@orange.fr</Courriel>
+<Contact>Bertrand Lavigne</Contact>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>145</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>26</N_x00B0_dép>
+<NomComité>Comité de Crest du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o FAYART Franck</Adresse1>
+<Adresse2>Route de la Gare</Adresse2>
+<CodeP>26400</CodeP>
+<Ville>ALLEX</Ville>
+<Téléphone>0475627879</Téléphone>
+<Courriel>fayardallex@wanadoo.fr</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>146</RéfComité>
+<Région>Aquitaine</Région>
+<N_x00B0_dép>33</N_x00B0_dép>
+<NomComité>Comité de Talence du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o DOMERGUE Monique</Adresse1>
+<Adresse2>26 rue Raymond Aron - Clos Leyssotte</Adresse2>
+<CodeP>33400</CodeP>
+<Ville>TALENCE</Ville>
+<Téléphone>0556371826</Téléphone>
+<Courriel>mdomergue1@free.fr</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>171</RéfComité>
+<Région>Aquitaine</Région>
+<N_x00B0_dép>33</N_x00B0_dép>
+<NomComité>Comité de Bègles du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o ALCORTA Martine</Adresse1>
+<Adresse2>42 avenue Roger Salengro</Adresse2>
+<CodeP>33130</CodeP>
+<Ville>BEGLES</Ville>
+<Mobile>06 13 23 24 85</Mobile>
+<Courriel>martine.alcorta@wanadoo.fr</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>173</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>93</N_x00B0_dép>
+<NomComité>Comité de Montreuil du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o LEGER Alain</Adresse1>
+<Adresse2>15 rue kleber</Adresse2>
+<CodeP>93100</CodeP>
+<Ville>MONTREUIL</Ville>
+<Téléphone>0620881645</Téléphone>
+<Courriel>alain.leger@wanadoo.mvtpaix.org</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>252</RéfComité>
+<Région>Champagne-Ardennes</Région>
+<N_x00B0_dép>1</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de l&apos;Ain</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o BIENAIME Josette</Adresse1>
+<Adresse2>84 Bois Chatton - rue Voilnans</Adresse2>
+<CodeP>01210</CodeP>
+<Ville>VERSONNEX</Ville>
+<Téléphone>0450411605</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>253</RéfComité>
+<Région>Auvergne</Région>
+<N_x00B0_dép>3</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de l&apos;Allier</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o PICANDET Nicole</Adresse1>
+<Adresse2>10 place de la Poterie</Adresse2>
+<CodeP>03000</CodeP>
+<Ville>MONTLUCON</Ville>
+<Téléphone>0470057011</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>254</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>6</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de Nice</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o GOURDON Louis</Adresse1>
+<Adresse2>39 boulevard de Cimiez</Adresse2>
+<CodeP>06000</CodeP>
+<Ville>NICE</Ville>
+<Téléphone>0493532520</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>256</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>6</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de Saint Laurent du Var</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o PELLEGRIN Louis</Adresse1>
+<Adresse2>41 allée Jeanne d&apos;Arc</Adresse2>
+<CodeP>06700</CodeP>
+<Ville>SAINT LAURENT DU VAR</Ville>
+<Téléphone>0493149694</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>257</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>7</N_x00B0_dép>
+<NomComité>Comité du Mouvement de la Paix de Vallon Pont d&apos;Arc</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o COHEN Fernand</Adresse1>
+<Adresse2>10 rue de l&apos;Arceau St Martin</Adresse2>
+<CodeP>07150</CodeP>
+<Ville>VALLON PONT D ARC</Ville>
+<Téléphone>0475371662</Téléphone>
+<Courriel>nehoc-peintre@orange.fr</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>258</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>7</N_x00B0_dép>
+<NomComité>Comité pour la Paix d&apos;Aubenas</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>Centre le Bournot</Adresse1>
+<CodeP>07200</CodeP>
+<Ville>AUBENAS</Ville>
+<Mobile>06 41 52 06 22</Mobile>
+<Courriel>comitepaixaubenas@ardechelibre.fr</Courriel>
+<Contact>Marie Orset</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>259</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>7</N_x00B0_dép>
+<NomComité>Comité pour la Paix de Tournon Tain</NomComité>
+<Adresse1>C/o Jean Michel Galland</Adresse1>
+<Adresse2>133 rue Rosa Luxembourg</Adresse2>
+<CodeP>07300</CodeP>
+<Ville>TOURNON</Ville>
+<Téléphone>0475082319</Téléphone>
+<Mobile>06 75 04 69 57</Mobile>
+<Courriel>jmgalland@orange.fr</Courriel>
+<Contact>Jean Michel Galland</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>260</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>9</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de l&apos;Ariège</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o COLLANGES Henri</Adresse1>
+<Adresse2>1 rue de la République</Adresse2>
+<CodeP>09270</CodeP>
+<Ville>MAZERES</Ville>
+<Téléphone>0561694899</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>261</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>9</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de l&apos;Ariège</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o SUTRA Jean Charles</Adresse1>
+<Adresse2>14 rue Porte en Rivière</Adresse2>
+<CodeP>09600</CodeP>
+<Ville>LAROQUE D OLMES</Ville>
+<Téléphone>0561018959</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>262</RéfComité>
+<Région>Champagne-Ardennes</Région>
+<N_x00B0_dép>10</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de l&apos;Aube</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o PLANSON Henri</Adresse1>
+<Adresse2>26 rue de la Gare</Adresse2>
+<CodeP>10800</CodeP>
+<Ville>SAINT JULIEN LES VILLAS</Ville>
+<Téléphone>0325822752</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>263</RéfComité>
+<Région>Languedoc-Roussillon</Région>
+<N_x00B0_dép>11</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de l&apos;Aude</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o DESGUERRE Roland</Adresse1>
+<Adresse2>3 rue Claude Monet</Adresse2>
+<CodeP>11000</CodeP>
+<Ville>CARCASSONNE</Ville>
+<Mobile>06 98 47 86 31</Mobile>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>264</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>12</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de l&apos;Aveyron</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o BENEVENT Françoise</Adresse1>
+<Adresse2>Les Cousteils</Adresse2>
+<CodeP>12200</CodeP>
+<Ville>SANVENSA</Ville>
+<Téléphone>0565298431</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>265</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>13</N_x00B0_dép>
+<NomComité>Association de l&apos;Appel des Cent pour la Paix d&apos;Aubagne / Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Michel Amar</Adresse1>
+<Adresse2>49 Clos du Télégraphe - 117 impasse des Cyclamens</Adresse2>
+<CodeP>13400</CodeP>
+<Ville>AUBAGNE</Ville>
+<Téléphone>0442035838</Téléphone>
+<Mobile>06 83 87 00 83</Mobile>
+<Courriel>michelamar13@free.fr</Courriel>
+<Contact>michelamar13@free.fr</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>266</RéfComité>
+<Région>Poitou-Charente</Région>
+<N_x00B0_dép>16</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de Charente</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o GRENET Josiane</Adresse1>
+<Adresse2>Le Presbytere - Cédex 70</Adresse2>
+<CodeP>16600</CodeP>
+<Ville>TOUVRE</Ville>
+<Téléphone>0445656244</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>268</RéfComité>
+<Région>Corse</Région>
+<N_x00B0_dép>20</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de Corse</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o CASAMARTA Serge</Adresse1>
+<Adresse2>21 avenue Napoléon III - Les Floralies</Adresse2>
+<CodeP>20000</CodeP>
+<Ville>AJACCIO</Ville>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>269</RéfComité>
+<Région>Bourgogne</Région>
+<N_x00B0_dép>21</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de Côte d&apos;Or</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o PARIS Christian</Adresse1>
+<Adresse2>19 Grande Rue</Adresse2>
+<CodeP>21220</CodeP>
+<Ville>URCY</Ville>
+<Téléphone>0380497555</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>270</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>22</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix des Côtes d&apos;Armor</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o RECOURSE Paul</Adresse1>
+<Adresse2>34 rue Jean Bart</Adresse2>
+<CodeP>22000</CodeP>
+<Ville>SAINT BRIEUC</Ville>
+<Téléphone>0296615754</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>271</RéfComité>
+<Région>Franche-Comté</Région>
+<N_x00B0_dép>25</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix du Doubs</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o BOURQUIN Michel</Adresse1>
+<Adresse2>21 cité la Chevreuse</Adresse2>
+<CodeP>25870</CodeP>
+<Ville>CHATILLON LE DUC</Ville>
+<Téléphone>0381805391</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>272</RéfComité>
+<Région>Haute-Normandie</Région>
+<N_x00B0_dép>27</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de l&apos;Eure</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o ISAAC Bernard</Adresse1>
+<Adresse2>La Patte Frenettes</Adresse2>
+<CodeP>27290</CodeP>
+<Ville>THIERVILLE</Ville>
+<Téléphone>0232429552</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>273</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>29</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix du Finistère</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o GARDET Patrick</Adresse1>
+<Adresse2>22 bis rue Bruat</Adresse2>
+<CodeP>29200</CodeP>
+<Ville>BREST</Ville>
+<Téléphone>0298430541</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>274</RéfComité>
+<Région>Languedoc-Roussillon</Région>
+<N_x00B0_dép>30</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix du Gard</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o CHARLOT Jean Paul</Adresse1>
+<Adresse2>22 rue Varanda</Adresse2>
+<CodeP>30000</CodeP>
+<Ville>NIMES</Ville>
+<Téléphone>0466762089</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>275</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>31</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de Haute Garonne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o ROSEMBERG Christine</Adresse1>
+<Adresse2>7 rue Emile Guyon - Apt 182</Adresse2>
+<CodeP>31400</CodeP>
+<Ville>TOULOUSE</Ville>
+<Téléphone>0561140350</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>276</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>32</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix du Gers</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o VALADIE Rolande</Adresse1>
+<Adresse2>21 rue Chemin de Landon</Adresse2>
+<CodeP>32000</CodeP>
+<Ville>AUCH</Ville>
+<Téléphone>0562053649</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>277</RéfComité>
+<Région>Aquitaine</Région>
+<N_x00B0_dép>33</N_x00B0_dép>
+<NomComité>Les Amis de l&apos;Appel des Cent pour la Paix Collectif de la Gironde</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>44 cours Aristide Briand</Adresse1>
+<Adresse2>Case 43</Adresse2>
+<CodeP>33075</CodeP>
+<Ville>BORDEAUX CEDEX</Ville>
+<Téléphone>0556742342</Téléphone>
+<Courriel>an.martinez33@orange.fr</Courriel>
+<Contact>Antoinette Martinez</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>278</RéfComité>
+<Région>Languedoc-Roussillon</Région>
+<N_x00B0_dép>34</N_x00B0_dép>
+<NomComité>Collectif Biterrois de l&apos;Appel des Cent pour la Paix / Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Raymond Cubells</Adresse1>
+<Adresse2>7 avenue Michel de l&apos;Hospital</Adresse2>
+<CodeP>34500</CodeP>
+<Ville>BEZIERS</Ville>
+<Téléphone>0467763153</Téléphone>
+<Courriel>raycubells@wanadoo.fr</Courriel>
+<Contact>Raymond Cubells</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>279</RéfComité>
+<Région>Centre</Région>
+<N_x00B0_dép>36</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de l&apos;Indre</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o LEROUX André</Adresse1>
+<Adresse2>Marban</Adresse2>
+<CodeP>36130</CodeP>
+<Ville>DEOLS</Ville>
+<Téléphone>0254344751</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>280</RéfComité>
+<Région>Centre</Région>
+<N_x00B0_dép>37</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de l&apos;Indre et Loire</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o MOINDROT Gilles</Adresse1>
+<Adresse2>28 rue Danielle Casanova</Adresse2>
+<CodeP>37700</CodeP>
+<Ville>SAINT PIERRE DES CORPS</Ville>
+<Téléphone>0247444689</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>281</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>38</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de l&apos;Isère</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o BOTTIN Yves</Adresse1>
+<Adresse2>4 rue Ninon Vallin</Adresse2>
+<CodeP>38100</CodeP>
+<Ville>GRENOBLE</Ville>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>282</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>42</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de la Loire</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o FLANDIN Robert</Adresse1>
+<Adresse2>4 place Jean François Gonon</Adresse2>
+<CodeP>42000</CodeP>
+<Ville>SAINT ETIENNE</Ville>
+<Téléphone>0477219723</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>283</RéfComité>
+<Région>Pays-de-la-Loire</Région>
+<N_x00B0_dép>44</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de la Loire Atlantique</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o ROBERT Paul</Adresse1>
+<Adresse2>3 avenue de Gourin</Adresse2>
+<CodeP>44000</CodeP>
+<Ville>NANTES</Ville>
+<Téléphone>0240930349</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>285</RéfComité>
+<Région>Centre</Région>
+<N_x00B0_dép>45</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent du Loiret</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o LEFAUCHEUX Jean Pierre</Adresse1>
+<Adresse2>31 rue Paul Langevin</Adresse2>
+<CodeP>45400</CodeP>
+<Ville>FLEURY LES AUBRAIS</Ville>
+<Téléphone>0238735572</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>286</RéfComité>
+<Région>Aquitaine</Région>
+<N_x00B0_dép>47</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix du Lot et Garonne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o MACHINET Jean Louis</Adresse1>
+<Adresse2>Guillemon Bas</Adresse2>
+<CodeP>47360</CodeP>
+<Ville>PRAYSSAS</Ville>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>287</RéfComité>
+<Région>Languedoc-Roussillon</Région>
+<N_x00B0_dép>48</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de Lozère</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o LAMY Gérard</Adresse1>
+<Adresse2>Vernet</Adresse2>
+<CodeP>48240</CodeP>
+<Ville>ST PRIVAT DE VALLONGUE</Ville>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>289</RéfComité>
+<Région>Champagne-Ardennes</Région>
+<N_x00B0_dép>52</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de la Haute Marne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o SOCIE Bernard</Adresse1>
+<Adresse2>14 bis rue du Commandant Hugueny</Adresse2>
+<CodeP>52000</CodeP>
+<Ville>CHAUMONT</Ville>
+<Téléphone>0325325248</Téléphone>
+<Courriel>socie.bernard@wanadoo.fr</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>290</RéfComité>
+<Région>Pays-de-la-Loire</Région>
+<N_x00B0_dép>53</N_x00B0_dép>
+<NomComité>Comité départemental de la Mayenne du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<CodeP>53000</CodeP>
+<Ville>LAVAL</Ville>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>291</RéfComité>
+<Région>Lorraine</Région>
+<N_x00B0_dép>54</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de la Meurthe et Moselle</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o VARINOT Gérard</Adresse1>
+<Adresse2>134 rue Robert Schumann</Adresse2>
+<CodeP>54200</CodeP>
+<Ville>TOUL</Ville>
+<Téléphone>0383644727</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>292</RéfComité>
+<Région>Lorraine</Région>
+<N_x00B0_dép>55</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de la Meuse</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o LAMINI Nello</Adresse1>
+<Adresse2>1 rue Laurent Pons</Adresse2>
+<CodeP>55100</CodeP>
+<Ville>VERDUN</Ville>
+<Téléphone>0329862757</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>293</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>56</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix du Morbihan</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o PERRON Gérard</Adresse1>
+<Adresse2>10 rue Roger Martin du Gard</Adresse2>
+<CodeP>56700</CodeP>
+<Ville>HENNEBONT</Ville>
+<Téléphone>0297362555</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>294</RéfComité>
+<Région>Bourgogne</Région>
+<N_x00B0_dép>58</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de la Nièvre</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o RASO Marie Odile</Adresse1>
+<Adresse2>12 impasse du Professeur Calmette</Adresse2>
+<CodeP>58000</CodeP>
+<Ville>NEVERS</Ville>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>295</RéfComité>
+<Région>Nord-Pas-de-Calais</Région>
+<N_x00B0_dép>59</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix du Nord</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o DERINCK Christian</Adresse1>
+<Adresse2>42 rue de Bondues</Adresse2>
+<CodeP>59200</CodeP>
+<Ville>TOURCOING</Ville>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>296</RéfComité>
+<Région>Auvergne</Région>
+<N_x00B0_dép>63</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix du Puy de Dôme</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o BESSON Louis</Adresse1>
+<Adresse2>21 rue Saint Loup</Adresse2>
+<CodeP>63440</CodeP>
+<Ville>ROMAGNAT</Ville>
+<Téléphone>0473626325</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>297</RéfComité>
+<Région>Auvergne</Région>
+<N_x00B0_dép>63</N_x00B0_dép>
+<NomComité>Comité du Puy de Dôme du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Christine Thomas</Adresse1>
+<Adresse2>83 avenue Jean Noellet</Adresse2>
+<CodeP>63110</CodeP>
+<Ville>BEAUMONT</Ville>
+<Mobile>06 80 15 16 70</Mobile>
+<Courriel>christine.thomasbichon@wanadoo.fr</Courriel>
+<Contact>Christine Thomas</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>298</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>65</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix des Hautes Pyrénées</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o FORT William</Adresse1>
+<Adresse2>La Flemmardiere</Adresse2>
+<CodeP>65140</CodeP>
+<Ville>ST SEVER DE RUSTAN</Ville>
+<Téléphone>0562965141</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>300</RéfComité>
+<Région>Alsace</Région>
+<N_x00B0_dép>67</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix du Bas Rhin</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o VENDRAME Lucien</Adresse1>
+<Adresse2>2 rue des Chasseurs</Adresse2>
+<CodeP>67640</CodeP>
+<Ville>LIPSHEIM</Ville>
+<Téléphone>0388649672</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>301</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>69</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix Collectif du Rhône</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>19 rue de Marseille</Adresse1>
+<CodeP>69007</CodeP>
+<Ville>LYON</Ville>
+<Téléphone>0478610074</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>302</RéfComité>
+<Région>Franche-Comté</Région>
+<N_x00B0_dép>70</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de Haute Saône</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o POZZEBON Jean Marie</Adresse1>
+<Adresse2>Rue Thiers</Adresse2>
+<CodeP>70500</CodeP>
+<Ville>JUSSEY</Ville>
+<Téléphone>0384681229</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>303</RéfComité>
+<Région>Pays-de-la-Loire</Région>
+<N_x00B0_dép>72</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de la Sarthe</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o DEGAND Jean François</Adresse1>
+<Adresse2>4 rue d&apos;Arcole</Adresse2>
+<CodeP>72100</CodeP>
+<Ville>LE MANS</Ville>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>304</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>73</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de la Savoie</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o DUTRAIT Henriette</Adresse1>
+<Adresse2>Chemin de Drouilly</Adresse2>
+<CodeP>73800</CodeP>
+<Ville>LES MARCHES</Ville>
+<Téléphone>0479281183</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>305</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>73</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de la Savoie</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o CARRET Pierre</Adresse1>
+<Adresse2>25 rue des Flandres</Adresse2>
+<CodeP>73000</CodeP>
+<Ville>CHAMBERY</Ville>
+<Téléphone>0479720814</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>306</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>74</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de Haute Savoie</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o DENIZOT François</Adresse1>
+<Adresse2>16 rue des Ranes</Adresse2>
+<CodeP>74700</CodeP>
+<Ville>SALLANCHES</Ville>
+<Téléphone>0450581161</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>307</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>75</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de Paris</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o BOUDEVILLE Gilbert</Adresse1>
+<Adresse2>40 rue de la Justice</Adresse2>
+<CodeP>75020</CodeP>
+<Ville>PARIS</Ville>
+<Téléphone>0140318718</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>308</RéfComité>
+<Région>Haute-Normandie</Région>
+<N_x00B0_dép>76</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o LETELLIER Bernard</Adresse1>
+<Adresse2>120 avenue Jean Jaurès</Adresse2>
+<CodeP>76140</CodeP>
+<Ville>LE PETIT QUEVILLY</Ville>
+<Téléphone>0235631840</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>309</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>77</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de Seine et Marne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o DESCHAMP Marc</Adresse1>
+<Adresse2>Hôtel de Ville</Adresse2>
+<CodeP>77177</CodeP>
+<Ville>BROU SUR CHANTEREINE</Ville>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>310</RéfComité>
+<Région>Poitou-Charente</Région>
+<N_x00B0_dép>79</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix des Deux Sèvres</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o GODET Roger</Adresse1>
+<Adresse2>16 place Saint Pierre</Adresse2>
+<CodeP>79140</CodeP>
+<Ville>CERIZAY</Ville>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>312</RéfComité>
+<Région>Picardie</Région>
+<N_x00B0_dép>80</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de la Somme</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o RENAULT Michel</Adresse1>
+<Adresse2>14 rue Charles Floquet</Adresse2>
+<CodeP>80000</CodeP>
+<Ville>AMIENS</Ville>
+<Téléphone>0322920709</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>313</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>81</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix du Tarn</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o PUECH Yvan</Adresse1>
+<Adresse2>Saint jean de Marcel</Adresse2>
+<CodeP>81350</CodeP>
+<Ville>VALDERIES</Ville>
+<Téléphone>0563364186</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>314</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>82</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix du Tarn et Garonne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o CHAUCHEFOIN Guy</Adresse1>
+<Adresse2>12 rue Armand Fallieres</Adresse2>
+<CodeP>82000</CodeP>
+<Ville>MONTAUBAN</Ville>
+<Téléphone>0563660310</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>315</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>82</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix du Tarn et Garonne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o ROUFFIAC Geneviève</Adresse1>
+<Adresse2>3 impasse Courbet</Adresse2>
+<CodeP>82000</CodeP>
+<Ville>MONTAUBAN</Ville>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>316</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>84</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix du Vaucluse</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o PARIS Yvan</Adresse1>
+<Adresse2>Les Grillons - 250 Marius Jouveau</Adresse2>
+<CodeP>84270</CodeP>
+<Ville>VEDENE</Ville>
+<Téléphone>0490233151</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>317</RéfComité>
+<Région>Pays-de-la-Loire</Région>
+<N_x00B0_dép>85</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de la Vendée</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o MAJZER Jean Pierre</Adresse1>
+<Adresse2>31 rue des Sorelles - Le Fenouiller</Adresse2>
+<CodeP>85800</CodeP>
+<Ville>ST GILLES CROIX DE VIE</Ville>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>318</RéfComité>
+<Région>Poitou-Charente</Région>
+<N_x00B0_dép>86</N_x00B0_dép>
+<NomComité>Collectif de Poitiers de l&apos;Appel des Cent / Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Claude Géron</Adresse1>
+<Adresse2>2 rue de la Ganterie</Adresse2>
+<CodeP>86000</CodeP>
+<Ville>POITIERS</Ville>
+<Téléphone>0549582978</Téléphone>
+<Mobile>06 80 44 09 79</Mobile>
+<Courriel>claudine.geron1@wanadoo.fr</Courriel>
+<Contact>Claudine Géron</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>320</RéfComité>
+<Région>Limousin</Région>
+<N_x00B0_dép>87</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de la Haute Vienne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o ANGLERAUD Jackie</Adresse1>
+<Adresse2>7 rue Poussin</Adresse2>
+<CodeP>87100</CodeP>
+<Ville>LIMOGES</Ville>
+<Téléphone>0555770630</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>321</RéfComité>
+<Région>Bourgogne</Région>
+<N_x00B0_dép>89</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de l&apos;Yonne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o LANGOUREAU</Adresse1>
+<Adresse2>30 rue Michelet</Adresse2>
+<CodeP>89000</CodeP>
+<Ville>AUXERRE</Ville>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>322</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>91</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de l&apos;Essonne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o SCHUHL Claude</Adresse1>
+<Adresse2>43 avenue de l&apos;Espérance</Adresse2>
+<CodeP>91440</CodeP>
+<Ville>BURES SUR YVETTE</Ville>
+<Téléphone>0169074802</Téléphone>
+<Fax>0607960866</Fax>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>323</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>92</N_x00B0_dép>
+<NomComité>Collectif des Hauts de Seine de l&apos;Appel des Cent pour la Paix / Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o TRAIMOND Jean Paul &amp; Yolande</Adresse1>
+<Adresse2>26 rue du Docteur Foucault</Adresse2>
+<CodeP>92000</CodeP>
+<Ville>NANTERRE</Ville>
+<Téléphone>0147253452</Téléphone>
+<Courriel>yolande.traimond@orange.fr</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>324</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>93</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de Bagnolet</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Muriel Vaillant</Adresse1>
+<Adresse2>20 rue Louis David</Adresse2>
+<CodeP>93170</CodeP>
+<Ville>BAGNOLET</Ville>
+<Téléphone>0143608853</Téléphone>
+<Courriel>bagnoletpaix@gmail.com</Courriel>
+<Contact>Muriel Vaillant</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>327</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>95</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix du Val d&apos;Oise</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o BERNARD Michel</Adresse1>
+<Adresse2>Résid. Du Clos - 11 rue Henri Barbusse</Adresse2>
+<CodeP>95210</CodeP>
+<Ville>SAINT GRATIEN</Ville>
+<Téléphone>0139828274</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>328</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>95</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix du Val d&apos;Oise</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o DURAND Serge</Adresse1>
+<Adresse2>86 allée du Parc</Adresse2>
+<CodeP>95330</CodeP>
+<Ville>DOMONT</Ville>
+<Téléphone>0139914599</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>332</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>13</N_x00B0_dép>
+<NomComité>Comité du 5ème arrondissement de Marseille du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Catherine Aubron</Adresse1>
+<Adresse2>14 rue de Verdun</Adresse2>
+<CodeP>13005</CodeP>
+<Ville>MARSEILLE</Ville>
+<Courriel>marseille5@mvtpaix.org</Courriel>
+<Contact>Catherine Aubron</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>333</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>13</N_x00B0_dép>
+<NomComité>Correspondant du 9ème arrondissement de Marseille du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o MIGNONI Jean Louis</Adresse1>
+<Adresse2>Parc Berger - Le Phoebus F</Adresse2>
+<CodeP>13009</CodeP>
+<Ville>MARSEILLE</Ville>
+<Téléphone>0491412524</Téléphone>
+<Courriel>marseille9@mvtpaix.org</Courriel>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>334</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>13</N_x00B0_dép>
+<NomComité>Comité d&apos;Istres du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Michel Dolot</Adresse1>
+<Adresse2>27 B, Avenue Georges Guynemer</Adresse2>
+<CodeP>13800</CodeP>
+<Ville>ISTRES</Ville>
+<Téléphone>0490731933</Téléphone>
+<Mobile>06 79 53 96 41</Mobile>
+<Courriel>istres@mpvtpaix.org</Courriel>
+<Contact>Michel Dolot</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>335</RéfComité>
+<Région>Centre</Région>
+<N_x00B0_dép>45</N_x00B0_dép>
+<NomComité>Comité de Gien du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o DIEN Brigitte</Adresse1>
+<Adresse2>23 rue des Verdiers</Adresse2>
+<CodeP>45500</CodeP>
+<Ville>GIEN</Ville>
+<Téléphone>0238676607</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>336</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>73</N_x00B0_dép>
+<NomComité>Conseil départemental de Savoie du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Michel Gassilloud</Adresse1>
+<Adresse2>Immeuble le Tissot - 788 rte de Chambery</Adresse2>
+<CodeP>73200</CodeP>
+<Ville>GILLY SUR ISERE</Ville>
+<Téléphone>0479250548</Téléphone>
+<Courriel>michel.gassilloud@orange.fr</Courriel>
+<Contact>Michel Gassilloud</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>337</RéfComité>
+<Région>Pays-de-la-Loire</Région>
+<N_x00B0_dép>85</N_x00B0_dép>
+<NomComité>Collectif de la Paix du Pays des Sables d&apos; Olonnes</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>51 rue du Palais</Adresse1>
+<CodeP>85100</CodeP>
+<Ville>LES SABLES D OLONNE</Ville>
+<Téléphone>0251239275</Téléphone>
+<Courriel>85@mvtpaix.org</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>338</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>94</N_x00B0_dép>
+<NomComité>Conseil Val de Marnais du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>Maison des Associations</Adresse1>
+<Adresse2>Place du Moutier</Adresse2>
+<CodeP>94800</CodeP>
+<Ville>VILLEJUIF</Ville>
+<Mobile>06 95 63 73 64</Mobile>
+<Courriel>villejuif@mvtpaix.org</Courriel>
+<Contact>Guillaume Du Souich</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>339</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>94</N_x00B0_dép>
+<NomComité>Comité de Villejuif du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Alain Garcia Sanchez</Adresse1>
+<Adresse2>6 allée de la Capitainerie</Adresse2>
+<CodeP>94800</CodeP>
+<Ville>VILLEJUIF</Ville>
+<Mobile>06 87 03 73 66</Mobile>
+<Courriel>villejuif@mvtpaix.org</Courriel>
+<Contact>Alain Garcia</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>342</RéfComité>
+<Région>Corse</Région>
+<N_x00B0_dép>20</N_x00B0_dép>
+<NomComité>Comité de la Haute Corse du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o SODDU Sauveur</Adresse1>
+<Adresse2>7 rue Sainte Elisabeth</Adresse2>
+<CodeP>20200</CodeP>
+<Ville>BASTIA</Ville>
+<Mobile>06 19 38 01 46</Mobile>
+<Courriel>mouvementpaixHC@wanadoo.fr</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>347</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>1</N_x00B0_dép>
+<NomComité>Ain</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>348</RéfComité>
+<Région>Picardie</Région>
+<N_x00B0_dép>2</N_x00B0_dép>
+<NomComité>Aines</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>349</RéfComité>
+<Région>Auvergne</Région>
+<N_x00B0_dép>3</N_x00B0_dép>
+<NomComité>Allier</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>350</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>4</N_x00B0_dép>
+<NomComité>Alpes-de-Haute-Provence</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>351</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>5</N_x00B0_dép>
+<NomComité>Hautes-Alpes</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>352</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>6</N_x00B0_dép>
+<NomComité>Alpes-Maritimes</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>353</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>7</N_x00B0_dép>
+<NomComité>Ardèche</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>354</RéfComité>
+<Région>Champagne-Ardennes</Région>
+<N_x00B0_dép>8</N_x00B0_dép>
+<NomComité>Ardennes</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>355</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>9</N_x00B0_dép>
+<NomComité>Ariège</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>356</RéfComité>
+<Région>Champagne-Ardennes</Région>
+<N_x00B0_dép>10</N_x00B0_dép>
+<NomComité>Aube</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>357</RéfComité>
+<Région>Languedoc-Roussillon</Région>
+<N_x00B0_dép>11</N_x00B0_dép>
+<NomComité>Aude</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>358</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>12</N_x00B0_dép>
+<NomComité>Aveyron</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>360</RéfComité>
+<Région>Basse-Normandie</Région>
+<N_x00B0_dép>14</N_x00B0_dép>
+<NomComité>Calvados</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>361</RéfComité>
+<Région>Auvergne</Région>
+<N_x00B0_dép>15</N_x00B0_dép>
+<NomComité>Cantal</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>362</RéfComité>
+<Région>Poitou-Charente</Région>
+<N_x00B0_dép>16</N_x00B0_dép>
+<NomComité>Charente</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>363</RéfComité>
+<Région>Poitou-Charente</Région>
+<N_x00B0_dép>17</N_x00B0_dép>
+<NomComité>Charente-Maritime</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>364</RéfComité>
+<Région>Centre</Région>
+<N_x00B0_dép>18</N_x00B0_dép>
+<NomComité>Cher</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>365</RéfComité>
+<Région>Limousin</Région>
+<N_x00B0_dép>19</N_x00B0_dép>
+<NomComité>Corrèze</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>366</RéfComité>
+<Région>Bourgogne</Région>
+<N_x00B0_dép>21</N_x00B0_dép>
+<NomComité>Côte-d&apos;Or</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>367</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>22</N_x00B0_dép>
+<NomComité>Côtes-d&apos;Armor</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>368</RéfComité>
+<Région>Limousin</Région>
+<N_x00B0_dép>23</N_x00B0_dép>
+<NomComité>Creuse</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>369</RéfComité>
+<Région>Aquitaine</Région>
+<N_x00B0_dép>24</N_x00B0_dép>
+<NomComité>Dordogne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>370</RéfComité>
+<Région>Franche-Comté</Région>
+<N_x00B0_dép>25</N_x00B0_dép>
+<NomComité>Doubs</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>371</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>26</N_x00B0_dép>
+<NomComité>Drôme</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>372</RéfComité>
+<Région>Haute-Normandie</Région>
+<N_x00B0_dép>27</N_x00B0_dép>
+<NomComité>Eure</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>373</RéfComité>
+<Région>Centre</Région>
+<N_x00B0_dép>28</N_x00B0_dép>
+<NomComité>Eure-et-Loir</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>374</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>29</N_x00B0_dép>
+<NomComité>Finistère</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>375</RéfComité>
+<Région>Languedoc-Roussillon</Région>
+<N_x00B0_dép>30</N_x00B0_dép>
+<NomComité>Gard</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>376</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>31</N_x00B0_dép>
+<NomComité>Haute-Garonne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>377</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>32</N_x00B0_dép>
+<NomComité>Gers</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>378</RéfComité>
+<Région>Aquitaine</Région>
+<N_x00B0_dép>33</N_x00B0_dép>
+<NomComité>Gironde</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>379</RéfComité>
+<Région>Languedoc-Roussillon</Région>
+<N_x00B0_dép>34</N_x00B0_dép>
+<NomComité>Hérault</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>380</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>35</N_x00B0_dép>
+<NomComité>Ille-et-Vilaine</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>381</RéfComité>
+<Région>Centre</Région>
+<N_x00B0_dép>36</N_x00B0_dép>
+<NomComité>Indre</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>382</RéfComité>
+<Région>Centre</Région>
+<N_x00B0_dép>37</N_x00B0_dép>
+<NomComité>Indre-et-Loire</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>383</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>38</N_x00B0_dép>
+<NomComité>Isère</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>384</RéfComité>
+<Région>Franche-Comté</Région>
+<N_x00B0_dép>39</N_x00B0_dép>
+<NomComité>Jura</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>385</RéfComité>
+<Région>Aquitaine</Région>
+<N_x00B0_dép>40</N_x00B0_dép>
+<NomComité>Landes</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>386</RéfComité>
+<Région>Centre</Région>
+<N_x00B0_dép>41</N_x00B0_dép>
+<NomComité>Loir-et-Cher</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>387</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>42</N_x00B0_dép>
+<NomComité>Loire</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>388</RéfComité>
+<Région>Auvergne</Région>
+<N_x00B0_dép>43</N_x00B0_dép>
+<NomComité>Haute-Loire</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>389</RéfComité>
+<Région>Pays-de-la-Loire</Région>
+<N_x00B0_dép>44</N_x00B0_dép>
+<NomComité>Loire-Atlantique</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>390</RéfComité>
+<Région>Centre</Région>
+<N_x00B0_dép>45</N_x00B0_dép>
+<NomComité>Loiret</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>391</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>46</N_x00B0_dép>
+<NomComité>Lot</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>392</RéfComité>
+<Région>Aquitaine</Région>
+<N_x00B0_dép>47</N_x00B0_dép>
+<NomComité>Lot-et-Garonne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>393</RéfComité>
+<Région>Languedoc-Roussillon</Région>
+<N_x00B0_dép>48</N_x00B0_dép>
+<NomComité>Lozère</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>394</RéfComité>
+<Région>Pays-de-la-Loire</Région>
+<N_x00B0_dép>49</N_x00B0_dép>
+<NomComité>Maine-et-Loire</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>395</RéfComité>
+<Région>Basse-Normandie</Région>
+<N_x00B0_dép>50</N_x00B0_dép>
+<NomComité>Manche</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>396</RéfComité>
+<Région>Champagne-Ardennes</Région>
+<N_x00B0_dép>51</N_x00B0_dép>
+<NomComité>Marne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>397</RéfComité>
+<Région>Champagne-Ardennes</Région>
+<N_x00B0_dép>52</N_x00B0_dép>
+<NomComité>Haute-Marne</NomComité>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>398</RéfComité>
+<Région>Pays-de-la-Loire</Région>
+<N_x00B0_dép>53</N_x00B0_dép>
+<NomComité>Mayenne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>399</RéfComité>
+<Région>Lorraine</Région>
+<N_x00B0_dép>54</N_x00B0_dép>
+<NomComité>Meurthe-et-Moselle</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>400</RéfComité>
+<Région>Lorraine</Région>
+<N_x00B0_dép>55</N_x00B0_dép>
+<NomComité>Meuse</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>401</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>56</N_x00B0_dép>
+<NomComité>Morbihan</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>402</RéfComité>
+<Région>Lorraine</Région>
+<N_x00B0_dép>57</N_x00B0_dép>
+<NomComité>Moselle</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>403</RéfComité>
+<Région>Bourgogne</Région>
+<N_x00B0_dép>58</N_x00B0_dép>
+<NomComité>Nièvre</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>404</RéfComité>
+<Région>Nord-Pas-de-Calais</Région>
+<N_x00B0_dép>59</N_x00B0_dép>
+<NomComité>Nord</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>405</RéfComité>
+<Région>Picardie</Région>
+<N_x00B0_dép>60</N_x00B0_dép>
+<NomComité>Oise</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>406</RéfComité>
+<Région>Basse-Normandie</Région>
+<N_x00B0_dép>61</N_x00B0_dép>
+<NomComité>Orne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>407</RéfComité>
+<Région>Nord-Pas-de-Calais</Région>
+<N_x00B0_dép>62</N_x00B0_dép>
+<NomComité>Pas-de-Calais</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>408</RéfComité>
+<Région>Auvergne</Région>
+<N_x00B0_dép>63</N_x00B0_dép>
+<NomComité>Puy-de-Dôme</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>409</RéfComité>
+<Région>Aquitaine</Région>
+<N_x00B0_dép>64</N_x00B0_dép>
+<NomComité>Pyrénées-Atlantiques</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>410</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>65</N_x00B0_dép>
+<NomComité>Hautes-Pyrénées</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>411</RéfComité>
+<Région>Languedoc-Roussillon</Région>
+<N_x00B0_dép>66</N_x00B0_dép>
+<NomComité>Pyrénées-Orientales</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>412</RéfComité>
+<Région>Alsace</Région>
+<N_x00B0_dép>67</N_x00B0_dép>
+<NomComité>Bas-Rhin</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>413</RéfComité>
+<Région>Alsace</Région>
+<N_x00B0_dép>68</N_x00B0_dép>
+<NomComité>Haut-Rhin</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>414</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>69</N_x00B0_dép>
+<NomComité>Rhône</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>415</RéfComité>
+<Région>Franche-Comté</Région>
+<N_x00B0_dép>70</N_x00B0_dép>
+<NomComité>Haute-Saône</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>416</RéfComité>
+<Région>Bourgogne</Région>
+<N_x00B0_dép>71</N_x00B0_dép>
+<NomComité>Saône-et-Loire</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>417</RéfComité>
+<Région>Pays-de-la-Loire</Région>
+<N_x00B0_dép>72</N_x00B0_dép>
+<NomComité>Sarthe</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>418</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>73</N_x00B0_dép>
+<NomComité>Savoie</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>419</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>74</N_x00B0_dép>
+<NomComité>Haute-Savoie</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>420</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>75</N_x00B0_dép>
+<NomComité>Paris</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>421</RéfComité>
+<Région>Haute-Normandie</Région>
+<N_x00B0_dép>76</N_x00B0_dép>
+<NomComité>Seine-Maritime</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>422</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>77</N_x00B0_dép>
+<NomComité>Seine-et-Marne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>423</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>78</N_x00B0_dép>
+<NomComité>Yvelines</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>424</RéfComité>
+<Région>Poitou-Charente</Région>
+<N_x00B0_dép>79</N_x00B0_dép>
+<NomComité>Deux-Sèvres</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>425</RéfComité>
+<Région>Picardie</Région>
+<N_x00B0_dép>80</N_x00B0_dép>
+<NomComité>Somme</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>426</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>81</N_x00B0_dép>
+<NomComité>Tarn</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>427</RéfComité>
+<Région>Midi-Pyrénées</Région>
+<N_x00B0_dép>82</N_x00B0_dép>
+<NomComité>Tarn-et-Garonne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>428</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>83</N_x00B0_dép>
+<NomComité>Var</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>429</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>84</N_x00B0_dép>
+<NomComité>Vaucluse</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>430</RéfComité>
+<Région>Pays-de-la-Loire</Région>
+<N_x00B0_dép>85</N_x00B0_dép>
+<NomComité>Vendée</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>431</RéfComité>
+<Région>Poitou-Charente</Région>
+<N_x00B0_dép>86</N_x00B0_dép>
+<NomComité>Vienne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>432</RéfComité>
+<Région>Limousin</Région>
+<N_x00B0_dép>87</N_x00B0_dép>
+<NomComité>Haute-Vienne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>433</RéfComité>
+<Région>Lorraine</Région>
+<N_x00B0_dép>88</N_x00B0_dép>
+<NomComité>Vosges</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>434</RéfComité>
+<Région>Bourgogne</Région>
+<N_x00B0_dép>89</N_x00B0_dép>
+<NomComité>Yonne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>435</RéfComité>
+<Région>Franche-Comté</Région>
+<N_x00B0_dép>90</N_x00B0_dép>
+<NomComité>Territoire de Belfort</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>436</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>91</N_x00B0_dép>
+<NomComité>Essonne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>437</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>92</N_x00B0_dép>
+<NomComité>Hauts-de-Seine</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>438</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>93</N_x00B0_dép>
+<NomComité>Seine-Saint-Denis</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>439</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>94</N_x00B0_dép>
+<NomComité>Val-de-Marne</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>440</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>95</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix du Val d&apos;Oise</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o GREGOIRE Gérard</Adresse1>
+<Adresse2>21 rue Claret</Adresse2>
+<CodeP>95500</CodeP>
+<Ville>GONESSE</Ville>
+<Téléphone>0139855217</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>443</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>93</N_x00B0_dép>
+<NomComité>Conseil départemental de la Seine Saint Denis du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>La Maison de la Paix</Adresse1>
+<Adresse2>9 rue Dulcie September</Adresse2>
+<CodeP>93400</CodeP>
+<Ville>SAINT OUEN</Ville>
+<Mobile>06 46 87 29 01</Mobile>
+<Courriel>marchionimireille2@gmail.com</Courriel>
+<Contact>Mireille Marchioni</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>444</RéfComité>
+<Région>Languedoc-Roussillon</Région>
+<N_x00B0_dép>66</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix des Pyrénées Orientales</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o KAMINKER Jean Pierre</Adresse1>
+<Adresse2>Le Mas Gource</Adresse2>
+<CodeP>66400</CodeP>
+<Ville>CERET</Ville>
+<Téléphone>0468870394</Téléphone>
+<Courriel>jp.kam@wanadoo.fr</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>445</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>29</N_x00B0_dép>
+<NomComité>Comité de Concarneau Sud Cornouaille</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Christian Colimard</Adresse1>
+<Adresse2>1 rue de la Corvette</Adresse2>
+<CodeP>29900</CodeP>
+<Ville>CONCARNEAU</Ville>
+<Téléphone>0298974236</Téléphone>
+<Mobile>06 67 90 42 64</Mobile>
+<Courriel>christian.colimard@orange.fr</Courriel>
+<Contact>Christian Colimard</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>447</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>95</N_x00B0_dép>
+<NomComité>Conseil du Val d&apos;Oise du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>Espace Mandela</Adresse1>
+<Adresse2>82 bd du Général Leclerc</Adresse2>
+<CodeP>95100</CodeP>
+<Ville>ARGENTEUIL</Ville>
+<Mobile>06 13 22 72 52</Mobile>
+<Courriel>raoul.alonso@mvtpaix.org; nkundabashaka2000@yahoo.fr</Courriel>
+<Contact>Raoul Alonso</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>448</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>42</N_x00B0_dép>
+<NomComité>Comité de la Ricamarie du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Andrée Royon</Adresse1>
+<Adresse2>36 rue Jean Marie Pons</Adresse2>
+<CodeP>42150</CodeP>
+<Ville>LA RICAMARIE</Ville>
+<Courriel>flattet.c@wanadoo.fr</Courriel>
+<Contact>Andrée Royon</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>450</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>56</N_x00B0_dép>
+<NomComité>Comité du Morbihan du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>Maison pour Tous</Adresse1>
+<Adresse2>Parc de Kerbihan</Adresse2>
+<CodeP>56700</CodeP>
+<Ville>HENNEBONT</Ville>
+<Téléphone>0297366162</Téléphone>
+<Courriel>mvtpaix.morbihan@orange.fr</Courriel>
+<Contact>Noëlla Chabreyron</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<Date_x0020_de_x0020_déclaration>1996-10-02T00:00:00</Date_x0020_de_x0020_déclaration>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Date_x0020_parution_x0020_JO>1996-10-16T00:00:00</Date_x0020_parution_x0020_JO>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>451</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>13</N_x00B0_dép>
+<NomComité>Comité Jeunes du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o DESMARAIS Cédric</Adresse1>
+<Adresse2>16 rue Fortin</Adresse2>
+<CodeP>13005</CodeP>
+<Ville>MARSEILLE</Ville>
+<Mobile>06 68 53 51 07</Mobile>
+<Courriel>cedric.desmarais@mvtpaix.org</Courriel>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>452</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>69</N_x00B0_dép>
+<NomComité>Comité de Givors Grigny du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Judith Passi</Adresse1>
+<Adresse2>2 place Pasteur</Adresse2>
+<CodeP>69700</CodeP>
+<Ville>GIVORS</Ville>
+<Téléphone>0478734755</Téléphone>
+<Courriel>givorsgrigny@mvtpaix.org</Courriel>
+<Contact>Judith Passi</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>454</RéfComité>
+<Région>Etranger</Région>
+<N_x00B0_dép>99</N_x00B0_dép>
+<NomComité>Etranger</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>455</RéfComité>
+<Région>Basse-Normandie</Région>
+<N_x00B0_dép>14</N_x00B0_dép>
+<NomComité>Comité de Lisieux du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o GRISE Mireille</Adresse1>
+<Adresse2>Résidence les Hauts de Viette</Adresse2>
+<CodeP>14140</CodeP>
+<Ville>STE MARGUERITE DE VIETTE</Ville>
+<Téléphone>0231206237</Téléphone>
+<Courriel>lisieux@mvtpaix.org</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>456</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>13</N_x00B0_dép>
+<NomComité>Comité de Paix du Comité d&apos;Entreprise Cheminots PACA</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>19 rue Bénédit</Adresse1>
+<CodeP>13001</CodeP>
+<Ville>MARSEILLE</Ville>
+<Téléphone>0495042741</Téléphone>
+<Mobile>06 15 29 28 24</Mobile>
+<Courriel>cheminotpaca@mvtpaix.org</Courriel>
+<Contact>Jacques Mollemeyer</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>457</RéfComité>
+<Région>Haute-Normandie</Région>
+<N_x00B0_dép>76</N_x00B0_dép>
+<NomComité>Comité du Havre du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Marie Claire Jegaden</Adresse1>
+<Adresse2>30 rue des Trembles</Adresse2>
+<CodeP>76610</CodeP>
+<Ville>LE HAVRE</Ville>
+<Téléphone>0235490017</Téléphone>
+<Courriel>jljegaden@wanadoo.fr</Courriel>
+<Contact>Marie Claire Jegaden</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>458</RéfComité>
+<Région>Centre</Région>
+<N_x00B0_dép>45</N_x00B0_dép>
+<NomComité>Comité d&apos;Orléans et du Loiret du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>Maison des Associations la Source</Adresse1>
+<Adresse2>5 place Sainte Beuve</Adresse2>
+<CodeP>45100</CodeP>
+<Ville>ORLEANS</Ville>
+<Mobile>06 43 48 29 93</Mobile>
+<Courriel>45@mvtpaix.org</Courriel>
+<Contact>Vivianne Bichet</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>459</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>75</N_x00B0_dép>
+<NomComité>Collectif de l&apos;Appel des Cent pour la Paix de Paris / Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o SICART Anick</Adresse1>
+<Adresse2>6 boulevard Auguste Blanqui</Adresse2>
+<CodeP>75013</CodeP>
+<Ville>PARIS</Ville>
+<Courriel>anick.sicart@wanadoo.fr</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>461</RéfComité>
+<Région>Haute-Normandie</Région>
+<N_x00B0_dép>76</N_x00B0_dép>
+<NomComité>Comité de Gonfreville l&apos;Orcher du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o L HERICEL Georges</Adresse1>
+<Adresse2>1 rue F. Joliot Curie</Adresse2>
+<CodeP>76700</CodeP>
+<Ville>GONFREVILLE LORCHER</Ville>
+<Téléphone>0235477842</Téléphone>
+<Fax>0235477842</Fax>
+<Courriel>georgeslhericel@sfr.fr</Courriel>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>463</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>22</N_x00B0_dép>
+<NomComité>Comité de Lannion du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Jean Paul Menou</Adresse1>
+<Adresse2>8 impasse du Manoir</Adresse2>
+<CodeP>22310</CodeP>
+<Ville>PLESTIN LES GREVES</Ville>
+<Téléphone>0296541138</Téléphone>
+<Courriel>menou.jjp@orange.fr</Courriel>
+<Contact>Jean Paul Menou</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>464</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>29</N_x00B0_dép>
+<NomComité>Comité de Quimper du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o RANNOU Marcel</Adresse1>
+<Adresse2>11 cité Moulin du Pont</Adresse2>
+<CodeP>29170</CodeP>
+<Ville>PLEUVEN</Ville>
+<Téléphone>0298546600</Téléphone>
+<Courriel>quimper@mvtpaix.org</Courriel>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>465</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>29</N_x00B0_dép>
+<NomComité>Correspondant de Chateauneuf du Faou du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o AR GOARNIG Patrick</Adresse1>
+<CodeP>29520</CodeP>
+<Ville>SAINT GOAZEC</Ville>
+<Téléphone>0603723432</Téléphone>
+<Courriel>argoarnig@gmail.com</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>466</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>35</N_x00B0_dép>
+<NomComité>Comité de Saint Malo du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Jacques Jensen</Adresse1>
+<Adresse2>5 croix des Marais</Adresse2>
+<CodeP>35400</CodeP>
+<Ville>SAINT MALO</Ville>
+<Téléphone>0299813091</Téléphone>
+<Courriel>saintmalo@mvtpaix.org</Courriel>
+<Contact>Jacques Jensen</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>467</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>29</N_x00B0_dép>
+<NomComité>Correspondant de Carhaix du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Marie Hélène Camus</Adresse1>
+<CodeP>29270</CodeP>
+<Ville>CARHAIX PLOUGIER</Ville>
+<Courriel>carhaix@mvtpaix.org</Courriel>
+<Contact>Marie Hélène Camus</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>470</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>13</N_x00B0_dép>
+<NomComité>Comité du Mouvement de la Paix de Roquevaire</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Monique Ravel</Adresse1>
+<Adresse2>Avenue des Alliés</Adresse2>
+<CodeP>13360</CodeP>
+<Ville>ROQUEVAIRE</Ville>
+<Courriel>roquevaire@mvtpaix.org</Courriel>
+<Contact>Monique Ravel</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>471</RéfComité>
+<Région>Basse-Normandie</Région>
+<N_x00B0_dép>14</N_x00B0_dép>
+<NomComité>Comité de Caen du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Régine Scaps</Adresse1>
+<Adresse2>5 rue de la Marne</Adresse2>
+<CodeP>14000</CodeP>
+<Ville>CAEN</Ville>
+<Téléphone>0231938207</Téléphone>
+<Courriel>regine.scaps2@gmail.com</Courriel>
+<Contact>Régine Scaps</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>472</RéfComité>
+<Région>Nord-Pas-de-Calais</Région>
+<N_x00B0_dép>59</N_x00B0_dép>
+<NomComité>Comité de Lille du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Michel Ascher</Adresse1>
+<Adresse2>5 rue Louis Delos</Adresse2>
+<CodeP>59000</CodeP>
+<Ville>LILLE</Ville>
+<Mobile>06 43 72 38 80</Mobile>
+<Courriel>michel.ascher@orange.fr</Courriel>
+<Contact>Michel Ascher</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>473</RéfComité>
+<Région>Nord-Pas-de-Calais</Région>
+<N_x00B0_dép>62</N_x00B0_dép>
+<NomComité>Comité de Arras du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Marianne Dunlop</Adresse1>
+<Adresse2>74 rue Gustave Colin</Adresse2>
+<CodeP>62000</CodeP>
+<Ville>ARRAS</Ville>
+<Téléphone>0321738921</Téléphone>
+<Courriel>marianne.dunlop@laposte.net</Courriel>
+<Contact>Marianne Dunlop</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>474</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>69</N_x00B0_dép>
+<NomComité>Comité Lyonnais du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Magali Picano</Adresse1>
+<Adresse2>89 route de Vienne</Adresse2>
+<CodeP>69007</CodeP>
+<Ville>LYON</Ville>
+<Téléphone>0950060821</Téléphone>
+<Mobile>06 95 24 93 12</Mobile>
+<Courriel>lyon@mvtpaix.org; magali.picano@mvtpaix.org</Courriel>
+<Contact>Magali Picano Nacci &amp; Raphaël Da Silva</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>475</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>83</N_x00B0_dép>
+<NomComité>Comité Varois du  Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>22 bis rue Antrechaus</Adresse1>
+<CodeP>83000</CodeP>
+<Ville>TOULON</Ville>
+<Mobile> 06 37 56 3 48</Mobile>
+<Courriel>mvtpaix83@gmail.com</Courriel>
+<Contact>Hervé BAYLAC - baylac.herve@wanadoo.fr</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>476</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>73</N_x00B0_dép>
+<NomComité>Comité d&apos;Avant-Pays-Savoyard du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Michel Vandel</Adresse1>
+<Adresse2>3 rue des Noisetiers</Adresse2>
+<CodeP>73330</CodeP>
+<Ville>LE PON DE BEAUVOISIN</Ville>
+<Téléphone>0476328475</Téléphone>
+<Courriel>mic.vandel@orange.fr</Courriel>
+<Contact>Michel Vandel</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>477</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>74</N_x00B0_dép>
+<NomComité>Comité d&apos;Annecy du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Christiane Monnier</Adresse1>
+<Adresse2>11 rue de l&apos;Arlequin</Adresse2>
+<CodeP>74960</CodeP>
+<Ville>CRAN GEVRIER</Ville>
+<Téléphone>0450622258</Téléphone>
+<Courriel>cris.monnier@free.fr</Courriel>
+<Contact>Christianne Monnier</Contact>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>478</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>93</N_x00B0_dép>
+<NomComité>Comité de Tremblay en France du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Yvette Gomas</Adresse1>
+<Adresse2>9 avenue Pasteur - Appt 313</Adresse2>
+<CodeP>93290</CodeP>
+<Ville>TREMBLAY EN FRANCE</Ville>
+<Mobile>06 69 43 50 56</Mobile>
+<Courriel>yvette_gomas@hotmail.fr</Courriel>
+<Contact>Yvette Gomas</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>479</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>5</N_x00B0_dép>
+<NomComité>Comité de Buëch-Dévoluy du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>Maison des associations et des Syndicats</Adresse1>
+<Adresse2>Avenue des Martyrs</Adresse2>
+<CodeP>05400</CodeP>
+<Ville>VEYNES</Ville>
+<Téléphone>0492580646</Téléphone>
+<Courriel>buech-devoluy@mvtpaix.org</Courriel>
+<Contact>Lionel Blanchard</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>480</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>93</N_x00B0_dép>
+<NomComité>Conseil Francilien du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>La Maison de la Paix</Adresse1>
+<Adresse2>9 rue Dulcie September</Adresse2>
+<CodeP>93400</CodeP>
+<Ville>SAINT OUEN</Ville>
+<Mobile>06 74 29 37 37</Mobile>
+<Courriel>iledefrance@mvtpaix.org</Courriel>
+<Contact>Yves Jean Gallas</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>481</RéfComité>
+<Région>Etranger</Région>
+<N_x00B0_dép>98</N_x00B0_dép>
+<NomComité>Etranger</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>483</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>5</N_x00B0_dép>
+<NomComité>Comité du Gapençais du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>Centre Social du Centre Ville</Adresse1>
+<Adresse2>Rue Pasteur Prolongée</Adresse2>
+<CodeP>05000</CodeP>
+<Ville>GAP</Ville>
+<Mobile>06 18 48 16 85</Mobile>
+<Courriel>gap@mvtpaix.org</Courriel>
+<Contact>Nicole Castellas</Contact>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>485</RéfComité>
+<Région>Bretagne</Région>
+<N_x00B0_dép>56</N_x00B0_dép>
+<NomComité>Comité du Mouvement de la Paix de Vannes</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Nolwenn Le Gal</Adresse1>
+<Adresse2>6 rue Thomas de Closmadeuc</Adresse2>
+<CodeP>56000</CodeP>
+<Ville>VANNES</Ville>
+<Mobile>06 67 47 36 08</Mobile>
+<Courriel>mvtpx.vanne@yahoo.fr</Courriel>
+<Contact>Nolwenn Le Gal</Contact>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>486</RéfComité>
+<Région>Rhône-Alpes</Région>
+<N_x00B0_dép>73</N_x00B0_dép>
+<NomComité>Comité de Maurienne du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>C/o Joëlle Blanc Coquand</Adresse1>
+<Adresse2>406 rue Georges Clémenceau</Adresse2>
+<CodeP>73300</CodeP>
+<Ville>SAINT JEAN DE MAURIENNE</Ville>
+<Mobile>06 45 09 92 02</Mobile>
+<Contact>Joëlle Blanc Coquand</Contact>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>487</RéfComité>
+<N_x00B0_dép>84</N_x00B0_dép>
+<NomComité>Comité de Avignon du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<CodeP>84000</CodeP>
+<Ville>AVIGNON</Ville>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>488</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>13</N_x00B0_dép>
+<NomComité>Comité du Mouvement de la Paix d&apos;Auriol</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Roger Fabien</Adresse1>
+<Adresse2>Avenue Marceau Julien</Adresse2>
+<CodeP>13390</CodeP>
+<Ville>AURIOL</Ville>
+<Mobile>06 74 06 72 35</Mobile>
+<Contact>Fabien Roger</Contact>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>489</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>13</N_x00B0_dép>
+<NomComité>Comité de Paix de Saint Savournin</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Jean Jacques Riot</Adresse1>
+<Adresse2>552 chemin du Château</Adresse2>
+<CodeP>13119</CodeP>
+<Ville>SAINT SAVOURNIN</Ville>
+<Mobile>06 15 53 51 31</Mobile>
+<Courriel>jjcm55@orange.fr</Courriel>
+<Contact>Jean Jacques Riot</Contact>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>490</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>13</N_x00B0_dép>
+<NomComité>Coordination Régionale du Mouvement de la Paix PACA</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>45 rue Forbin</Adresse1>
+<CodeP>13002</CodeP>
+<Ville>MARSEILLE</Ville>
+<Téléphone>0491914700</Téléphone>
+<Mobile>06 88 43 79 93</Mobile>
+<Courriel>13@mvtpaix.org</Courriel>
+<Contact>Régine Minetty</Contact>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>491</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>13</N_x00B0_dép>
+<NomComité>Collectif Paix Cheminots de Miramas</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<CodeP>13140</CodeP>
+<Ville>MIRAMAS</Ville>
+<Courriel>marcel.almero@gmail.com</Courriel>
+<Contact>Marcel Alméro</Contact>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>non</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>492</RéfComité>
+<N_x00B0_dép>54</N_x00B0_dép>
+<NomComité>Comité Sud 54 du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Patrick Falgas</Adresse1>
+<Adresse2>64 rue d&apos;Alsace</Adresse2>
+<CodeP>54300</CodeP>
+<Ville>LUNEVILLE</Ville>
+<Téléphone>0383741779</Téléphone>
+<Courriel>pfalgas@orange.fr</Courriel>
+<Contact>Patrick Falgas</Contact>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>493</RéfComité>
+<Région>Basse-Normandie</Région>
+<N_x00B0_dép>61</N_x00B0_dép>
+<NomComité>Comité départemental de l&apos;Orne du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>2</N_x00B0_catégorie>
+<Adresse1>Maison de la vie Associative</Adresse1>
+<Adresse2>85 rue Cazault</Adresse2>
+<CodeP>61000</CodeP>
+<Ville>ALENCON</Ville>
+<Téléphone>0975716860</Téléphone>
+<Mobile>06 41 44 32 75</Mobile>
+<Courriel>dpostaire@gmail.com</Courriel>
+<Contact>Daniel Postaire</Contact>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>494</RéfComité>
+<Région>Provence-Alpes-Côte d&apos;Azur</Région>
+<N_x00B0_dép>84</N_x00B0_dép>
+<NomComité>Comité de l&apos;Isle sur la Sorgue du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Françoise &amp; Gérard Godefroy</Adresse1>
+<Adresse2>1237 chemin des Ballardes</Adresse2>
+<CodeP>84800</CodeP>
+<Ville>LAGNES</Ville>
+<Contact>Françoise &amp; Gérard Godefroy</Contact>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>495</RéfComité>
+<Région>Île-de-France</Région>
+<N_x00B0_dép>93</N_x00B0_dép>
+<NomComité>Comité de Gennevilliers du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>Mairie de Gennevilliers</Adresse1>
+<Adresse2>177 avenue Gabriel Péri</Adresse2>
+<CodeP>93230</CodeP>
+<Ville>GENNEVILLIERS</Ville>
+<Mobile>06 34 47 35 82</Mobile>
+<Courriel>alperes92@yahoo.fr</Courriel>
+<Contact>Anne Laure Pérez</Contact>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>496</RéfComité>
+<N_x00B0_dép>88</N_x00B0_dép>
+<NomComité>Comité de la Paix Ouest Vosgien</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Sébastien Gadeau</Adresse1>
+<Adresse2>Bât Bretagne Appt 225 -13 rue Jules d&apos;Hôtel</Adresse2>
+<CodeP>88300</CodeP>
+<Ville>NEUFCHATEAU</Ville>
+<Téléphone>0785138431</Téléphone>
+<Courriel>mdlppov@gmail.com</Courriel>
+<Contact>Sébastien Gadeau</Contact>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>497</RéfComité>
+<N_x00B0_dép>10</N_x00B0_dép>
+<NomComité>Mouvement de la Paix - Comité &quot;Voltaire&quot;</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<CodeP>01000</CodeP>
+<Ville>THOIRY</Ville>
+<Courriel>lisa.silvestre.eje@gmail.com</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+</Comités>
+<Comités>
+<RéfComité>499</RéfComité>
+<N_x00B0_dép>1</N_x00B0_dép>
+<NomComité>Comité du Mouvement de la Paix du Grand Genève</NomComité>
+<N_x00B0_catégorie>0</N_x00B0_catégorie>
+<Adresse1>620 route de Bellevue</Adresse1>
+<CodeP>01280</CodeP>
+<Ville>PREVESSIN</Ville>
+<Mobile>06 52 70 74 65</Mobile>
+<Courriel>mvtpaix01@ntymail.com</Courriel>
+<Contact>Lisa Silvestre - silvestrelisa77@gmail.com</Contact>
+<Association_x0020_déclarée>1</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>500</RéfComité>
+<N_x00B0_dép>35</N_x00B0_dép>
+<NomComité>Comité de Guichen du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>C/o Catherine Lacire &amp; Jacques Berthelot</Adresse1>
+<Adresse2>4 la Tirelais</Adresse2>
+<CodeP>35580</CodeP>
+<Ville>GUICHEN</Ville>
+<Téléphone>0684795318</Téléphone>
+<Courriel>paixguichen@orange.fr</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>0</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>501</RéfComité>
+<N_x00B0_dép>61</N_x00B0_dép>
+<NomComité>Comité Local Mouvement de la Paix d&apos;Alençon et de la C.U.A</NomComité>
+<N_x00B0_catégorie>1</N_x00B0_catégorie>
+<Adresse1>Maison de la Vie Associative</Adresse1>
+<Adresse2>85 rue Cazault</Adresse2>
+<CodeP>61000</CodeP>
+<Ville>ALENCON</Ville>
+<Téléphone>0680023716</Téléphone>
+<Mobile>03 33 29 40 75</Mobile>
+<Courriel>rynoisel@gmail.com</Courriel>
+<Contact>Roger-Yves Noisel</Contact>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<Date_x0020_de_x0020_déclaration>2017-01-24T00:00:00</Date_x0020_de_x0020_déclaration>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>502</RéfComité>
+<N_x00B0_dép>4</N_x00B0_dép>
+<NomComité>Comité d&apos;Orange du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>4</N_x00B0_catégorie>
+<Adresse1>C/o Ludovic Perez</Adresse1>
+<Adresse2>59 rue due l&apos;ancien Hôpital</Adresse2>
+<CodeP>84100</CodeP>
+<Ville>ORANGE</Ville>
+<Téléphone>0640219889</Téléphone>
+<Courriel>perez-ludovic@orange.fr</Courriel>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<Date_x0020_de_x0020_déclaration>2017-06-29T00:00:00</Date_x0020_de_x0020_déclaration>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>503</RéfComité>
+<N_x00B0_dép>84</N_x00B0_dép>
+<NomComité>Comité d&apos;Orange du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>4</N_x00B0_catégorie>
+<Adresse1>C/o Ludovic Perez</Adresse1>
+<Adresse2>59 rue de l&apos;Ancien Hôpital</Adresse2>
+<CodeP>84100</CodeP>
+<Ville>ORANGE</Ville>
+<Téléphone>0490634501</Téléphone>
+<Mobile>06 40 21 98 89</Mobile>
+<Courriel>perez-ludovic@orange.fr</Courriel>
+<Contact>Ludovic Perez</Contact>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<Date_x0020_de_x0020_déclaration>2017-06-29T00:00:00</Date_x0020_de_x0020_déclaration>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+<Comités>
+<RéfComité>504</RéfComité>
+<N_x00B0_dép>82</N_x00B0_dép>
+<NomComité>Correspondant du Tarn et Garonne du Mouvement de la Paix</NomComité>
+<N_x00B0_catégorie>4</N_x00B0_catégorie>
+<Adresse1>C/o Roberto Tosoni</Adresse1>
+<Adresse2>18 rue Lagrèze-Fossat</Adresse2>
+<CodeP>82200</CodeP>
+<Ville>MOISSAC</Ville>
+<Téléphone>0652885951</Téléphone>
+<Association_x0020_déclarée>0</Association_x0020_déclarée>
+<n_x00B0__x0020_de_x0020_déclaration>0</n_x00B0__x0020_de_x0020_déclaration>
+<Actif>1</Actif>
+<Etiquette>oui</Etiquette>
+</Comités>
+</dataroot>

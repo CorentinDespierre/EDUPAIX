@@ -1,0 +1,3809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="ORGANISATIONS.xsd" generated="2018-03-23T09:22:48">
+<ORGANISATIONS>
+<RéfOrgas>1</RéfOrgas>
+<ORGANISATION>AGENCE FRANCAISE DE DEVELOPPEMENT</ORGANISATION>
+<Sigle>AFD</Sigle>
+<ADRESSE_x0020_1>5 rue Roland Barthes</ADRESSE_x0020_1>
+<CP>75598</CP>
+<VILLE>PARIS CEDEX 12</VILLE>
+<TEL>01 53 44 31 31</TEL>
+<FAX>01 44 87 99 39</FAX>
+<SITE>www.afd.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>2</RéfOrgas>
+<ORGANISATION>AGIR CONTRE LA GUERRE</ORGANISATION>
+<ADRESSE_x0020_1>11 rue d&apos;Enghien</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 42 62 24 45</TEL>
+<MAIL>agircontrelaguerre@yahoo.fr</MAIL>
+<SITE>http://agircontrelaguerre.free.fr</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>4</RéfOrgas>
+<ORGANISATION>ALTERNATIVE ET SOLIDAIRE RESEAU DE L&apos;ECONOMIE</ORGANISATION>
+<ADRESSE_x0020_1>61 rue Victor Hugo</ADRESSE_x0020_1>
+<CP>93500</CP>
+<VILLE>PANTIN</VILLE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>5</RéfOrgas>
+<ORGANISATION>AMIES DE LA TERRE</ORGANISATION>
+<ADRESSE_x0020_1>2 bis rue Jules Ferry</ADRESSE_x0020_1>
+<CP>93100</CP>
+<VILLE>MONTREUIL</VILLE>
+<TEL>01 48 51 32 22</TEL>
+<FAX>01 48 51 32 23</FAX>
+<SITE>www.amisdelaterre.org - http://perso.club-internet.fr/amfpgn/</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>6</RéfOrgas>
+<ORGANISATION>AMNESTY INTERNATIONAL</ORGANISATION>
+<ADRESSE_x0020_1>76 böulevare de la Vilette</ADRESSE_x0020_1>
+<CP>75940</CP>
+<VILLE>PARIS CEDEX 19</VILLE>
+<TEL>01 53 38 65 18</TEL>
+<FAX>01 53 38 55 00</FAX>
+<SITE>www.amnesty.asso.fr</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>9</RéfOrgas>
+<ORGANISATION>APPEL DES CENT POUR LA PAIX</ORGANISATION>
+<ADRESSE_x0020_1>17 / 19 place de l&apos;Argonne</ADRESSE_x0020_1>
+<CP>75009</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 42 09 23 78</TEL>
+<FAX>01 42 09 23 50</FAX>
+<MAIL>appeldescent@wanadoo.fr</MAIL>
+<SITE>www.atmf.org/</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>1</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>11</RéfOrgas>
+<ORGANISATION>ARTISAN DU MONDE</ORGANISATION>
+<Sigle>ADM</Sigle>
+<ADRESSE_x0020_1>58 rue Lamartine</ADRESSE_x0020_1>
+<CP>52000</CP>
+<VILLE>CHAUMONT</VILLE>
+<TEL>03 25 32 48 00</TEL>
+<FAX>03 25 32 48 00</FAX>
+<SITE>www.solidarmonde.fr</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>15</RéfOrgas>
+<ORGANISATION>ASSOCIATION DES ANCIENS COMBATTANTS DE LA CAUSE ANTICOLONIALE</ORGANISATION>
+<Sigle>AACCA</Sigle>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>16</RéfOrgas>
+<ORGANISATION>ASSOCIATION DES MAIRES DE France</ORGANISATION>
+<ADRESSE_x0020_1>41 quai d&apos;Orsay</ADRESSE_x0020_1>
+<CP>75343</CP>
+<VILLE>PARIS CEDEX 07</VILLE>
+<TEL>01 44 18 14 14</TEL>
+<FAX>01 44 18 14 15</FAX>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>17</RéfOrgas>
+<ORGANISATION>ASSOCIATION DES TRAVAILLEURS MAGHREBINS EN France</ORGANISATION>
+<Sigle>ATMF</Sigle>
+<ADRESSE_x0020_1>10 rue Affre</ADRESSE_x0020_1>
+<CP>75018</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 42 55 91 82</TEL>
+<FAX>01 42 52 60 61</FAX>
+<MAIL>national@atmf.org</MAIL>
+<SITE>http://maisondes femmes.free.fr</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>18</RéfOrgas>
+<CONTACT_x0020_INTITULE>Monsieur</CONTACT_x0020_INTITULE>
+<CONTACT_x0020_NOM>PERNIN</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Pierre</CONTAC_x0020_PRENOM>
+<ORGANISATION>ASSOCIATION DES MEDECINS FRANCAIS POUR LA PREVENTION DE LA GUERRE NUCLEAIRE</ORGANISATION>
+<Sigle>AMFPGN</Sigle>
+<ADRESSE_x0020_1>5 rue Las Cases</ADRESSE_x0020_1>
+<CP>75007</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 43 36 77 81</TEL>
+<MAIL>amfpgn@club-internet.fr</MAIL>
+<SITE>http://amfpgn.club.fr</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>1</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>19</RéfOrgas>
+<ORGANISATION>ATD QUART MONDE</ORGANISATION>
+<ADRESSE_x0020_1>107 avenue du Général Leclerc</ADRESSE_x0020_1>
+<CP>95480</CP>
+<VILLE>PIERRELAYE</VILLE>
+<TEL>01 34 30 46 22</TEL>
+<FAX>01 30 37 65 12</FAX>
+<MAIL>atdint@atd-quartmonde.org</MAIL>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>20</RéfOrgas>
+<CONTACT_x0020_INTITULE>Madame</CONTACT_x0020_INTITULE>
+<CONTACT_x0020_NOM>MICIO</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Elisabeth</CONTAC_x0020_PRENOM>
+<ORGANISATION>ASSOCIATION POUR LA TAXATION DES TRANSACTION POUR L AIDE AUX CITOYENS</ORGANISATION>
+<Sigle>ATTAC</Sigle>
+<ADRESSE_x0020_1>66 / 72 rue Marceau</ADRESSE_x0020_1>
+<CP>93100</CP>
+<VILLE>MONTREUIL SOUS BOIS</VILLE>
+<TEL>01 41 58 17 40</TEL>
+<MAIL>attacfr@attaC.org</MAIL>
+<SITE>www.france.attac.org</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>21</RéfOrgas>
+<ORGANISATION>BANQUE MONDIALE</ORGANISATION>
+<ADRESSE_x0020_1>66 avenue d&apos;Iéna</ADRESSE_x0020_1>
+<CP>75116</CP>
+<VILLE>PARIS</VILLE>
+<SITE>www..femme-solitaire.fr.fm/</SITE>
+<categorie>divers</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>22</RéfOrgas>
+<ORGANISATION>BANQUE MONDIALE</ORGANISATION>
+<ADRESSE_x0020_1>1818 h street,n w </ADRESSE_x0020_1>
+<CP>20433</CP>
+<VILLE>WASHINGTON DC 6 USA</VILLE>
+<categorie>divers</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>25</RéfOrgas>
+<ORGANISATION>COMITE CATHOLIQUE CONTRE LA FAIM ET POUR LE DEVELOPPEMENT</ORGANISATION>
+<Sigle>CCFD</Sigle>
+<ADRESSE_x0020_1>4 rue Jean Lantier</ADRESSE_x0020_1>
+<CP>75001</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 44 82 80 00</TEL>
+<FAX>01 44 82 81 43</FAX>
+<MAIL>ccfdproj@globenet.org</MAIL>
+<SITE>www.ccfd.asso.fr</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>26</RéfOrgas>
+<ORGANISATION>CEDETIM</ORGANISATION>
+<ADRESSE_x0020_1>21 ter rue Voltaire</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<categorie>ORG</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>27</RéfOrgas>
+<ORGANISATION>CENTRALE DES TRAVAILLEURS ARGENTINS EN France</ORGANISATION>
+<Sigle>CTA</Sigle>
+<SITE>www.mrap.asso.fr</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>30</RéfOrgas>
+<ORGANISATION>COMITE FRANCAIS POUR LA SOLIDARITE INTERNATIONALE</ORGANISATION>
+<ADRESSE_x0020_1>32 rue le Peletier</ADRESSE_x0020_1>
+<CP>75009</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 44 83 88 50</TEL>
+<FAX>01 44 83 88 79</FAX>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>31</RéfOrgas>
+<ORGANISATION>CONFEDERATION FRANCAISE DES TRAVAILLEURS CHRETIENS</ORGANISATION>
+<Sigle>CFTC</Sigle>
+<ADRESSE_x0020_1>197 rue du faubourg Saint Martin</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 53 26 57 61</TEL>
+<categorie>syndicat</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>32</RéfOrgas>
+<ORGANISATION>CGC</ORGANISATION>
+<ADRESSE_x0020_1>63 rue Rocher</ADRESSE_x0020_1>
+<CP>75008</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 55 30 12 12</TEL>
+<categorie>syndicat</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>36</RéfOrgas>
+<ORGANISATION>COMITE DE LIAISON DES ORGANISTIONS NON GOUVERNEMENTALES VOLONTARIAT</ORGANISATION>
+<Sigle>CLONGV</Sigle>
+<ADRESSE_x0020_1>14 passage Dubail</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 42 05 63 00</TEL>
+<FAX>01 44 72 93 73</FAX>
+<MAIL>clong@coordinationsud.org</MAIL>
+<categorie>divers</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>37</RéfOrgas>
+<ORGANISATION>COMITE DE LIAISON DES ORGANISTIONS NON GOUVERNEMENTALES</ORGANISATION>
+<Sigle>CLONG</Sigle>
+<ADRESSE_x0020_1>10 1000 bruxelles</ADRESSE_x0020_1>
+<VILLE>Belgique</VILLE>
+<TEL>19 32 2 743 87 86</TEL>
+<FAX>19 32 2 735 09 51</FAX>
+<categorie>divers</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>38</RéfOrgas>
+<ORGANISATION>CNAJEP</ORGANISATION>
+<ADRESSE_x0020_1>15 passage de la Main d&apos;Or</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 40 21 14 21</TEL>
+<FAX>01 40 21 07 06</FAX>
+<categorie>divers</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>39</RéfOrgas>
+<ORGANISATION>COLLECTIF FEMINISTE RUPTURE</ORGANISATION>
+<ADRESSE_x0020_1>163 rue de Charenton</ADRESSE_x0020_1>
+<CP>75012</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 42 23 78 15</TEL>
+<FAX>01 42 23 60 47</FAX>
+<MAIL>maisondesfemmes@free.fr</MAIL>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>40</RéfOrgas>
+<ORGANISATION>COMITE CONTRE LA GUERRE EN IRAK</ORGANISATION>
+<MAIL>ccg.irak@wanadoo.fr</MAIL>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>41</RéfOrgas>
+<ORGANISATION>COMITE FRANCAIS ONG/ONU</ORGANISATION>
+<CP>24110</CP>
+<VILLE>MANZAC S/VERN</VILLE>
+<categorie>divers</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>42</RéfOrgas>
+<ORGANISATION>COMITE NATIONAL EDUCATION POUR LA PAIX</ORGANISATION>
+<ADRESSE_x0020_1>13 allée Maximilien Robespierre</ADRESSE_x0020_1>
+<CP>92290</CP>
+<VILLE>CHATENAY MALABRY</VILLE>
+<FAX>01 46 30 15 87</FAX>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>43</RéfOrgas>
+<ORGANISATION>SERVICE NATIONAL POUR LES QUESTIONS FAMILIALES ET SOCIALES - DEPARTEMENT JUSTECE ET PAIX</ORGANISATION>
+<ADRESSE_x0020_1>Marie-Laure DENES</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>58 avenue de Breteuil</ADRESSE_x0020_2>
+<CP>75007</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 72 36 69 09</TEL>
+<FAX>01 73 72 97 03</FAX>
+<MAIL>justice.paix@cef.fr</MAIL>
+<SITE>www.cef.fr/justice.paix</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>44</RéfOrgas>
+<ORGANISATION>COMMISSION EUROPEENNE</ORGANISATION>
+<ADRESSE_x0020_1>200 rue de Loi</ADRESSE_x0020_1>
+<CP>1049</CP>
+<VILLE>BRUXELLES Belgique</VILLE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>45</RéfOrgas>
+<ORGANISATION>COMMISSION FRANCAISE POUR L&apos; UNESCO</ORGANISATION>
+<ADRESSE_x0020_1>57 boulevard des Invalides</ADRESSE_x0020_1>
+<CP>75700</CP>
+<VILLE>PARIS 07 SP</VILLE>
+<TEL>01 53 69 38 42</TEL>
+<FAX>01 53 69 32 23</FAX>
+<SITE>www.unesco.fr</SITE>
+<categorie>divers</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>47</RéfOrgas>
+<ORGANISATION>CONFEDERATION PAYSANNE</ORGANISATION>
+<ADRESSE_x0020_1>81 avenue de la République</ADRESSE_x0020_1>
+<CP>93170</CP>
+<VILLE>BAGNOLET </VILLE>
+<FAX>01 43 62 80 03</FAX>
+<MAIL>contact@confederationpaysanne.fr &lt;contact@confederationpaysanne.fr</MAIL>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>48</RéfOrgas>
+<ORGANISATION>CONFERENCE MONDIALE RELIGION POUR LA PAIX</ORGANISATION>
+<Sigle>CMPR</Sigle>
+<ADRESSE_x0020_1>8 bis rue Jean Bart</ADRESSE_x0020_1>
+<CP>75006</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 46 33 45 39</TEL>
+<SITE>www.religionspourlapaix.org</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>49</RéfOrgas>
+<ORGANISATION>CONFERENCE PERMANENTE DES COORDINATIONS ASSOCIATIVES</ORGANISATION>
+<Sigle>CPCA</Sigle>
+<ADRESSE_x0020_1>14 passage Dubail</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>50</RéfOrgas>
+<ORGANISATION>CROIX ROUGE FRANCAISE &quot; CRF &quot;</ORGANISATION>
+<ADRESSE_x0020_1>98 rue Didot</ADRESSE_x0020_1>
+<CP>75694</CP>
+<VILLE>PARIS CEDEX 14</VILLE>
+<TEL>01 44 43 11 00</TEL>
+<FAX>01 44 43 11 01</FAX>
+<SITE>www.croix-rouge.fr</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>51</RéfOrgas>
+<ORGANISATION>CENTRE DE RECHERCHE ET D INFORMATION POUR LE DEVELOPPEMENT</ORGANISATION>
+<Sigle>CRID</Sigle>
+<ADRESSE_x0020_1>14 passage Dubail</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 44 72 07 71</TEL>
+<FAX>01 44 72 06 84</FAX>
+<SITE>www.globenet.org/crid</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>52</RéfOrgas>
+<ORGANISATION>CONSEIL REGIONAL D ILE DE France</ORGANISATION>
+<Sigle>CRIF</Sigle>
+<ADRESSE_x0020_1>34 rue Vaneau</ADRESSE_x0020_1>
+<CP>75007</CP>
+<VILLE>PARIS</VILLE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>53</RéfOrgas>
+<ORGANISATION>CONSEIL REGIONAL D ILE DE France  DIRECTION DES AFFAIRES  INTERNATIONALES</ORGANISATION>
+<Sigle>CRIF</Sigle>
+<ADRESSE_x0020_1>35 boulevard des Invalides</ADRESSE_x0020_1>
+<CP>75007</CP>
+<VILLE>PARIS</VILLE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>56</RéfOrgas>
+<ORGANISATION>DEFAP SERVICE PROTESTANT DE MISSION</ORGANISATION>
+<ADRESSE_x0020_1>42 montée Saint Barthélémy</ADRESSE_x0020_1>
+<CP>69005</CP>
+<VILLE>LYON</VILLE>
+<TEL>01 42 34 55 55</TEL>
+<FAX>01 43 35 00 55</FAX>
+<MAIL>defap@wanadoo.fr</MAIL>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>58</RéfOrgas>
+<ORGANISATION>DROITS SOLIDARITE ASSOCIATION INTERNATIONALE DES JURISTES DEMOCRATES</ORGANISATION>
+<Sigle>AIJD</Sigle>
+<ADRESSE_x0020_1>120 rue de Rivoli</ADRESSE_x0020_1>
+<CP>75001</CP>
+<VILLE>PARIS</VILLE>
+<MAIL>aliba.n@wanadoo.fr</MAIL>
+<categorie>org</categorie>
+<Abolition_x0020_2000>1</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>62</RéfOrgas>
+<ORGANISATION>France AMERIQUE LATINE</ORGANISATION>
+<Sigle>FAL</Sigle>
+<ADRESSE_x0020_1>37 boulevard Saint Jacques</ADRESSE_x0020_1>
+<CP>75014</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 45 88 20 00</TEL>
+<FAX>01 45 65 20 87</FAX>
+<MAIL>falnationale@wanadoo.fr - office@paris.msf.org</MAIL>
+<categorie>org</categorie>
+<Abolition_x0020_2000>1</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>63</RéfOrgas>
+<ORGANISATION>FEDERATION ARTISANS DU MONDE</ORGANISATION>
+<Sigle>FAM</Sigle>
+<ADRESSE_x0020_1>53 boulevard de Strasbourg</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 56 03 93 50</TEL>
+<MAIL>artisan-du-monde@globenet.org</MAIL>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>64</RéfOrgas>
+<ORGANISATION>FRERE DES HOMMES</ORGANISATION>
+<ADRESSE_x0020_1>9 rue de Savoie</ADRESSE_x0020_1>
+<CP>75006</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 55 42 62 62</TEL>
+<FAX>01 43 29 99 77</FAX>
+<MAIL>fdh.fr.secperm@globenet.org</MAIL>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>65</RéfOrgas>
+<ORGANISATION>FEDERATION DES TUNISIENS CITOYENNETE DES DEUX RIVES</ORGANISATION>
+<ADRESSE_x0020_1>3 rue de Nantes</ADRESSE_x0020_1>
+<CP>75019</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 46 07 54 04</TEL>
+<FAX>01 40 34 18 15</FAX>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>69</RéfOrgas>
+<ORGANISATION>FEDERATION INTERNATIONALE DES LIGUES DES DROITS DE L HOMME</ORGANISATION>
+<Sigle>FIDH</Sigle>
+<ADRESSE_x0020_1>17 passage de la Main d&apos;Or</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 43 55 25 18</TEL>
+<FAX>01 43 55 18 80</FAX>
+<MAIL>fidh@fidh.org</MAIL>
+<SITE>www.fidh.org.</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>70</RéfOrgas>
+<ORGANISATION>FONDS MONETAIRE INTERNATIONAL</ORGANISATION>
+<Sigle>FMI</Sigle>
+<ADRESSE_x0020_1>66 avenue d&apos;Iéna</ADRESSE_x0020_1>
+<CP>75116</CP>
+<VILLE>PARIS</VILLE>
+<categorie>divers</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>71</RéfOrgas>
+<ORGANISATION>FONDS MONETAIRE INTERNATIONAL</ORGANISATION>
+<Sigle>FMI</Sigle>
+<ADRESSE_x0020_1>700 19th street,n w </ADRESSE_x0020_1>
+<CP>20431</CP>
+<VILLE>WASHINGTON DC 6 USA</VILLE>
+<categorie>divers</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>73</RéfOrgas>
+<ORGANISATION>FEDERATION NATIONALE DES DEPORTES INTERNES RESISTANTS ET PATRIOTES &quot; FNDIRP &quot;</ORGANISATION>
+<Sigle>FNDIRP</Sigle>
+<ADRESSE_x0020_1>10 rue Leroux</ADRESSE_x0020_1>
+<CP>75116</CP>
+<VILLE>PARIS</VILLE>
+<FAX>01 45 02 11 00</FAX>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>74</RéfOrgas>
+<ORGANISATION>FO</ORGANISATION>
+<TEL>01 40 52 83 17</TEL>
+<FAX>01 40 52 83 15</FAX>
+<MAIL>mblondel@force-ourvriere.fr</MAIL>
+<categorie>syndicat</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>75</RéfOrgas>
+<ORGANISATION>FONDS DES NATIONS UNIES</ORGANISATION>
+<ADRESSE_x0020_1>3 rue Dugay Trouin</ADRESSE_x0020_1>
+<CP>75006</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 44 39 77 77</TEL>
+<categorie>divers</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>76</RéfOrgas>
+<ORGANISATION>FONJEP</ORGANISATION>
+<ADRESSE_x0020_1>51 rue de l&apos;Amiral Mouchez</ADRESSE_x0020_1>
+<CP>75013</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 43 13 10 30</TEL>
+<FAX>01 43 13 10 31</FAX>
+<categorie>divers</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>81</RéfOrgas>
+<ORGANISATION>G10 SOLIDAIRES</ORGANISATION>
+<ADRESSE_x0020_1>80 / 82 rue de Montreuil</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<categorie>syndicat</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>82</RéfOrgas>
+<CONTACT_x0020_INTITULE>Monsieur</CONTACT_x0020_INTITULE>
+<CONTACT_x0020_NOM>JADOT</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Yannick</CONTAC_x0020_PRENOM>
+<ORGANISATION>GREENPEACE</ORGANISATION>
+<ADRESSE_x0020_1>22 rue des Rsselins</ADRESSE_x0020_1>
+<CP>75020</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 44 64 02 37</TEL>
+<FAX>01 44 64 02 00</FAX>
+<MAIL>greenpeace.france@diala.greenpeace.org</MAIL>
+<SITE>www.greenpeace.org/France</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>83</RéfOrgas>
+<ORGANISATION>HANDICAP INTERNATIONAL</ORGANISATION>
+<ADRESSE_x0020_1>14 avenue Berthelot</ADRESSE_x0020_1>
+<CP>69361</CP>
+<VILLE>LYON</VILLE>
+<TEL>04 78 69 79 79</TEL>
+<FAX>04 78 69 79 94</FAX>
+<MAIL>contact@handicap-international.org</MAIL>
+<SITE>www.handicap-international.org</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>86</RéfOrgas>
+<ORGANISATION>INSTITUT DU MONDE ARABE</ORGANISATION>
+<Sigle>IMA</Sigle>
+<ADRESSE_x0020_1>1 rue des Fossés Saint Germain</ADRESSE_x0020_1>
+<CP>75005</CP>
+<VILLE>PARIS</VILLE>
+<categorie>divers</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>87</RéfOrgas>
+<ORGANISATION>INSTITUT DES RELATIONS INTERNATIONALES ET STRATEGIQUES</ORGANISATION>
+<Sigle>IRIS</Sigle>
+<ADRESSE_x0020_1>2 bis rue Mercoeur</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 53 27 60 60</TEL>
+<FAX>01 53 27 60 70</FAX>
+<categorie>divers</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>90</RéfOrgas>
+<ORGANISATION>JURISTES SOLIDARITES</ORGANISATION>
+<ADRESSE_x0020_1>65 rue Meslay</ADRESSE_x0020_1>
+<CP>75003</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 48 87 48 58</TEL>
+<FAX>01 48 87 50 39</FAX>
+<MAIL>jur-sol@globenet.org</MAIL>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>92</RéfOrgas>
+<ORGANISATION>LA SOURIS VERTE PARIS ILE DE France</ORGANISATION>
+<ADRESSE_x0020_1>247 rue du faubourg Saint Martin</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>Bât.N - BP.8</ADRESSE_x0020_2>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<TEL>06 63 61 05 15</TEL>
+<MAIL>narito@wanadoo.fr - cnajep@club-internet.fr</MAIL>
+<categorie>org</categorie>
+<Abolition_x0020_2000>1</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>93</RéfOrgas>
+<ORGANISATION>LES ALTERNATIFS</ORGANISATION>
+<ADRESSE_x0020_1>40 rue de Malte</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 43 57 44 80</TEL>
+<FAX>01 43 57 64 50</FAX>
+<MAIL>contact@alternatifs.org</MAIL>
+<SITE>www.alternatfs.org</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>98</RéfOrgas>
+<ORGANISATION>LIGUE DES DROITS DE L HOMME</ORGANISATION>
+<Sigle>LDH</Sigle>
+<ADRESSE_x0020_1>138 rue marcadet</ADRESSE_x0020_1>
+<CP>75018</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 56 55 51 00</TEL>
+<FAX>01 42 55 51 21</FAX>
+<MAIL>ldh@ldh-France.org</MAIL>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+<Mise_x0020_à_x0020_jour>2008-06-05T00:00:00</Mise_x0020_à_x0020_jour>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>99</RéfOrgas>
+<CONTACT_x0020_INTITULE>Madame</CONTACT_x0020_INTITULE>
+<CONTACT_x0020_NOM>LANDRY</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Simone</CONTAC_x0020_PRENOM>
+<ORGANISATION>LIGUE INTERNATIONALE DES FEMMES POUR LA PAIX ET LA LIBERTE</ORGANISATION>
+<Sigle>LIFPL</Sigle>
+<ADRESSE_x0020_1>114 rue de Vaugirard</ADRESSE_x0020_1>
+<CP>75006</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 48 78 39 85</TEL>
+<MAIL>info@peacewomen.org</MAIL>
+<SITE>www.peacewomen.org</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>1</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>100</RéfOrgas>
+<ORGANISATION>UNION DES SYNDICATS CGT DE PARIS</ORGANISATION>
+<ADRESSE_x0020_1>85 rue Charlot</ADRESSE_x0020_1>
+<CP>75140</CP>
+<VILLE>PARIS CEDEX 03</VILLE>
+<TEL>01.40.29.14.40</TEL>
+<FAX>01.48.87.89.97</FAX>
+<categorie>syndicat</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>101</RéfOrgas>
+<ORGANISATION>MDLP</ORGANISATION>
+<ADRESSE_x0020_1>7 boulevard Davout</ADRESSE_x0020_1>
+<CP>75020</CP>
+<VILLE>PARIS</VILLE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>103</RéfOrgas>
+<ORGANISATION>MAISON INTERNATIONAL DES JEUNES POUR LA CULTURE ET LA PAIX</ORGANISATION>
+<ADRESSE_x0020_1>39 bis rue de Montreuil</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 43 71 99 21</TEL>
+<FAX>01 43 71 78 58</FAX>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>104</RéfOrgas>
+<ORGANISATION>MEDICINS DU MONDE</ORGANISATION>
+<Sigle>MDM</Sigle>
+<ADRESSE_x0020_1>62 rue Marcadet</ADRESSE_x0020_1>
+<CP>75018</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 44 92 15 15</TEL>
+<FAX>01 44 92 99 92</FAX>
+<SITE>www.medecinsdumonde.org</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>105</RéfOrgas>
+<ORGANISATION>MISSION ENFANCE</ORGANISATION>
+<ADRESSE_x0020_1>33 rue Galilée</ADRESSE_x0020_1>
+<CP>75116</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 44 43 53 86</TEL>
+<FAX>01 47 23 68 14</FAX>
+<SITE>www.artisansdumonde.org</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>106</RéfOrgas>
+<ORGANISATION>MOUVEMENT CHOISIR</ORGANISATION>
+<ADRESSE_x0020_1>102 rue Saint Dominique</ADRESSE_x0020_1>
+<CP>75007</CP>
+<VILLE>PARIS</VILLE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>107</RéfOrgas>
+<ORGANISATION>MOUVEMENT DES JEUNES COMMUNISTES DE France</ORGANISATION>
+<Sigle>MJCF</Sigle>
+<ADRESSE_x0020_1>2 place du Colonel Fabien</ADRESSE_x0020_1>
+<CP>75019</CP>
+<VILLE>PARIS</VILLE>
+<categorie>pp</categorie>
+<Abolition_x0020_2000>1</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>110</RéfOrgas>
+<CONTACT_x0020_INTITULE>Monsieur</CONTACT_x0020_INTITULE>
+<CONTACT_x0020_NOM>BONIFACE</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Jean Michel</CONTAC_x0020_PRENOM>
+<ORGANISATION>MOUVEMENT DES OBJECTEURS DE CONSCIENCE</ORGANISATION>
+<Sigle>MOC</Sigle>
+<ADRESSE_x0020_1>21 ter rue Voltaire</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 43 71 42 70</TEL>
+<FAX>01 43 79 32 09</FAX>
+<MAIL>contact@mocbzh.org</MAIL>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>112</RéfOrgas>
+<CONTACT_x0020_INTITULE>Madame</CONTACT_x0020_INTITULE>
+<CONTACT_x0020_NOM>LEBOCHARD</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Aurore</CONTAC_x0020_PRENOM>
+<ORGANISATION>MOUVEMENT INTERNATIONAL DE LA RECONCILIATION (BRANCHE FRANCAISE DE L IFOR )</ORGANISATION>
+<Sigle>MIR</Sigle>
+<ADRESSE_x0020_1>68 rue Babylone</ADRESSE_x0020_1>
+<CP>75007</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 47 53 84 05</TEL>
+<FAX>01 45 51 40 31</FAX>
+<MAIL>mirfr@club-internet.fr</MAIL>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>113</RéfOrgas>
+<ORGANISATION>MOUVEMENT JEUNESSE CATHOLIQUE DE France</ORGANISATION>
+<ADRESSE_x0020_1>28 rue Pernety</ADRESSE_x0020_1>
+<CP>75014</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 45 39 99 00</TEL>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>114</RéfOrgas>
+<CONTACT_x0020_INTITULE>Monsieur</CONTACT_x0020_INTITULE>
+<CONTACT_x0020_NOM>GUEZENEC</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Jean Yves</CONTAC_x0020_PRENOM>
+<ORGANISATION>MOUVEMENT NATIONAL DE LUTTE POUR L ENVIRONNEMENT</ORGANISATION>
+<Sigle>MNLE</Sigle>
+<ADRESSE_x0020_1>6 rue Jules Auffret</ADRESSE_x0020_1>
+<CP>93500</CP>
+<VILLE>PANTIN</VILLE>
+<TEL>01 48 46 04 14</TEL>
+<FAX>01 48 46 44 53</FAX>
+<MAIL>MNLE@wanadoo.fr</MAIL>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>116</RéfOrgas>
+<ORGANISATION>MOUVEMENT POUR UNE ALTERNATIVE NON VIOLENTE</ORGANISATION>
+<ADRESSE_x0020_1>114 rue de Vaugirard</ADRESSE_x0020_1>
+<CP>75006</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 43 79 79 85</TEL>
+<FAX>01 43 79 01 30</FAX>
+<MAIL>manco@multimedia,com</MAIL>
+<categorie>org</categorie>
+<Abolition_x0020_2000>1</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>118</RéfOrgas>
+<ORGANISATION>MRC</ORGANISATION>
+<ADRESSE_x0020_1>9 rue du faubourg Poissonnière</ADRESSE_x0020_1>
+<CP>75009</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 44 83 83 00</TEL>
+<FAX>01 44 83 83 10</FAX>
+<MAIL>contact@mrc-France.org</MAIL>
+<categorie>pp</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>119</RéfOrgas>
+<ORGANISATION>MEDECINS SANS FRONTIERES</ORGANISATION>
+<Sigle>MSF</Sigle>
+<ADRESSE_x0020_1>8 rue Saint Sabin</ADRESSE_x0020_1>
+<CP>75544</CP>
+<VILLE>PARIS CEDEX 11</VILLE>
+<TEL>01 40 21 29 29</TEL>
+<FAX>01 48 06 68 68</FAX>
+<SITE>www.paris.msf.org</SITE>
+<categorie>divers</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>120</RéfOrgas>
+<ORGANISATION>NGLS UNITED NATIONS NON GOUVERNEMENTAL LIAISON</ORGANISATION>
+<ADRESSE_x0020_1>Service Palais des Nations</ADRESSE_x0020_1>
+<CP>1211</CP>
+<VILLE>GENEVE 10 SUISSE</VILLE>
+<categorie>divers</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>121</RéfOrgas>
+<ORGANISATION>NON AU DROIT D&apos;AFFAMER</ORGANISATION>
+<ADRESSE_x0020_1>49 rue  G.Baratte</ADRESSE_x0020_1>
+<CP>59650</CP>
+<VILLE>VILLENEUVE D ASCQ</VILLE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>122</RéfOrgas>
+<ORGANISATION>PARLEMENT EUROPEEN</ORGANISATION>
+<ADRESSE_x0020_1>97 rue Belliard</ADRESSE_x0020_1>
+<CP>1047</CP>
+<VILLE>BRUXELLES Belgique</VILLE>
+<categorie>pp</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>123</RéfOrgas>
+<ORGANISATION>PARTI COMMUNISTE Français</ORGANISATION>
+<Sigle>PCF</Sigle>
+<ADRESSE_x0020_1>2 place du Colonel Fabien</ADRESSE_x0020_1>
+<CP>75019</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 40 40 12 12</TEL>
+<FAX>01 40 40 13 56</FAX>
+<MAIL>pcf@pcf.fr</MAIL>
+<categorie>pp</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>124</RéfOrgas>
+<ORGANISATION>PARTI SOCIALISTE</ORGANISATION>
+<Sigle>PS</Sigle>
+<ADRESSE_x0020_1>10 rue Solferino</ADRESSE_x0020_1>
+<CP>75007</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 45 56 77 00</TEL>
+<categorie>pp</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>125</RéfOrgas>
+<ORGANISATION>PAX CHRISTI France</ORGANISATION>
+<ADRESSE_x0020_1>5 rue Moreire</ADRESSE_x0020_1>
+<CP>75014</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.44.49.06.36</TEL>
+<FAX>01.44.49.02.15</FAX>
+<MAIL>pax.christi-France@wanadoo.fr</MAIL>
+<SITE>http://paxchristi.cef.fr</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>1</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>126</RéfOrgas>
+<ORGANISATION>PLATEFORME FRANCAISE DES ONG AUPRES DE L UNION EUROPEENNE</ORGANISATION>
+<ADRESSE_x0020_1>14 passage Dubail</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 44 72 93 72 </TEL>
+<FAX>01 44 72 93 73</FAX>
+<SITE>www.coordinationsud.org/pff</SITE>
+<categorie>divers</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>127</RéfOrgas>
+<ORGANISATION>PLATEFORME DES ONG FRANCAISE POUR LA PALESTINE</ORGANISATION>
+<ADRESSE_x0020_1>14 passage Dubail</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 40 36 41 46</TEL>
+<SITE>pfpalest@club-internet.fr</SITE>
+<categorie>divers</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>128</RéfOrgas>
+<ORGANISATION>PROGRAMME DES NATIONS UNIES POUR LE DEVELOPPEMENT</ORGANISATION>
+<ADRESSE_x0020_1>Palais des Nations</ADRESSE_x0020_1>
+<CP>1211</CP>
+<VILLE>GENEVE 10 SUISSE</VILLE>
+<categorie>divers</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>129</RéfOrgas>
+<ORGANISATION>SNEES</ORGANISATION>
+<ADRESSE_x0020_1>76 rue des Rondeaux</ADRESSE_x0020_1>
+<CP>75020</CP>
+<VILLE>PARIS</VILLE>
+<categorie>syndicat</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>130</RéfOrgas>
+<ORGANISATION>SECOURS CATHOLIQUE</ORGANISATION>
+<ADRESSE_x0020_1>13 rue Saint Ambroise</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 48 07 58 21</TEL>
+<FAX>01 58 30 70 44</FAX>
+<SITE>www.secours-catholique.asso.fr</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>131</RéfOrgas>
+<ORGANISATION>SYNDICAT NATIONAL DES CHERCHEURS SCIENTIFIQUES</ORGANISATION>
+<Sigle>SNCS-FSU</Sigle>
+<ADRESSE_x0020_1>1 place Aristide Briand</ADRESSE_x0020_1>
+<CP>92195</CP>
+<VILLE>MEUDON CEDEX</VILLE>
+<TEL>0145 07 58 70</TEL>
+<FAX>01 45 07 58 51</FAX>
+<MAIL>sncs@cnrs-bellevue.fr</MAIL>
+<SITE>www.sncs.fr</SITE>
+<categorie>syndicat</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+<Mise_x0020_à_x0020_jour>2008-06-17T00:00:00</Mise_x0020_à_x0020_jour>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>132</RéfOrgas>
+<ORGANISATION>SNEP FSU</ORGANISATION>
+<ADRESSE_x0020_1>76 rue des Rondeaux</ADRESSE_x0020_1>
+<CP>75020</CP>
+<VILLE>PARIS</VILLE>
+<categorie>syndicat</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>133</RéfOrgas>
+<ORGANISATION>SYNDICAT NATIONAL DE L ENSEIGNEMENT SECONDAIRE</ORGANISATION>
+<Sigle>SNES-FSU</Sigle>
+<ADRESSE_x0020_1>1 rue de Courty</ADRESSE_x0020_1>
+<CP>75431</CP>
+<VILLE>PARIS CEDEX 07</VILLE>
+<MAIL>secgene2@snes.edu &lt;secgene2@snes.edu&gt;</MAIL>
+<categorie>syndicat</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>134</RéfOrgas>
+<ORGANISATION>SNUIPP - FSU PARIS</ORGANISATION>
+<ADRESSE_x0020_1>40 rue Piat</ADRESSE_x0020_1>
+<CP>75020</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 44 62 70 01</TEL>
+<FAX>01 44 62 70 02</FAX>
+<MAIL>snu75@snuipp.fr</MAIL>
+<SITE>http//75.snuipp.fr</SITE>
+<categorie>syndicat</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+<Mise_x0020_à_x0020_jour>2008-06-05T00:00:00</Mise_x0020_à_x0020_jour>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>136</RéfOrgas>
+<ORGANISATION>SUD PTT</ORGANISATION>
+<ADRESSE_x0020_1>23 rue de la Mare</ADRESSE_x0020_1>
+<CP>75020</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 44 62 12 00</TEL>
+<FAX>01 44 62 12 34</FAX>
+<MAIL>sudptt@sudptt.fr</MAIL>
+<categorie>syndicat</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>137</RéfOrgas>
+<ORGANISATION>SUD RAIL</ORGANISATION>
+<ADRESSE_x0020_1>39 rue de Londres</ADRESSE_x0020_1>
+<CP>75008</CP>
+<VILLE>PARIS</VILLE>
+<categorie>syndicat</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>138</RéfOrgas>
+<ORGANISATION>SURVIE</ORGANISATION>
+<ADRESSE_x0020_1>57 avenue du Maine</ADRESSE_x0020_1>
+<CP>75014</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 43 27 03 25</TEL>
+<FAX>01 43 20 55 58</FAX>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>139</RéfOrgas>
+<ORGANISATION>SYNDICAT NATIONAL TRAVAILLEURS RECHERCHE SCIENTIFIQUE</ORGANISATION>
+<Sigle>SNTRS-CGT</Sigle>
+<ADRESSE_x0020_1>7 rue Guy Moquet</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>Bât N - BP 8</ADRESSE_x0020_2>
+<CP>94081</CP>
+<VILLE>VILLEJUIF CEDEX</VILLE>
+<categorie>syndicat</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>140</RéfOrgas>
+<ORGANISATION>TERRE DES HOMMES - France</ORGANISATION>
+<Sigle>TDH</Sigle>
+<ADRESSE_x0020_1>4 rue Franklin</ADRESSE_x0020_1>
+<CP>93200</CP>
+<VILLE>SAINT DENIS</VILLE>
+<TEL>01 48 09 09 76</TEL>
+<FAX>01 48 09 15 75</FAX>
+<SITE>www.terredeshommes.asso.fr</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>142</RéfOrgas>
+<ORGANISATION>UDF</ORGANISATION>
+<ADRESSE_x0020_1>133 rue de l&apos;Universite</ADRESSE_x0020_1>
+<CP>75007</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 53 59 20 00 / 59 / 60</TEL>
+<categorie>pp</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>143</RéfOrgas>
+<ORGANISATION>UNION DES JEUNES AVOCATS DE PARIS</ORGANISATION>
+<ADRESSE_x0020_1>Palais de Justice - Salle J.Python</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>4 boulevard du Palaix</ADRESSE_x0020_2>
+<CP>75001</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 43 25 58 11</TEL>
+<FAX>01 43 25 06 43</FAX>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>144</RéfOrgas>
+<ORGANISATION>UNION JUIVE FRANCAISE POUR LA PAIX</ORGANISATION>
+<Sigle>UJFP</Sigle>
+<ADRESSE_x0020_1>21 ter rue Voltaire</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 42 02 59 76</TEL>
+<FAX>01 42 02 59 77</FAX>
+<MAIL>ujfp@filnet.fr</MAIL>
+<SITE>www.ujfp.org</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>145</RéfOrgas>
+<ORGANISATION>UMP</ORGANISATION>
+<ADRESSE_x0020_1>55 rue la Boetie</ADRESSE_x0020_1>
+<CP>75008</CP>
+<VILLE>PARIS</VILLE>
+<MAIL>ump@u-m-p.org</MAIL>
+<categorie>pp</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>147</RéfOrgas>
+<ORGANISATION>UNEF</ORGANISATION>
+<ADRESSE_x0020_1>46 rue Albert Thomas</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<FAX>01 42 03 33 91</FAX>
+<categorie>syndicat</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>148</RéfOrgas>
+<ORGANISATION>UNION CHRETIENNE JEUNES GENS</ORGANISATION>
+<Sigle>UCJG</Sigle>
+<ADRESSE_x0020_1>5 place de Venitie</ADRESSE_x0020_1>
+<CP>75643</CP>
+<VILLE>PARIS CEDEX 13</VILLE>
+<TEL>01 45 83 62 63</TEL>
+<FAX>01 45 83 35 52</FAX>
+<MAIL>ucjg.sn@wanadoo.fr</MAIL>
+<SITE>http://www.ucjg.fr</SITE>
+<categorie>syndicat</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>150</RéfOrgas>
+<ORGANISATION>UNION EUROPEENNE</ORGANISATION>
+<ADRESSE_x0020_1>DG V111 rue de la Loi</ADRESSE_x0020_1>
+<CP>2001000</CP>
+<VILLE>bruxelles</VILLE>
+<categorie>pp</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>151</RéfOrgas>
+<ORGANISATION>UNION FRANCAISE DES ANCIENS COMBATTANTS</ORGANISATION>
+<ADRESSE_x0020_1>2 rue Pigalle</ADRESSE_x0020_1>
+<CP>75009</CP>
+<VILLE>PARIS</VILLE>
+<FAX>01 48 74 58 83</FAX>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>152</RéfOrgas>
+<ORGANISATION>UNION MONDIALE VILLES MARTYRES-VILLES DE PAIX</ORGANISATION>
+<ADRESSE_x0020_1>4 Plaza de la Villa -3Ö Planta</ADRESSE_x0020_1>
+<CP>28005</CP>
+<VILLE>MADRID</VILLE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>153</RéfOrgas>
+<ORGANISATION>UNION NATIONALE DES VEGETARIENS</ORGANISATION>
+<ADRESSE_x0020_1>Miers</ADRESSE_x0020_1>
+<CP>46500</CP>
+<VILLE>GRAMAT</VILLE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>154</RéfOrgas>
+<ORGANISATION>UNION PACIFISTE DE France</ORGANISATION>
+<ADRESSE_x0020_1>BP - 196</ADRESSE_x0020_1>
+<CP>75624</CP>
+<VILLE>PARIS CEDEX 13</VILLE>
+<FAX>01 45 86 08 75</FAX>
+<categorie>org</categorie>
+<Abolition_x0020_2000>1</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>155</RéfOrgas>
+<ORGANISATION>UNSA</ORGANISATION>
+<ADRESSE_x0020_1>21 rue Jules Ferry</ADRESSE_x0020_1>
+<CP>93177</CP>
+<VILLE>BAGNOLET CEDEX</VILLE>
+<categorie>syndicat</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>226</RéfOrgas>
+<ORGANISATION>OXFAM France</ORGANISATION>
+<ADRESSE_x0020_1>104 rue Oberkampf</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 56 98 24 40</TEL>
+<FAX>01 56 98 24 09</FAX>
+<MAIL>agirici@agirici.org</MAIL>
+<SITE>www.agirici.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>234</RéfOrgas>
+<ORGANISATION>ASSOCIATION FRANCE PALESTINE</ORGANISATION>
+<ADRESSE_x0020_1>21 ter rue Voltaire</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<FAX>01 43 72 07 25</FAX>
+<MAIL>amfpafp@club-internet.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>235</RéfOrgas>
+<ORGANISATION>CENTRE QUAKER INTERNATIONAL</ORGANISATION>
+<ADRESSE_x0020_1>Quakers de France</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>114 rue de Vaugirard</ADRESSE_x0020_2>
+<CP>75006</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 45 48 74 23</TEL>
+<MAIL>quaker.paris@tiscali.fr</MAIL>
+<SITE>http://quaker.chez.tiscali.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>236</RéfOrgas>
+<ORGANISATION>ASSOCIATION METEOROLOGUES POUR LA PAIX</ORGANISATION>
+<ADRESSE_x0020_1>101 boulevard Voltaire</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 48 06 44 27</TEL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>237</RéfOrgas>
+<ORGANISATION>ASSOCIATION FRANCAISE DES JURISTES DEMOCRATES</ORGANISATION>
+<ADRESSE_x0020_1>120 rue de Rivoli</ADRESSE_x0020_1>
+<CP>75001</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>238</RéfOrgas>
+<ORGANISATION>ASSOCIATION REPUBLICAINE ANCIENS COMBATTANTS</ORGANISATION>
+<Sigle>ARAC</Sigle>
+<ADRESSE_x0020_1>2 place du Meridien</ADRESSE_x0020_1>
+<CP>94807</CP>
+<VILLE>VILLEJUIF</VILLE>
+<TEL>01.42.11.11.11</TEL>
+<FAX>01.42.11.11.10.</FAX>
+<MAIL>arac@arac-et-mutuelle.com</MAIL>
+<SITE>www.arac-et-mutuelle.com</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>1</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>241</RéfOrgas>
+<ORGANISATION>CCAS</ORGANISATION>
+<ADRESSE_x0020_1>9 rue de Rosny</ADRESSE_x0020_1>
+<CP>93100</CP>
+<VILLE>MONTREUIL SOUS BOIS</VILLE>
+<TEL>01 48 18 60 74</TEL>
+<FAX>01 48 57 21 70</FAX>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>242</RéfOrgas>
+<ORGANISATION>CENTRE CONFEDERAL JEUNESSE CGT</ORGANISATION>
+<ADRESSE_x0020_1>263 rue de Paris</ADRESSE_x0020_1>
+<CP>93514</CP>
+<VILLE>MONTREUIL CEDEX</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>243</RéfOrgas>
+<ORGANISATION>CIMADE</ORGANISATION>
+<ADRESSE_x0020_1>176 rue de Grenelle</ADRESSE_x0020_1>
+<CP>75007</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 44 18 60 54</TEL>
+<SITE>www.cimade.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>244</RéfOrgas>
+<ORGANISATION>CITOYENS DU MONDE</ORGANISATION>
+<ADRESSE_x0020_1>15 rue Victor Duruy</ADRESSE_x0020_1>
+<CP>75015</CP>
+<VILLE>PARIS</VILLE>
+<MAIL>citmonde@worldnet.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>245</RéfOrgas>
+<ORGANISATION>CITOYENS POUR LA PAIX</ORGANISATION>
+<ADRESSE_x0020_1>94 rue Jean Pierre Timbaud</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>246</RéfOrgas>
+<ORGANISATION>CLUBS UNESCO</ORGANISATION>
+<ADRESSE_x0020_1>173 rue de Charenton</ADRESSE_x0020_1>
+<CP>75012</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 42 58 68 06</TEL>
+<FAX>01 46 06 28 08</FAX>
+<MAIL>contact@clubs-unesco.org</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>247</RéfOrgas>
+<ORGANISATION>COLLECTIF EUROPACIFIQUE</ORGANISATION>
+<ADRESSE_x0020_1>102 boulevard Arago</ADRESSE_x0020_1>
+<CP>75014</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>248</RéfOrgas>
+<ORGANISATION>COMITE AUXOIS DE LA PAIX</ORGANISATION>
+<ADRESSE_x0020_1>4 Boulevard Jean Jaurès</ADRESSE_x0020_1>
+<CP>13100</CP>
+<VILLE>AIX EN PROVENCE</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>250</RéfOrgas>
+<ORGANISATION>COMITE COOPERATION SCIENTIFIQUE ET TECH. VIETNAM</ORGANISATION>
+<ADRESSE_x0020_1>Observatoire de Meudon</ADRESSE_x0020_1>
+<CP>92190</CP>
+<VILLE>MEUDON</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>253</RéfOrgas>
+<ORGANISATION>COMMISSION NON-VIOLENCE PAX CHRISTI</ORGANISATION>
+<ADRESSE_x0020_1>15 allée des Fleurs d&apos;Ajonc</ADRESSE_x0020_1>
+<CP>29900</CP>
+<VILLE>CONCARNEAU</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>254</RéfOrgas>
+<ORGANISATION>CONFEDERATION GENERAL DU TRAVAIL</ORGANISATION>
+<Sigle>CGT</Sigle>
+<ADRESSE_x0020_1>263 rue de Paris</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>Case 541</ADRESSE_x0020_2>
+<CP>93515</CP>
+<VILLE>MONTREUIL CEDEX</VILLE>
+<TEL>01 48 18 86 86</TEL>
+<FAX>01 48 18 86 87</FAX>
+<MAIL>internat@cgt.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>255</RéfOrgas>
+<ORGANISATION>CONFERENCE MONDIALE CHRETIENNE POUR LA PALESTINE</ORGANISATION>
+<ADRESSE_x0020_1>Témoignage Chrétien</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>49 rue du Faubourg Poissonnière</ADRESSE_x0020_2>
+<CP>75009</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>257</RéfOrgas>
+<ORGANISATION>DROIT DEVANT</ORGANISATION>
+<ADRESSE_x0020_1>44 rue Montcalm</ADRESSE_x0020_1>
+<CP>75018</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 42 58 82 22</TEL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>258</RéfOrgas>
+<ORGANISATION>ECOLE DE LA PAIX</ORGANISATION>
+<ADRESSE_x0020_1>7 rue du Cloître</ADRESSE_x0020_1>
+<CP>38000</CP>
+<VILLE>GRENOBLE</VILLE>
+<TEL>04 76 63 81 41</TEL>
+<FAX>04 76 63 81 42</FAX>
+<MAIL>ecole@ecoledelapaix.org</MAIL>
+<SITE>www.ecoledelapaix.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>259</RéfOrgas>
+<CONTACT_x0020_INTITULE>Madame</CONTACT_x0020_INTITULE>
+<CONTACT_x0020_NOM>FOURME</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Josette</CONTAC_x0020_PRENOM>
+<ORGANISATION>ENSEIGNANTS POUR LA PAIX</ORGANISATION>
+<Sigle>EPP</Sigle>
+<ADRESSE_x0020_1>129 avenue du Général Leclerc</ADRESSE_x0020_1>
+<CP>91120</CP>
+<VILLE>PALAISEAU</VILLE>
+<TEL>01 60 10 20 49</TEL>
+<MAIL>epp.nat@wanadoo.fr</MAIL>
+<Abolition_x0020_2000>1</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>261</RéfOrgas>
+<ORGANISATION>FEDERATION SPORTIVE ET GYMNIQUE DU TRAVAIL</ORGANISATION>
+<Sigle>FSGT</Sigle>
+<ADRESSE_x0020_1>14 rue Scandicci</ADRESSE_x0020_1>
+<CP>93508</CP>
+<VILLE>PANTIN CEDEX</VILLE>
+<TEL>01 49 22 23 19</TEL>
+<FAX>01 49 12 23 60</FAX>
+<MAIL>champ-enfance@fsgt.org</MAIL>
+<SITE>www.fsgt.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>263</RéfOrgas>
+<ORGANISATION>FEDERATION FRANCAISE DES CLUBS UNESCO</ORGANISATION>
+<ADRESSE_x0020_1>173 rue de Charenton</ADRESSE_x0020_1>
+<CP>75012</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 42 58 68 06</TEL>
+<FAX>01 46 06 28 08</FAX>
+<MAIL>contact@clubs-unesco.org</MAIL>
+<SITE>www.clubs-unesco.org/France</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>267</RéfOrgas>
+<ORGANISATION>FEDERATION SYNDICALISTE UNITAIRE</ORGANISATION>
+<Sigle>FSU</Sigle>
+<ADRESSE_x0020_1>104 rue Romain Roland</ADRESSE_x0020_1>
+<CP>93260</CP>
+<VILLE>LES LILAS</VILLE>
+<TEL>01 41 63 27 30</TEL>
+<FAX>01 41 63 15 48</FAX>
+<MAIL>fsu.nationale@fsu.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+<Mise_x0020_à_x0020_jour>2008-04-29T00:00:00</Mise_x0020_à_x0020_jour>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>271</RéfOrgas>
+<CONTACT_x0020_INTITULE>Madame</CONTACT_x0020_INTITULE>
+<CONTACT_x0020_NOM>MERCIER</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Sophie</CONTAC_x0020_PRENOM>
+<ORGANISATION>FEMMES SOLIDAIRES</ORGANISATION>
+<ADRESSE_x0020_1>25 rue du Charolais</ADRESSE_x0020_1>
+<CP>75012</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 40 01 90 90</TEL>
+<FAX>01 40 01 90 81</FAX>
+<MAIL>femmes.solidaires@wanadoo.fr &lt;femmes.solidaires@wanadoo.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>274</RéfOrgas>
+<ORGANISATION>FRANCE LIBERTE</ORGANISATION>
+<ADRESSE_x0020_1>22 Rue de Milan</ADRESSE_x0020_1>
+<CP>75009</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 53 25 10 40</TEL>
+<FAX>01 48 74 01 26</FAX>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>276</RéfOrgas>
+<ORGANISATION>GROUPEMENT SCIENTIFIQUE POUR INFORMATION SUR L&apos;ENERGIE NUCLEAIRE</ORGANISATION>
+<ADRESSE_x0020_1>2 rue François Villon</ADRESSE_x0020_1>
+<CP>91400</CP>
+<VILLE>ORSAY</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>277</RéfOrgas>
+<ORGANISATION>HITI TAU FRANCE</ORGANISATION>
+<ADRESSE_x0020_1>27 rue Salvetat</ADRESSE_x0020_1>
+<CP>94600</CP>
+<VILLE>CHOISY LE ROI</VILLE>
+<TEL>01 48 53 14 04</TEL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>278</RéfOrgas>
+<ORGANISATION>IDEAUX DE 89 EN 93</ORGANISATION>
+<ADRESSE_x0020_1>29 rue Voltaire</ADRESSE_x0020_1>
+<CP>93700</CP>
+<VILLE>DRANCY</VILLE>
+<TEL>01 48 31 53 40</TEL>
+<FAX>01 48 31 00 17</FAX>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>279</RéfOrgas>
+<ORGANISATION>JEUNESSE OUVRIERE CHRETIENNE</ORGANISATION>
+<Sigle>JOC</Sigle>
+<ADRESSE_x0020_1>246 boulevard Saint Denis</ADRESSE_x0020_1>
+<CP>92400</CP>
+<VILLE>COURBEVOIE</VILLE>
+<TEL>01 49 97 00 00</TEL>
+<FAX>01 49 97 00 01</FAX>
+<MAIL>contact@joc.asso.fr</MAIL>
+<SITE>www.joc.asso.fr</SITE>
+<Abolition_x0020_2000>1</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>281</RéfOrgas>
+<ORGANISATION>JOUR DE LA TERRE</ORGANISATION>
+<ADRESSE_x0020_1>3 rue du Buisson Saint Louis</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>1</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>283</RéfOrgas>
+<ORGANISATION>LES ELU-E-S VERT AU CONSEIL REGIONAL DE BRETAGNE</ORGANISATION>
+<ADRESSE_x0020_1>19 rue Salomon de Brosse</ADRESSE_x0020_1>
+<CP>35000</CP>
+<VILLE>RENNES</VILLE>
+<TEL>02.99.87.55.26</TEL>
+<FAX>02.99.87.54.96</FAX>
+<MAIL>verts.crbr@wanadoo.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>284</RéfOrgas>
+<CONTACT_x0020_INTITULE>Madame</CONTACT_x0020_INTITULE>
+<CONTACT_x0020_NOM>DESMOND</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Emmanuelle</CONTAC_x0020_PRENOM>
+<ORGANISATION>ENJEU LES PIONNIERS DE France</ORGANISATION>
+<ADRESSE_x0020_1>23 rue de l&apos;Union</ADRESSE_x0020_1>
+<CP>93300</CP>
+<VILLE>AUBERVILLIERS</VILLE>
+<TEL>01 43 52 29 59</TEL>
+<FAX>01 43 52 32 31</FAX>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>287</RéfOrgas>
+<ORGANISATION>LIGUE COMMUNISTE REVOLUTIONNAIRE</ORGANISATION>
+<ADRESSE_x0020_1>2 rue Richard Lenoir</ADRESSE_x0020_1>
+<CP>93100</CP>
+<VILLE>MONTREUIL</VILLE>
+<Abolition_x0020_2000>1</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>291</RéfOrgas>
+<ORGANISATION>L&apos;UNION SYNDICALISTE DE MONACO</ORGANISATION>
+<ADRESSE_x0020_1>28 boulevard Rainier III</ADRESSE_x0020_1>
+<CP>98000</CP>
+<VILLE>MONACO</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>293</RéfOrgas>
+<CONTACT_x0020_INTITULE>Monsieur</CONTACT_x0020_INTITULE>
+<CONTACT_x0020_NOM>CAILLE</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Denis</CONTAC_x0020_PRENOM>
+<ORGANISATION>MAISON DE VIGILANCE</ORGANISATION>
+<ADRESSE_x0020_1>134 route de Bethemont</ADRESSE_x0020_1>
+<CP>95150</CP>
+<VILLE>TAVERNY</VILLE>
+<Abolition_x0020_2000>1</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>295</RéfOrgas>
+<ORGANISATION>MOUVEMENT DE LA JEUNESSE SOCIALISTE</ORGANISATION>
+<ADRESSE_x0020_1>10 rue de Solferino</ADRESSE_x0020_1>
+<CP>75333</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 45 56 79 99</TEL>
+<FAX>01 45 56 77 66</FAX>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>298</RéfOrgas>
+<ORGANISATION>MOUVEMENT ESPERANTISTE POUR LA PAIX</ORGANISATION>
+<ADRESSE_x0020_1>33 rue de Lorraine</ADRESSE_x0020_1>
+<CP>93200</CP>
+<VILLE>SAINT OUEN</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>304</RéfOrgas>
+<ORGANISATION>PARTI COMMUNISTE FEDERATION DE PARIS</ORGANISATION>
+<ADRESSE_x0020_1>120 rue Lafayette</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>311</RéfOrgas>
+<ORGANISATION>UGICT CGT</ORGANISATION>
+<ADRESSE_x0020_1>263 rue de Paris</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>Case 408</ADRESSE_x0020_2>
+<CP>93516</CP>
+<VILLE>MONTREUIL CEDEX</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>314</RéfOrgas>
+<ORGANISATION>UNION DES ETUDIANTS COMMUNISTES</ORGANISATION>
+<Sigle>UEC</Sigle>
+<ADRESSE_x0020_1>74 boulevard de Stalingrad</ADRESSE_x0020_1>
+<CP>94408</CP>
+<VILLE>VITRY SUR SEINE CEDEX</VILLE>
+<TEL>01 43 90 46 00</TEL>
+<FAX>01 43 90 46 46</FAX>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>344</RéfOrgas>
+<ORGANISATION>STOP ESSAIS - ABOLITION DES ARMES NUCLEAIRES</ORGANISATION>
+<ADRESSE_x0020_1>114 rue de Vaugirard</ADRESSE_x0020_1>
+<CP>75006</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 69 07 78 37</TEL>
+<MAIL>stop.essais@wanadoo.fr</MAIL>
+<SITE>www.obsarm.org</SITE>
+<Abolition_x0020_2000>1</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>345</RéfOrgas>
+<ORGANISATION>CENTRE DE DOCUMENTATION ET DE RECHERCHE SUR LA PAIX ET LES CONFLITS - OBSERVATOIRES DES TRANSPORTS D&apos; ARMEMENTS ET DES ARMES NUCLEAIRES FRANCAISE</ORGANISATION>
+<Sigle>CDRPC</Sigle>
+<ADRESSE_x0020_1>187 monté de Choulans</ADRESSE_x0020_1>
+<CP>69005</CP>
+<VILLE>LYON</VILLE>
+<TEL>04 78 36 93 03</TEL>
+<FAX>04 78 36 36 83</FAX>
+<MAIL>cdrpc@obsarm.org</MAIL>
+<SITE>www.obsarm.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>346</RéfOrgas>
+<ORGANISATION>FORUM PLUTONIUM</ORGANISATION>
+<ADRESSE_x0020_1>Les Oliviers</ADRESSE_x0020_1>
+<CP>26110</CP>
+<VILLE>VENTEROL</VILLE>
+<FAX>04 75 27 97 67</FAX>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>347</RéfOrgas>
+<ORGANISATION>SYNDICAT NATIONAL DE L ENSEIGNEMENT SUPERIEUR</ORGANISATION>
+<Sigle>SNESUP-FSU</Sigle>
+<ADRESSE_x0020_1>78 rue du faubourg Saint Denis</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 44 79 96 10</TEL>
+<FAX>01 42 46 26 56</FAX>
+<MAIL>accueil@snesup.fr</MAIL>
+<SITE>www.snesup.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+<Mise_x0020_à_x0020_jour>2008-06-17T00:00:00</Mise_x0020_à_x0020_jour>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>348</RéfOrgas>
+<ORGANISATION>INSTITUT HIROSHIMA NAGASAKI</ORGANISATION>
+<ADRESSE_x0020_1>BP 108</ADRESSE_x0020_1>
+<CP>92244</CP>
+<VILLE>MALAKOFF CEDEX</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>521</RéfOrgas>
+<CONTACT_x0020_NOM>MATAGNE</CONTACT_x0020_NOM>
+<ORGANISATION>ACTION DES CITOYENS POUR LE DESARMEMENT NUCLEAIRE</ORGANISATION>
+<Sigle>ACDN</Sigle>
+<ADRESSE_x0020_1>Maison des Associations</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>31 rue Cormier</ADRESSE_x0020_2>
+<CP>17100</CP>
+<VILLE>SAINTES</VILLE>
+<MAIL>contact@acdn.net</MAIL>
+<SITE>www.acdn.net</SITE>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>522</RéfOrgas>
+<ORGANISATION>AREV</ORGANISATION>
+<ADRESSE_x0020_1>40 rue de Malte</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>523</RéfOrgas>
+<ORGANISATION>ASSOCIATION D AMITIE FRANCO VIETNAMIENNE</ORGANISATION>
+<Sigle>AAFV</Sigle>
+<ADRESSE_x0020_1>44 rue Alexis Lepère</ADRESSE_x0020_1>
+<CP>93100</CP>
+<VILLE>MONTREUIL</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>524</RéfOrgas>
+<ORGANISATION>ASSOCIATION DES VETERANS DES ESSAIS NUCLEAIRES</ORGANISATION>
+<ADRESSE_x0020_1>Le Président Docteur Jean Louis VALATX</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>187 Montée de Choulans</ADRESSE_x0020_2>
+<CP>69005</CP>
+<VILLE>LYON</VILLE>
+<MAIL>aven@aven.org</MAIL>
+<SITE>www.aven.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>525</RéfOrgas>
+<ORGANISATION>ASSOCIATION DES VICTIMES CIVILES</ORGANISATION>
+<ADRESSE_x0020_1>40 avenue Bontemps</ADRESSE_x0020_1>
+<CP>95750</CP>
+<VILLE>CHARS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>526</RéfOrgas>
+<ORGANISATION>ASSOCIATION FRANCAISE D AMITIE ET SOLIDARITE AVEC LES PEUPLES</ORGANISATION>
+<ADRESSE_x0020_1>Bourse du Travail</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>13 rue Pierre et Marie Curie</ADRESSE_x0020_2>
+<CP>93170</CP>
+<VILLE>BAGNOLET</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>527</RéfOrgas>
+<ORGANISATION>ASSOCIATION NATIONALE DES CHEMINOTS ANCIENS COMBATTANTS</ORGANISATION>
+<Sigle>ANCAC</Sigle>
+<ADRESSE_x0020_1>7 rue Château Landon</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 42 05 12 13</TEL>
+<categorie>org</categorie>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>528</RéfOrgas>
+<ORGANISATION>ASSOCIATION NATIONALE DES ELUS COMMUNISTES REPUBLICAINS</ORGANISATION>
+<ADRESSE_x0020_1>10 rue Parmentier</ADRESSE_x0020_1>
+<CP>93100</CP>
+<VILLE>MONTREUIL</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>529</RéfOrgas>
+<ORGANISATION>ASSOCIATION POUR LE CONTRAT DE L EAU</ORGANISATION>
+<ADRESSE_x0020_1>22 rue de Milan</ADRESSE_x0020_1>
+<CP>75009</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>530</RéfOrgas>
+<ORGANISATION>AVIGOLFE</ORGANISATION>
+<ADRESSE_x0020_1>49 avenue Bontemps</ADRESSE_x0020_1>
+<CP>95750</CP>
+<VILLE>CHARS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>531</RéfOrgas>
+<ORGANISATION>CAMPAGNE INTERNATIONALE POUR LA PAIX ET LA DEMOCRATIE</ORGANISATION>
+<ADRESSE_x0020_1>38 boulevard Soult</ADRESSE_x0020_1>
+<CP>75012</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>532</RéfOrgas>
+<ORGANISATION>CHOISIR LA CAUSE DES FEMMES</ORGANISATION>
+<ADRESSE_x0020_1>102 rue Saint Dominique</ADRESSE_x0020_1>
+<CP>75007</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>533</RéfOrgas>
+<ORGANISATION>CITES UNIES DE France</ORGANISATION>
+<Sigle>CUF</Sigle>
+<ADRESSE_x0020_1>9 rue Christiani</ADRESSE_x0020_1>
+<CP>75018</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>534</RéfOrgas>
+<ORGANISATION>COALITION INTERNATIONALE CONTRE LA GUERRE</ORGANISATION>
+<ADRESSE_x0020_1>144 rue du Chemin Vert</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>535</RéfOrgas>
+<ORGANISATION>COMEDIANCE</ORGANISATION>
+<ADRESSE_x0020_1>32 rue Jean Jaurès</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>BP - 230</ADRESSE_x0020_2>
+<CP>93523</CP>
+<VILLE>SAINT DENIS CEDEX</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>536</RéfOrgas>
+<CONTACT_x0020_INTITULE>Monsieur</CONTACT_x0020_INTITULE>
+<CONTACT_x0020_NOM>LE DAUPHIN</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Jacques</CONTAC_x0020_PRENOM>
+<ORGANISATION>COMITE NATIONAL POUR L INDEPENDANCE ET LE DEVELOPPEMENT</ORGANISATION>
+<Sigle>CNID</Sigle>
+<ADRESSE_x0020_1>139 boulevard Victoir Hugo</ADRESSE_x0020_1>
+<CP>93400</CP>
+<VILLE>SAINT OUEN</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>537</RéfOrgas>
+<ORGANISATION>COMITE TCHETCHENIE</ORGANISATION>
+<ADRESSE_x0020_1>21 ter rue Voltaire</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<TEL>06 14 02 74 52</TEL>
+<MAIL>comitetchetchenie@hotmail.ceom</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>538</RéfOrgas>
+<ORGANISATION>COMISION DE RECHERCHE ET D INFORMATION INDEPENDANTE SUR LA RADIOACTIVITE</ORGANISATION>
+<Sigle>CRIID</Sigle>
+<ADRESSE_x0020_1>471 avenue Victor Hugo</ADRESSE_x0020_1>
+<CP>26000</CP>
+<VILLE>VALENCE</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>539</RéfOrgas>
+<ORGANISATION>COMMISSION POUR LES RELATIONS NATIONALES ET INTERNATIONALES DE JEUNESSE ET D EDUCATION POPULAIRE</ORGANISATION>
+<ADRESSE_x0020_1>15 passage de la Main d&apos;Or</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>540</RéfOrgas>
+<ORGANISATION>CONFEDERATION FRANCAISE DEMOCRATIQUE DU TRAVAIL</ORGANISATION>
+<ADRESSE_x0020_1>4 boulevard de la Vilette</ADRESSE_x0020_1>
+<CP>75955</CP>
+<VILLE>PARIS CEDEX 19</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>542</RéfOrgas>
+<ORGANISATION>CONFEDERATION SYNDICALE DES FAMILLES</ORGANISATION>
+<ADRESSE_x0020_1>53 rue Riquet</ADRESSE_x0020_1>
+<CP>75019</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>543</RéfOrgas>
+<ORGANISATION>CONVERGENCE ECOLOGIE SOLIDARITE</ORGANISATION>
+<ADRESSE_x0020_1>52 rue Lafayette</ADRESSE_x0020_1>
+<CP>75009</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>544</RéfOrgas>
+<CONTACT_x0020_INTITULE>Madame</CONTACT_x0020_INTITULE>
+<CONTACT_x0020_NOM>MASSINA</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Anna</CONTAC_x0020_PRENOM>
+<ORGANISATION>COORDINATION DE L ACTION NON VIOLENTE DE L ARCHE</ORGANISATION>
+<Sigle>CANVA</Sigle>
+<ADRESSE_x0020_1>Communauté de l&apos;Arche</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>Cour du Cloître</ADRESSE_x0020_2>
+<CP>38160</CP>
+<VILLE>SAINT ANTOINE DE L ABBAYE</VILLE>
+<MAIL>canva_am@yahoo.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>545</RéfOrgas>
+<ORGANISATION>DEFAP</ORGANISATION>
+<ADRESSE_x0020_1>102 boulevard Arago</ADRESSE_x0020_1>
+<CP>75014</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>546</RéfOrgas>
+<ORGANISATION>EDITIONS LA DISPUTE</ORGANISATION>
+<ADRESSE_x0020_1>109 rue Orfila</ADRESSE_x0020_1>
+<CP>75020</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>547</RéfOrgas>
+<ORGANISATION>ESPACE MARX</ORGANISATION>
+<ADRESSE_x0020_1>6 rue Roger Salengro</ADRESSE_x0020_1>
+<CP>59260</CP>
+<VILLE>HELLEMMES</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>548</RéfOrgas>
+<ORGANISATION>FEDERATION NATIONALE DES ANCIENS COMBATTANTS  ALGERIE MAROC TUNISIE</ORGANISATION>
+<ADRESSE_x0020_1>37/39, rue des Gatines</ADRESSE_x0020_1>
+<CP>75980</CP>
+<VILLE>Paris cedex 20</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>549</RéfOrgas>
+<ORGANISATION>FEDERATION DE L EDUCATION NATIONALE</ORGANISATION>
+<ADRESSE_x0020_1>3, rue du Château d&apos;Eau</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>550</RéfOrgas>
+<ORGANISATION>FEDERATION DEMOCRATIQUE INTERNATIONALE DES FEMMES</ORGANISATION>
+<ADRESSE_x0020_1>25 rue du Charolais</ADRESSE_x0020_1>
+<CP>75012</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>553</RéfOrgas>
+<CONTACT_x0020_INTITULE>Monsieur</CONTACT_x0020_INTITULE>
+<CONTACT_x0020_NOM>NAUDET</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Jean Louis</CONTAC_x0020_PRENOM>
+<ORGANISATION>FEDERATION NATIONALE DES TRAVAILLEURS DE L ETAT</ORGANISATION>
+<Sigle>FNTE-CGT</Sigle>
+<ADRESSE_x0020_1>263 rue de Paris</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>Case 541</ADRESSE_x0020_2>
+<CP>93510</CP>
+<VILLE>MONTREUIL</VILLE>
+<TEL>01 48 18 86 86</TEL>
+<FAX>01 48 48 86 87</FAX>
+<MAIL>trav-etat@cgt.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>554</RéfOrgas>
+<ORGANISATION>FEDERATION SUD RAIL</ORGANISATION>
+<ADRESSE_x0020_1>17 boulevard de la Libération</ADRESSE_x0020_1>
+<CP>93200</CP>
+<VILLE>SAINT DENIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>555</RéfOrgas>
+<ORGANISATION>FONDATION COPERNIC</ORGANISATION>
+<ADRESSE_x0020_1>BP - 32</ADRESSE_x0020_1>
+<CP>75921</CP>
+<VILLE>PARIS CEDEX 19</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>556</RéfOrgas>
+<ORGANISATION>GROUPE DE RECHERCHE ET D&apos; INFORMATION SUR LA PAIX ET LA SECURITE</ORGANISATION>
+<Sigle>GRIP</Sigle>
+<ADRESSE_x0020_1>33 rue Van Hoorde</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>B - 1030 Bruxelles</ADRESSE_x0020_2>
+<VILLE>Belgique</VILLE>
+<TEL>32 2 241 84 20</TEL>
+<FAX>32 2 245 19 33</FAX>
+<MAIL>admi@grip.org</MAIL>
+<SITE>www.grip.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>557</RéfOrgas>
+<CONTACT_x0020_INTITULE>Monsieur</CONTACT_x0020_INTITULE>
+<CONTACT_x0020_NOM>BILLE</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Roger</CONTAC_x0020_PRENOM>
+<ORGANISATION>INSTITUT DE DOCUMENTATION ET DE RECHERCHE SUR LA PAIX</ORGANISATION>
+<Sigle>IDRP</Sigle>
+<ADRESSE_x0020_1>Centre Jeanne Hachette</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>4 place des Bouleaux</ADRESSE_x0020_2>
+<CP>94200</CP>
+<VILLE>IVRY SUR SEINE</VILLE>
+<MAIL>contact@institutidrp.org</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>558</RéfOrgas>
+<ORGANISATION>LA PAIX MAINTENANT</ORGANISATION>
+<ADRESSE_x0020_1>10 rue Saint Claude</ADRESSE_x0020_1>
+<CP>75004</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>559</RéfOrgas>
+<CONTACT_x0020_NOM>06 80 63 95 25</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Nelly</CONTAC_x0020_PRENOM>
+<ORGANISATION>MARCHE MONDIALE DES FEMMES CONTRE LES VIOLENCES ET LA PAUVRETE</ORGANISATION>
+<ADRESSE_x0020_1>25/27 rue des Envierges</ADRESSE_x0020_1>
+<CP>75020</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 44 62 12 04</TEL>
+<MAIL>marchfem@rezisti.org</MAIL>
+<SITE>www.marchemondiale.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+<Mise_x0020_à_x0020_jour>2009-04-03T00:00:00</Mise_x0020_à_x0020_jour>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>560</RéfOrgas>
+<CONTACT_x0020_INTITULE>Monsieur</CONTACT_x0020_INTITULE>
+<CONTACT_x0020_NOM>LE MIGNOT</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>René</CONTAC_x0020_PRENOM>
+<ORGANISATION>MOUVEMENT CONTRE LE RACISME ET POUR L AMITIE ENTRE LES PEUPLES</ORGANISATION>
+<Sigle>MRAP</Sigle>
+<ADRESSE_x0020_1>43 boulevard Magent</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 53 38 99 99</TEL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>561</RéfOrgas>
+<ORGANISATION>MOUVEMENT DES OBJECTEURS DE CONSCIENCE</ORGANISATION>
+<ADRESSE_x0020_1>C/o MOC Nancy</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>BP - 363</ADRESSE_x0020_2>
+<CP>54007</CP>
+<VILLE>NANCY CEDEX</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>563</RéfOrgas>
+<CONTACT_x0020_INTITULE>Monsieur</CONTACT_x0020_INTITULE>
+<CONTACT_x0020_NOM>BROUSSE Philippe ou RENOU Xavier</CONTACT_x0020_NOM>
+<ORGANISATION>RESEAU SORTIR DU NUCLEAIRE</ORGANISATION>
+<ADRESSE_x0020_1>9 rue Dumenge</ADRESSE_x0020_1>
+<CP>69317</CP>
+<VILLE>LYON CEDEX 04</VILLE>
+<TEL>04 78 28 29 22</TEL>
+<FAX>04 72 07 70 04</FAX>
+<MAIL>xavier.renou@sortirdunucleaire.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>564</RéfOrgas>
+<ORGANISATION>ROBIN DES BOIS</ORGANISATION>
+<ADRESSE_x0020_1>14 rue de l&apos;Atlas</ADRESSE_x0020_1>
+<CP>75019</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>565</RéfOrgas>
+<ORGANISATION>ACTION DES CHRETIENS POUR L&apos; ABOLITION DE LA TORTURE</ORGANISATION>
+<Sigle>ACAT</Sigle>
+<ADRESSE_x0020_1>7 rue Georges Lardennois</ADRESSE_x0020_1>
+<CP>75019</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 40 40 42 43</TEL>
+<FAX>01 40 40 42 44</FAX>
+<MAIL>acat.france@acat.asso.fr</MAIL>
+<SITE>www.acat.asso.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>566</RéfOrgas>
+<ORGANISATION>ASSOCIATION POUR LA COMMUNICATION NON VIOLENTE</ORGANISATION>
+<Sigle>ACNV</Sigle>
+<ADRESSE_x0020_1>13 bis boulevard Saint Martin</ADRESSE_x0020_1>
+<CP>75003</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 48 04 98 07</TEL>
+<FAX>01 42 72 01 31</FAX>
+<MAIL>acnvfrance@wanadoo.fr</MAIL>
+<SITE>www.cnv-europe.org/France</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>567</RéfOrgas>
+<ORGANISATION>ASSOCIATION FRANCAISE DES COMMUNES DEPARTEMENTS ET REGIONS POUR LA PAIX &quot; AFCDRP &quot;</ORGANISATION>
+<ADRESSE_x0020_1>Hôtel de Ville</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>Place du 11 Novembre</ADRESSE_x0020_2>
+<CP>92240</CP>
+<VILLE>MALAKOFF</VILLE>
+<TEL>01 47 46 75 30 / 32</TEL>
+<MAIL>internationalmc3@ville-malakoff.fr</MAIL>
+<SITE>www.ofedrp.com</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>568</RéfOrgas>
+<ORGANISATION>ASSOCIATION INTERNATIONALE DES EDUCATEURS POUR LA PAIX</ORGANISATION>
+<Sigle>AIEP</Sigle>
+<ADRESSE_x0020_1>13 allée Maximilien Robespierre</ADRESSE_x0020_1>
+<CP>92290</CP>
+<VILLE>CHATENAY MALABRY</VILLE>
+<MAIL>iaep@infonie.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>569</RéfOrgas>
+<ORGANISATION>ASSOCIATION POUR L INSTAURATION D&apos; UN REVENU D EXISTENCE</ORGANISATION>
+<Sigle>AIRE</Sigle>
+<ADRESSE_x0020_1>33 avenue des Fauvettes</ADRESSE_x0020_1>
+<CP>91440</CP>
+<VILLE>BURES SUR YVETTE</VILLE>
+<TEL>01 54 95 47 79</TEL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>570</RéfOrgas>
+<ORGANISATION>ALLEZ DIRE A VOS AMIS</ORGANISATION>
+<ADRESSE_x0020_1>10 rue Louis Blanc</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 42 01 95 27</TEL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>571</RéfOrgas>
+<ORGANISATION>ALTERN EDUC</ORGANISATION>
+<ADRESSE_x0020_1>La Liquisse Basse</ADRESSE_x0020_1>
+<CP>12230</CP>
+<VILLE>NANT</VILLE>
+<TEL>05 65 62 29 70</TEL>
+<MAIL>alterneduc@wanadoo.fr</MAIL>
+<SITE>www.alterneduc.fr.st</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>572</RéfOrgas>
+<ORGANISATION>ALTERNATVES NON VIOLENTES</ORGANISATION>
+<Sigle>ANV</Sigle>
+<ADRESSE_x0020_1>Centre 308</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>82 rue Jeanne d&apos; Arc</ADRESSE_x0020_2>
+<CP>76000</CP>
+<VILLE>ROUEN</VILLE>
+<TEL>02 35 75 23 44</TEL>
+<MAIL>francois.vaillant@free.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>573</RéfOrgas>
+<ORGANISATION>ASSOCIATION POUR LA DEMILITARISATION &quot; APRED &quot;</ORGANISATION>
+<ADRESSE_x0020_1>Les Sciernes-Picot</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>CH - 1659 FLENDRUZ</ADRESSE_x0020_2>
+<VILLE>SUISSE</VILLE>
+<TEL>41 79 524 35 74</TEL>
+<MAIL>info@demilitarisation.org</MAIL>
+<SITE>www.demilitarisation.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>574</RéfOrgas>
+<ORGANISATION>ASSOCIATION POUR LA PROMOTION DE LA FEMME ET DE L ENFANT RWANDAIS &quot; APROFER / UMUSEKE &quot;</ORGANISATION>
+<ADRESSE_x0020_1>BP - 5185</ADRESSE_x0020_1>
+<VILLE>KIGALI RWANDA</VILLE>
+<TEL>250  08 52 04 70 30</TEL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>575</RéfOrgas>
+<ORGANISATION>ARCHE DE LANZA DEL VASTO</ORGANISATION>
+<ADRESSE_x0020_1>La Flayssière</ADRESSE_x0020_1>
+<CP>34650</CP>
+<VILLE>JONCELS</VILLE>
+<TEL>04 76 36 48 22</TEL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>577</RéfOrgas>
+<ORGANISATION>ART ET EDUCATION</ORGANISATION>
+<ADRESSE_x0020_1>37 rue Picpus</ADRESSE_x0020_1>
+<CP>75012</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 44 74 99 21</TEL>
+<MAIL>elisabethtoulet@wanadoo.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>578</RéfOrgas>
+<ORGANISATION>ATD QUART MONDE</ORGANISATION>
+<ADRESSE_x0020_1>33 rue Bergère</ADRESSE_x0020_1>
+<CP>75009</CP>
+<VILLE>PARIS</VILLE>
+<TEL>0142 46 81 95</TEL>
+<MAIL>fapori.france@atd-quartmonde.org</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>579</RéfOrgas>
+<ORGANISATION>ATELIER DE PAIX DU CLUNISOIS</ORGANISATION>
+<ADRESSE_x0020_1>Maison des Echevins</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>22 rue de la Barre</ADRESSE_x0020_2>
+<CP>71250</CP>
+<VILLE>CLUNY</VILLE>
+<TEL>03.85.50.27.73</TEL>
+<MAIL>buffet.ant@wanadoo.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>580</RéfOrgas>
+<ORGANISATION>BUREAU INTERNATIONAL CATHOLIQUE DE L ENFANCE</ORGANISATION>
+<Sigle>BICE</Sigle>
+<ADRESSE_x0020_1>70 boulevard Magenta</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 53 35 01 00</TEL>
+<MAIL>info@bice.org</MAIL>
+<SITE>www.bice.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>581</RéfOrgas>
+<ORGANISATION>COMITE DE COORDINATION POUR LE SERVICE CIVIL ET LES VOLONTAIRES</ORGANISATION>
+<Sigle>CCSC-VOLONTARIATS</Sigle>
+<ADRESSE_x0020_1>16 rue Jean Giono</ADRESSE_x0020_1>
+<CP>91000</CP>
+<VILLE>EVRY</VILLE>
+<TEL>01 64 97 83 46</TEL>
+<MAIL>ccsc.volontariats@wanadoo.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>582</RéfOrgas>
+<ORGANISATION>CENTER FOR PEACE AND DEVELOPPEMENT</ORGANISATION>
+<ADRESSE_x0020_1>Fajara &quot; M &quot;</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>Section Serekunda</ADRESSE_x0020_2>
+<VILLE>BANJUL GAMBIE</VILLE>
+<TEL>220 439 68 70</TEL>
+<MAIL>cenpad@post.com</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>583</RéfOrgas>
+<ORGANISATION>CENTRE MARTIN LUTHER KING</ORGANISATION>
+<ADRESSE_x0020_1>Rue de Genève 52</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>1004 Lausanne</ADRESSE_x0020_2>
+<VILLE>SUISSE</VILLE>
+<TEL>41 21 661 24 34</TEL>
+<MAIL>info@cmlkc.ch</MAIL>
+<SITE>www.cmlk.ch</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>584</RéfOrgas>
+<ORGANISATION>CENTRE MENNONITE DE PARIS</ORGANISATION>
+<ADRESSE_x0020_1>13 rue du Val d&apos;Osne</ADRESSE_x0020_1>
+<CP>94410</CP>
+<VILLE>SAINT MAURICE</VILLE>
+<TEL>01 43 96 12 32</TEL>
+<MAIL>contact@centre-mennonite.fr</MAIL>
+<SITE>www.centre-mennonite.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>585</RéfOrgas>
+<ORGANISATION>CENTRE MONDIAL DE LA PAIX DES LIBERTES ET DES DROITS DE L&apos;HOMME</ORGANISATION>
+<ADRESSE_x0020_1>Palais épiscopale-Place Monseigneur Ginisty</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>BP - 10183</ADRESSE_x0020_2>
+<CP>55105</CP>
+<VILLE>VERDUN CEDEX</VILLE>
+<TEL>03 29 86 55 00</TEL>
+<FAX>03.29.86.15.14</FAX>
+<MAIL>cmpaix@wanadoo.fr</MAIL>
+<SITE>www.centremondialpaix.asso.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>587</RéfOrgas>
+<ORGANISATION>LE MONDE DIPLOMATIQUE</ORGANISATION>
+<ADRESSE_x0020_1>1 avenue Stephen Pichon</ADRESSE_x0020_1>
+<CP>75013</CP>
+<VILLE>PARIS</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>605</RéfOrgas>
+<ORGANISATION>ASSOCIATION AU SERVICE DE L&apos; ACTION HUMANITAIRE</ORGANISATION>
+<Sigle>ASAH</Sigle>
+<ADRESSE_x0020_1>13 Rue des Fontelles</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>Zac du Petit Parc</ADRESSE_x0020_2>
+<CP>78920</CP>
+<VILLE>ECQUEVILLY</VILLE>
+<MAIL>animation@salon humanitaire.org</MAIL>
+<SITE>www.collectif-asah.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>606</RéfOrgas>
+<ORGANISATION>ASSOCIATION ART CULTURE ET COMMUNICATION</ORGANISATION>
+<ADRESSE_x0020_1>4 rue du Tournefou</ADRESSE_x0020_1>
+<CP>10190</CP>
+<VILLE>PALIS</VILLE>
+<TEL>03.25.40.58.37</TEL>
+<FAX>03.25.40.05.56</FAX>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>607</RéfOrgas>
+<ORGANISATION>ASSOCIATON PRESENCE A VEZELAY</ORGANISATION>
+<ADRESSE_x0020_1>Route de Clamecy</ADRESSE_x0020_1>
+<CP>89450</CP>
+<VILLE>VEZELAY</VILLE>
+<TEL>03.86.33.33.34</TEL>
+<FAX>03.86.33.20.70</FAX>
+<MAIL>maison-du-visiteur@wanadoo.fr</MAIL>
+<SITE>www.vezelay-visiteur.com</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>609</RéfOrgas>
+<ORGANISATION>CARITAS INERNATIONALS</ORGANISATION>
+<ADRESSE_x0020_1>106 rue du Bac</ADRESSE_x0020_1>
+<CP>75341</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.45.49.74.40.</TEL>
+<FAX>01.45.49.94.50</FAX>
+<MAIL>genevieve-colas@secours-catholique.asso.fr</MAIL>
+<SITE>www.caritas.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>612</RéfOrgas>
+<ORGANISATION>COMITE DE COORDINATION DU SERVICE VOLONTAIRE INTERNATIONAL</ORGANISATION>
+<Sigle>CCSVI</Sigle>
+<ADRESSE_x0020_1>Maison de l&apos;UNESCO</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>1 rue Miollis</ADRESSE_x0020_2>
+<CP>75015</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.45.68.49.36</TEL>
+<FAX>01.42.73.05.21</FAX>
+<SITE>www.unesco.org/ccivs</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>616</RéfOrgas>
+<ORGANISATION>COLLECTIF FATY KOUMBA</ORGANISATION>
+<Sigle>CFK</Sigle>
+<ADRESSE_x0020_1>110 rue des Amandiers</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>BP 115</ADRESSE_x0020_2>
+<CP>75961</CP>
+<VILLE>PARIS CEDEX 20</VILLE>
+<TEL>06.17.08.60.30</TEL>
+<MAIL>faty_koumba@hotmail.com</MAIL>
+<SITE>www.site.voila.fr./LECFK</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>617</RéfOrgas>
+<ORGANISATION>CHILDREN&apos; S VOICE (GOMA-RDC ) LA VOIX DES ENFANTS DU NORD-KIVU</ORGANISATION>
+<ADRESSE_x0020_1>11 rue Emile Durkheim</ADRESSE_x0020_1>
+<CP>75013</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.44.24.90.00</TEL>
+<MAIL>contact@afik.org</MAIL>
+<SITE>www.korczak.fr/rdc/childrensvoice</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>618</RéfOrgas>
+<ORGANISATION>CHRONIQUE SOCIALE</ORGANISATION>
+<ADRESSE_x0020_1>7 rue du Plat</ADRESSE_x0020_1>
+<CP>69288</CP>
+<VILLE>LYON CEDEX 02</VILLE>
+<TEL>04.78.37.22.12</TEL>
+<FAX>04.78.42.03.18</FAX>
+<MAIL>chroniquesociale@wanadoo.fr</MAIL>
+<SITE>www.work.chroniquesociale.com</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>620</RéfOrgas>
+<ORGANISATION>COLLECTIF DE CHENOVE POUR LA CULTURE DE LA PAIX</ORGANISATION>
+<ADRESSE_x0020_1>MJC 7 rue de Longvic</ADRESSE_x0020_1>
+<CP>21300</CP>
+<VILLE>CHENOVE</VILLE>
+<TEL>03.80.52.18.64</TEL>
+<FAX>03.80.52.57.24</FAX>
+<MAIL>mjc.chenove@wanadoo.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>621</RéfOrgas>
+<ORGANISATION>COLLECTIF DES ALPES -DE-HAUTE-PROVENCE POUR LA DECENNIE</ORGANISATION>
+<ADRESSE_x0020_1>c/o Yves Poulain</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>3 impasse de la Meynière</ADRESSE_x0020_2>
+<CP>4100</CP>
+<VILLE>MANOSQUE</VILLE>
+<TEL>04.92.72.23.11</TEL>
+<MAIL>pierdufour@smtp.wanadoo.fr</MAIL>
+<SITE>www.clubs-unesco.org/</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>622</RéfOrgas>
+<ORGANISATION>COLLECTIF GUATEMALA</ORGANISATION>
+<ADRESSE_x0020_1>21 ter rue Voltaire</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.43.73.49.60</TEL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>623</RéfOrgas>
+<ORGANISATION>COLLECTIF LA PAIX AU SRI LANKA</ORGANISATION>
+<ADRESSE_x0020_1>157 boulevard de Belleville</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<TEL>06.65.37.86.54</TEL>
+<MAIL>contact@aetf.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>624</RéfOrgas>
+<ORGANISATION>COMITE Français POUR L&apos; INTERVENTION CIVILE DE PAIX</ORGANISATION>
+<Sigle>COMITE ICP</Sigle>
+<ADRESSE_x0020_1>114 rue de Vaugirard</ADRESSE_x0020_1>
+<CP>75006</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.45.44.48.25</TEL>
+<MAIL>comiteicp@free.fr</MAIL>
+<SITE>www.manco.free.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>627</RéfOrgas>
+<ORGANISATION>CONSEIL PLENIER DE LA FAMILLE FRANCISCAINE</ORGANISATION>
+<ADRESSE_x0020_1>7 rue Marie-Rose</ADRESSE_x0020_1>
+<CP>75014</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.45.42.47.18</TEL>
+<MAIL>sarrette@wanadoo.fr</MAIL>
+<SITE>www.franciscain.net</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>628</RéfOrgas>
+<ORGANISATION>CONSTELLATION</ORGANISATION>
+<ADRESSE_x0020_1>Villarbernon</ADRESSE_x0020_1>
+<CP>73140</CP>
+<VILLE>SAINT MICHEL DE MAURIENNE</VILLE>
+<TEL>04.79.56.56.63</TEL>
+<FAX>04.79.56.59.30</FAX>
+<MAIL>constellation@constellationart.org</MAIL>
+<SITE>www.constellationart.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>629</RéfOrgas>
+<ORGANISATION>CONTRUISONS LA PAIX -34</ORGANISATION>
+<ADRESSE_x0020_1>C/o Fabienne Desplanque</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>234 rue du Thau</ADRESSE_x0020_2>
+<CP>34230</CP>
+<VILLE>PAULHAN</VILLE>
+<TEL>04.67.25.29.33</TEL>
+<MAIL>fabienne.desplanque@wanadoo.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>630</RéfOrgas>
+<ORGANISATION>COORDINATION FRANCAISE POUR LA DECENNIE</ORGANISATION>
+<ADRESSE_x0020_1>148 rue du Faubourg Saint-Denis</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.46.33.41.56</TEL>
+<FAX>01.40.51.70.02</FAX>
+<MAIL>coordination@decennie.org</MAIL>
+<SITE>www.decennie.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>631</RéfOrgas>
+<CONTACT_x0020_NOM>FREYCHET</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Pierre</CONTAC_x0020_PRENOM>
+<ORGANISATION>COORDINATION LOCALE MARTIGUES ETANG DE BERRE POUR LA DECENNIE</ORGANISATION>
+<ADRESSE_x0020_1>12 allée Chantefeuille</ADRESSE_x0020_1>
+<CP>13620</CP>
+<VILLE>CARRY LE ROUET</VILLE>
+<TEL>04.42.44.50.03</TEL>
+<MAIL>pierrefreychet@free.fr</MAIL>
+<SITE>j.garin@wanadoo.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>632</RéfOrgas>
+<CONTACT_x0020_INTITULE>Monsieur</CONTACT_x0020_INTITULE>
+<CONTACT_x0020_NOM>MAHOT-GUISE</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Eric</CONTAC_x0020_PRENOM>
+<ORGANISATION>COORDINATION NORD PAS DE CALAIS DE LA DECENNIE POUR UNE CULTURE DE NON VIOLENCE ET DE PAIX</ORGANISATION>
+<ADRESSE_x0020_1>C/o IFMAN</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>23 rue Gosselet</ADRESSE_x0020_2>
+<CP>59000</CP>
+<VILLE>LILLE</VILLE>
+<TEL>03.20.95.91.46</TEL>
+<FAX>03 20 86 15 56</FAX>
+<MAIL>semaine.paix@free.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>633</RéfOrgas>
+<ORGANISATION>CORBINIERE DES LANDES (LA )</ORGANISATION>
+<ADRESSE_x0020_1>La Corbiniere des Landes</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>Goméné</ADRESSE_x0020_2>
+<CP>22230</CP>
+<VILLE>MERDRIGNAC</VILLE>
+<TEL>02.96.26.56.84</TEL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>634</RéfOrgas>
+<ORGANISATION>CENTRE DE RECHERCHE POUR LA PAIX FACULTE DE SCIENCES SOCIALES ET ECONOMIQUE - FASSE</ORGANISATION>
+<Sigle>CRP</Sigle>
+<ADRESSE_x0020_1>21 rue de d&apos;Assas</ADRESSE_x0020_1>
+<CP>75006</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.44.39.52.89</TEL>
+<FAX>01.44.39.92.86</FAX>
+<SITE>www.ic-fr.org --- www.icp.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>635</RéfOrgas>
+<ORGANISATION>CULTIVONS LA PAIX</ORGANISATION>
+<ADRESSE_x0020_1>3 rue des Peupliers</ADRESSE_x0020_1>
+<CP>78370</CP>
+<VILLE>PLAISIR</VILLE>
+<TEL>01.30.54.22.77</TEL>
+<MAIL>cultivonslapaix@decennie.org</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>636</RéfOrgas>
+<ORGANISATION>DELEGATION CATHOLIQUE POUR LA COOPERATION</ORGANISATION>
+<Sigle>DCC</Sigle>
+<ADRESSE_x0020_1>11 rue Guyton de Morveau</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>BP 303</ADRESSE_x0020_2>
+<CP>75625</CP>
+<VILLE>PARIS CEDEX 13</VILLE>
+<TEL>01.45.65.96.65</TEL>
+<FAX>01.45.81.30.81</FAX>
+<MAIL>info@ladcc.org</MAIL>
+<SITE>www.ladcc.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>637</RéfOrgas>
+<ORGANISATION>DIF PRODUCTIONS</ORGANISATION>
+<ADRESSE_x0020_1>BP 20</ADRESSE_x0020_1>
+<CP>3130</CP>
+<VILLE>LE DONJON</VILLE>
+<TEL>04.70.99.62.12</TEL>
+<MAIL>advdif@difproductions.com</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>640</RéfOrgas>
+<ORGANISATION>EDIDITON CHARLES LEOPOLD MAYER</ORGANISATION>
+<ADRESSE_x0020_1>11 rue Saint-Sabin</ADRESSE_x0020_1>
+<CP>75001</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.48.06.48.86</TEL>
+<MAIL>diffusion@fph.fr</MAIL>
+<SITE>www.editions-mayer.com</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>641</RéfOrgas>
+<ORGANISATION>EDITIONS POUR PENSER A L&apos; ENDROIT</ORGANISATION>
+<ADRESSE_x0020_1>13 rue Pissot</ADRESSE_x0020_1>
+<CP>49300</CP>
+<VILLE>CHOLET</VILLE>
+<TEL>02.41.58.72.26</TEL>
+<SITE>www.pourpenser.com</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>642</RéfOrgas>
+<ORGANISATION>ENFANTS DU MONDE-DROITS DE L&apos;HOMME</ORGANISATION>
+<Sigle>EMDH</Sigle>
+<ADRESSE_x0020_1>5 rue des Haudriettes</ADRESSE_x0020_1>
+<CP>75003</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.42.72.71.78</TEL>
+<FAX>01.42.72.64.06</FAX>
+<MAIL>contact@emdh.org</MAIL>
+<SITE>www.emdh.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>643</RéfOrgas>
+<ORGANISATION>ENFANTS DES OLIVIERS</ORGANISATION>
+<ADRESSE_x0020_1>3 bis rue Jean Brunet</ADRESSE_x0020_1>
+<CP>92120</CP>
+<VILLE>MEUDON</VILLE>
+<TEL>01.46.23.19.96</TEL>
+<FAX>01.46.23.19.98</FAX>
+<MAIL>enfantsdesoliviers@yahoo.fr</MAIL>
+<SITE>http://enfantsdesoliviers.free.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>644</RéfOrgas>
+<ORGANISATION>ENTRAIDE FRANCO-TIBETAINE</ORGANISATION>
+<ADRESSE_x0020_1>Chemin de la passerelle</ADRESSE_x0020_1>
+<CP>77250</CP>
+<VILLE>VENEUX-LES-SABLONS</VILLE>
+<TEL>01.64.31.10.54</TEL>
+<FAX>01.64.31.14.13</FAX>
+<SITE>http://entraide.free.fr/menu.php</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>646</RéfOrgas>
+<ORGANISATION>ESPERANTO</ORGANISATION>
+<ADRESSE_x0020_1>5 rue du Lendemain</ADRESSE_x0020_1>
+<CP>95000</CP>
+<VILLE>CERGY</VILLE>
+<TEL>01.34.42.30.27</TEL>
+<SITE>www.esperanto.net</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>647</RéfOrgas>
+<ORGANISATION>FEDERATION DES ASSOCIATIONS DE RECHERCHE ET D&apos; EDUCATION A LA PAIX</ORGANISATION>
+<Sigle>FAREP</Sigle>
+<ADRESSE_x0020_1>16 rue Jean Giono</ADRESSE_x0020_1>
+<CP>91000</CP>
+<VILLE>EVRY</VILLE>
+<TEL>01.64.97.83.46</TEL>
+<FAX>01.60.78.28.61</FAX>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>648</RéfOrgas>
+<ORGANISATION>FEDERATION DES CIGALES</ORGANISATION>
+<ADRESSE_x0020_1>61 rue Victor Hugo</ADRESSE_x0020_1>
+<CP>93500</CP>
+<VILLE>PANTIN</VILLE>
+<TEL>01.49.91.90.91</TEL>
+<MAIL>info@cigales.asso.fr</MAIL>
+<SITE>www.cigales.asso.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>649</RéfOrgas>
+<ORGANISATION>FILS DE LA CHARITE</ORGANISATION>
+<ADRESSE_x0020_1>10 rue Louis Blanc</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.42.01.95.27</TEL>
+<FAX>01.42.01.31.50</FAX>
+<MAIL>les-fils-de-la-charite@wanadoo.fr</MAIL>
+<SITE>www.filsdelacharite.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>650</RéfOrgas>
+<ORGANISATION>FOCOLARI (HUMANITE NOUVELLE )</ORGANISATION>
+<ADRESSE_x0020_1>6 rue de la Ferme</ADRESSE_x0020_1>
+<CP>91390</CP>
+<VILLE>MORSANG/ORGE</VILLE>
+<TEL>01.60.15.39.04</TEL>
+<MAIL>sif.france@focolari.org</MAIL>
+<SITE>www.focolari.asso.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>651</RéfOrgas>
+<ORGANISATION>FONDATION HOMMES DE PAROLE</ORGANISATION>
+<ADRESSE_x0020_1>15 rue Jean Lantier</ADRESSE_x0020_1>
+<CP>75001</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.42.22.07.08</TEL>
+<FAX>01.42.22.09.70</FAX>
+<MAIL>hdpl@hommesdeparole.org</MAIL>
+<SITE>www.hommesdeparole.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>652</RéfOrgas>
+<ORGANISATION>FORUM MONDIAL DE LA PAIX</ORGANISATION>
+<ADRESSE_x0020_1>116 avenue d&apos; Italie</ADRESSE_x0020_1>
+<CP>75013</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.45.88.54.94</TEL>
+<MAIL>aliou.barry@forummondialedelapaix.org</MAIL>
+<SITE>www.afrique-conflits.com</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>653</RéfOrgas>
+<ORGANISATION>FRATERNITE D&apos; ABRAHAM</ORGANISATION>
+<ADRESSE_x0020_1>BP 23108</ADRESSE_x0020_1>
+<CP>75364</CP>
+<VILLE>PARIS CEDEX 08</VILLE>
+<TEL>01.45.49.46.33</TEL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>655</RéfOrgas>
+<ORGANISATION>INITIATIVIVES ET CHANGEMENT</ORGANISATION>
+<ADRESSE_x0020_1>7 bis rue des Acacias</ADRESSE_x0020_1>
+<CP>92130</CP>
+<VILLE>ISSY LES MOULINEAUX</VILLE>
+<TEL>01.41.46.03.60</TEL>
+<FAX>01.46.44.19.08</FAX>
+<MAIL>info@ic-fr.org</MAIL>
+<SITE>www.ic-fr.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>656</RéfOrgas>
+<ORGANISATION>INSTITUT CHARLES ROJZAMN-THERAPIE SOCIALE</ORGANISATION>
+<ADRESSE_x0020_1>7 rue Sainte-Odile</ADRESSE_x0020_1>
+<CP>71250</CP>
+<VILLE>CLUNY</VILLE>
+<TEL>03.85.59.25.19</TEL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>657</RéfOrgas>
+<ORGANISATION>INSTITUT PANOS PARIS</ORGANISATION>
+<Sigle>IPP</Sigle>
+<ADRESSE_x0020_1>10 rue du Mail</ADRESSE_x0020_1>
+<CP>75002</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.40.41.05.50</TEL>
+<FAX>01.40.41.03.20</FAX>
+<MAIL>panos@panosparis.org</MAIL>
+<SITE>www.panosparis.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>658</RéfOrgas>
+<ORGANISATION>INSTITUT SUPERIEUR MARIA MONTESSORI</ORGANISATION>
+<Sigle>ISMM</Sigle>
+<ADRESSE_x0020_1>322 rue des Pyrénées</ADRESSE_x0020_1>
+<CP>75020</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.43.58.89.79</TEL>
+<FAX>01.43.58.84.74</FAX>
+<SITE>www.montessori-France.asso.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>659</RéfOrgas>
+<ORGANISATION>JEUNESSE ET RECONSTRUCTION</ORGANISATION>
+<ADRESSE_x0020_1>8-10 rue de Trévise</ADRESSE_x0020_1>
+<CP>75009</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.47.70.15.88</TEL>
+<FAX>01.48.00.92.18</FAX>
+<SITE>www.volontariat.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>662</RéfOrgas>
+<ORGANISATION>LA VIE</ORGANISATION>
+<ADRESSE_x0020_1>163 Boulevard Malesherbes</ADRESSE_x0020_1>
+<CP>75859</CP>
+<VILLE>PARIS CEDEX 17</VILLE>
+<TEL>01.48.88.46.00</TEL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>663</RéfOrgas>
+<ORGANISATION>LE CUN DU LARZAC</ORGANISATION>
+<ADRESSE_x0020_1>Route de Saint-Martin</ADRESSE_x0020_1>
+<CP>12100</CP>
+<VILLE>MILLAU</VILLE>
+<TEL>05.65.60.62.33</TEL>
+<MAIL>cuninsitut@wanadoo.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>664</RéfOrgas>
+<ORGANISATION>LE MONDE</ORGANISATION>
+<ADRESSE_x0020_1>21 bis rue Claude Bernard</ADRESSE_x0020_1>
+<CP>75242</CP>
+<VILLE>PARIS CEDEX 05</VILLE>
+<SITE>www.lemonde.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>665</RéfOrgas>
+<ORGANISATION>LE MONDE DES ADOS</ORGANISATION>
+<ADRESSE_x0020_1>129 boulevard Malesherbes</ADRESSE_x0020_1>
+<CP>75017</CP>
+<VILLE>PARIS</VILLE>
+<SITE>www.lemondedesados.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>668</RéfOrgas>
+<ORGANISATION>MOUVEMENT POUR UNE ALTERNATIVE NON VIOLENTE - SOMME</ORGANISATION>
+<Sigle>MAN EDUC</Sigle>
+<ADRESSE_x0020_1>370 rue d&apos;Elbeuf</ADRESSE_x0020_1>
+<CP>80000</CP>
+<VILLE>AMIENS</VILLE>
+<TEL>03.22.89.45.79</TEL>
+<SITE>http://manco.free.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>669</RéfOrgas>
+<ORGANISATION>MOUVEMENT POUR LE DESARMEMENT LA PAIX ET LA LIBERTE</ORGANISATION>
+<Sigle>MDPL</Sigle>
+<ADRESSE_x0020_1>142 rue des Alliés</ADRESSE_x0020_1>
+<CP>42100</CP>
+<VILLE>SAINT ETIENNE</VILLE>
+<TEL>04.77.32.05.38</TEL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>672</RéfOrgas>
+<ORGANISATION>FONDS ASSOCIATIF POUR UNE CULTURE DE NON VIOLENCE AU XXIE SIECLE</ORGANISATION>
+<Sigle>NON VIOLENCE  XXI</Sigle>
+<ADRESSE_x0020_1>114 rue Vaugirard</ADRESSE_x0020_1>
+<CP>75006</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.45.48.37.62</TEL>
+<FAX>01.45.44.48.25</FAX>
+<MAIL>nonviolence21@free.fr</MAIL>
+<SITE>www.nonviolence21.com</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>673</RéfOrgas>
+<ORGANISATION>NOUVEL HUMANISME (LE )</ORGANISATION>
+<ADRESSE_x0020_1>3 rue de Chatillon</ADRESSE_x0020_1>
+<CP>75014</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.45.40.41.80</TEL>
+<FAX>01.45.40.08.06</FAX>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>674</RéfOrgas>
+<ORGANISATION>NON VIOLENCE ACTUALITE CENTRE DE RESSOURCES SUR LA GESTION NON VIOLENTE DES CONFLITS</ORGANISATION>
+<Sigle>NVA</Sigle>
+<ADRESSE_x0020_1>20 rue du Dévidet</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>BP 241</ADRESSE_x0020_2>
+<CP>45200</CP>
+<VILLE>MONTARGIS</VILLE>
+<TEL>02.38.93.67.22</TEL>
+<FAX>02.38.93.74.72</FAX>
+<MAIL>nonviolence.actualite@wanadoo.fr</MAIL>
+<SITE>www.nonviolence-actualite.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>675</RéfOrgas>
+<ORGANISATION>NON VIOLENCE ET PAIX- LORRAINE (COORDINATION LOCALE DE LA COORDINATION FRANCAISE POUR LA DECENNIE)</ORGANISATION>
+<Sigle>NVP LORRAINE</Sigle>
+<ADRESSE_x0020_1>C/o M Gehin</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>l&apos; Ebrouelle</ADRESSE_x0020_2>
+<CP>54290</CP>
+<VILLE>FROVILLE</VILLE>
+<TEL>03.83.72.88.50</TEL>
+<FAX>03.83.72.86.58</FAX>
+<MAIL>nvp54@club-internet.fr</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>676</RéfOrgas>
+<ORGANISATION>NON VIOLENCE ET PAIX- NORMANDIE (COORDINATION LOCALE DE LA COORDINATION FRANCAISE POUR LA DECENNIE)</ORGANISATION>
+<Sigle>NVP NORMANDIE</Sigle>
+<ADRESSE_x0020_1>C/o Eric Doniès</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>28 rue de la Mare du Parc</ADRESSE_x0020_2>
+<CP>76000</CP>
+<VILLE>ROUEN</VILLE>
+<MAIL>normandie.paix@laposte.net</MAIL>
+<SITE>www.culture.monsite.wanadoo.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>677</RéfOrgas>
+<ORGANISATION>PAR LA MAIN</ORGANISATION>
+<ADRESSE_x0020_1>27 impasse Debussy</ADRESSE_x0020_1>
+<CP>34920</CP>
+<VILLE>LE CRES</VILLE>
+<TEL>04.67.70.17.91</TEL>
+<MAIL>affortit@compuserve.com</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>678</RéfOrgas>
+<ORGANISATION>PARLER EN PAIX</ORGANISATION>
+<ADRESSE_x0020_1>13 rue Mazarine</ADRESSE_x0020_1>
+<CP>75006</CP>
+<VILLE>PARIS</VILLE>
+<TEL>06.28.01.15.64</TEL>
+<MAIL>contact@parleenpaix.org</MAIL>
+<SITE>www.parleenpaix.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>680</RéfOrgas>
+<ORGANISATION>PEACE BRIGADE INTERNATIONAL</ORGANISATION>
+<Sigle>PBI</Sigle>
+<ADRESSE_x0020_1>21 ter rue Voltaire</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.43.73.49.60</TEL>
+<MAIL>pbi.france@free.fr</MAIL>
+<SITE>www.peacebrigades.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>681</RéfOrgas>
+<ORGANISATION>RECIT</ORGANISATION>
+<ADRESSE_x0020_1>15 avenue Robert Fleury</ADRESSE_x0020_1>
+<CP>78220</CP>
+<VILLE>VIROFLAY</VILLE>
+<TEL>06.67.05.58.95</TEL>
+<SITE>www.recit.net</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>682</RéfOrgas>
+<ORGANISATION>RESEAU ESPERANCE</ORGANISATION>
+<ADRESSE_x0020_1>L&apos; Ebrouelle</ADRESSE_x0020_1>
+<CP>54290</CP>
+<VILLE>FROVILLE</VILLE>
+<TEL>03.83.72.88.50</TEL>
+<FAX>03.83.72.86.58</FAX>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>683</RéfOrgas>
+<ORGANISATION>SAVOIR ETRE ET EDUCATION</ORGANISATION>
+<ADRESSE_x0020_1>59 rue de la Fontaine du Roi</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<TEL>08.70.72.58.48</TEL>
+<MAIL>caroline.sost@free.fr</MAIL>
+<SITE>www.savoir-etre-et-education.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>684</RéfOrgas>
+<CONTACT_x0020_NOM>DUVAL</CONTACT_x0020_NOM>
+<Fonction>Coordinatrice de la Vie Associative</Fonction>
+<CONTAC_x0020_PRENOM>Virginie</CONTAC_x0020_PRENOM>
+<ORGANISATION>SERVICE CIVIL INTENATIONAL</ORGANISATION>
+<Sigle>SCI</Sigle>
+<ADRESSE_x0020_1>20 rue Camille Flammarion</ADRESSE_x0020_1>
+<CP>75018</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 42 54 62 43</TEL>
+<FAX>09 56 72 19 36</FAX>
+<MAIL>sci@sci-france.org</MAIL>
+<SITE>www.sci-france.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+<Mise_x0020_à_x0020_jour>2009-04-03T00:00:00</Mise_x0020_à_x0020_jour>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>685</RéfOrgas>
+<ORGANISATION>SCOUTS ET GUIDES DE France</ORGANISATION>
+<ADRESSE_x0020_1>65 rue de la Glacière</ADRESSE_x0020_1>
+<CP>75013</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.44.52.37.37</TEL>
+<FAX>01.42.38.09.87</FAX>
+<MAIL>communication@sgdf.fr</MAIL>
+<SITE>www.scoutsetguides.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>686</RéfOrgas>
+<ORGANISATION>SECOURS CATHOLIQUE- CARITAS France</ORGANISATION>
+<ADRESSE_x0020_1>106 rue du Bac</ADRESSE_x0020_1>
+<CP>75341</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.45.49.74.40</TEL>
+<FAX>01.45.49.94.50</FAX>
+<MAIL>genevieve-colas@secours-catholique.asso.fr</MAIL>
+<SITE>www.secours-catholique.asso.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>687</RéfOrgas>
+<ORGANISATION>SECOURS ISLAMIQUE</ORGANISATION>
+<ADRESSE_x0020_1>52/58 boulevard Ornano</ADRESSE_x0020_1>
+<CP>93200</CP>
+<VILLE>SAINT DENIS</VILLE>
+<TEL>01.49.17.17.17</TEL>
+<FAX>01.49.17.17.18</FAX>
+<SITE>www.secours-islamique.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>688</RéfOrgas>
+<ORGANISATION>SECOURS POPULAIRE Français</ORGANISATION>
+<ADRESSE_x0020_1>7-11 rue Froissart</ADRESSE_x0020_1>
+<CP>75140</CP>
+<VILLE>PARIS CEDEX 3</VILLE>
+<TEL>01.44.78.21.24</TEL>
+<FAX>01.44.78.21.20</FAX>
+<SITE>www.secourspopulaire.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>689</RéfOrgas>
+<ORGANISATION>SECRETARIAT Français DE LA ROUTE DE JERUSALEM - ECOLE DE LA PAIX</ORGANISATION>
+<ADRESSE_x0020_1>41 rue du Faubourg Saint-Antoine</ADRESSE_x0020_1>
+<CP>75011</CP>
+<VILLE>PARIS</VILLE>
+<MAIL>routedejerusalem@aol.com</MAIL>
+<SITE>www.routedejerusalem.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>690</RéfOrgas>
+<ORGANISATION>SOLIDARITES JEUNESSES</ORGANISATION>
+<ADRESSE_x0020_1>10 rue du 8 mai 1945</ADRESSE_x0020_1>
+<CP>75010</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.55.26.88.77</TEL>
+<FAX>01.53.26.03.26</FAX>
+<SITE>www.solidaritesjeunesse.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>691</RéfOrgas>
+<ORGANISATION>SURVIE</ORGANISATION>
+<ADRESSE_x0020_1>210 rue Saint-Martin</ADRESSE_x0020_1>
+<CP>75003</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.44.61.03.25</TEL>
+<SITE>www.survie-France.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>692</RéfOrgas>
+<CONTACT_x0020_NOM>CLANCHE</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Philippe</CONTAC_x0020_PRENOM>
+<ORGANISATION>TEMOIGNAGE CHRETIEN</ORGANISATION>
+<ADRESSE_x0020_1>28 rue Raymond Losserand</ADRESSE_x0020_1>
+<CP>75014</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 44 83 82 62</TEL>
+<MAIL>p.clanche@temoignagechretien.fr</MAIL>
+<SITE>www.temoignagechretien.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+<Mise_x0020_à_x0020_jour>2013-09-27T00:00:00</Mise_x0020_à_x0020_jour>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>693</RéfOrgas>
+<ORGANISATION>TERRE DU CIEL</ORGANISATION>
+<ADRESSE_x0020_1>Domaine de Chardenoux</ADRESSE_x0020_1>
+<CP>71500</CP>
+<VILLE>BRUAILLES</VILLE>
+<TEL>03.85.60.40.33</TEL>
+<FAX>03.85.60.40.31</FAX>
+<MAIL>infos@terre-du-ciel.fr</MAIL>
+<SITE>www.terre-du-ciel.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>694</RéfOrgas>
+<ORGANISATION>UNE BALLE POUR LA PAIX</ORGANISATION>
+<ADRESSE_x0020_1>30 rue Gramont</ADRESSE_x0020_1>
+<CP>78240</CP>
+<VILLE>CHAMBOURCY</VILLE>
+<SITE>www.uneballepourlapaix.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>695</RéfOrgas>
+<ORGANISATION>UNESCO</ORGANISATION>
+<ADRESSE_x0020_1>7 place de Fontenoy</ADRESSE_x0020_1>
+<CP>75352</CP>
+<VILLE>PARIS 07 SP</VILLE>
+<TEL>01.45.68.13.49</TEL>
+<SITE>www.unesco.org/cp</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>696</RéfOrgas>
+<ORGANISATION>UNICEF PARIS</ORGANISATION>
+<ADRESSE_x0020_1>7 rue Saint Lazare</ADRESSE_x0020_1>
+<CP>75009</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.48.74.74.60</TEL>
+<MAIL>paris@unicef.fr</MAIL>
+<SITE>www.unicef.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>697</RéfOrgas>
+<ORGANISATION>UNIPAZ France</ORGANISATION>
+<ADRESSE_x0020_1>6 rue de l&apos;Occident</ADRESSE_x0020_1>
+<CP>78000</CP>
+<VILLE>VERSAILLES</VILLE>
+<TEL>01.39.02.23.04</TEL>
+<SITE>www.unipaz-europe.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>698</RéfOrgas>
+<ORGANISATION>WORLD VISION France</ORGANISATION>
+<ADRESSE_x0020_1>12 rue Rougemont</ADRESSE_x0020_1>
+<CP>75009</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01.49.49.11.12</TEL>
+<MAIL>info@worldvision.fr</MAIL>
+<SITE>www.worldvision.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>701</RéfOrgas>
+<ORGANISATION>CONTRUISONS LA PAIX -34</ORGANISATION>
+<ADRESSE_x0020_1>Madeleine Guyot - (CDTM)Espace Martin Luther King</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>27 boulevard Louis Blanc</ADRESSE_x0020_2>
+<CP>34000</CP>
+<VILLE>MONTPELLIER</VILLE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>702</RéfOrgas>
+<CONTACT_x0020_NOM>GARIN</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Jacqueline</CONTAC_x0020_PRENOM>
+<ORGANISATION>COORDINATION LOCALE MARTIGUES ETANG DE BERRE POUR LA DECENNIE</ORGANISATION>
+<ADRESSE_x0020_1>12 allée Chantefeuille</ADRESSE_x0020_1>
+<CP>13620</CP>
+<VILLE>CARRY LE ROUET</VILLE>
+<TEL>04 42 80 27 64</TEL>
+<MAIL>j.garin@wanadoo.fr</MAIL>
+<SITE>j.garin@wanadoo.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>703</RéfOrgas>
+<ORGANISATION>MOUVEMENT POUR UNE ALTERNATIVE NON VIOLENTE</ORGANISATION>
+<Sigle>MAN</Sigle>
+<ADRESSE_x0020_1>114 rue de Vaugirard</ADRESSE_x0020_1>
+<CP>75006</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 45 44 48 25</TEL>
+<SITE>www.non-volence.fr</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>704</RéfOrgas>
+<ORGANISATION>CLAIRIERES DE PAIX</ORGANISATION>
+<Sigle>ACCES</Sigle>
+<ADRESSE_x0020_1>20 rue Bel Air</ADRESSE_x0020_1>
+<CP>71250</CP>
+<VILLE>CLUNY</VILLE>
+<TEL>03 85 59 03 06</TEL>
+<MAIL>accharopat@hotmail.com</MAIL>
+<SITE>www.acces-assoc.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>1</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>706</RéfOrgas>
+<ORGANISATION>UNION DES FAMILLES LAIQUES</ORGANISATION>
+<Sigle>UFAL</Sigle>
+<ADRESSE_x0020_1>27 rue de la Réunion</ADRESSE_x0020_1>
+<CP>75020</CP>
+<VILLE>PARIS</VILLE>
+<TEL>01 46 27 09 25</TEL>
+<FAX>01 46 27 23 66</FAX>
+<MAIL>ufalsiege@ufal.org</MAIL>
+<SITE>www.ufal.org</SITE>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+<Mise_x0020_à_x0020_jour>2008-06-05T00:00:00</Mise_x0020_à_x0020_jour>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>707</RéfOrgas>
+<ORGANISATION>EDITIONS FATON</ORGANISATION>
+<ADRESSE_x0020_1>25 rue Berbisey</ADRESSE_x0020_1>
+<CP>21000</CP>
+<VILLE>DIJON</VILLE>
+<TEL>03.80.48.98.48</TEL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>0</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+</ORGANISATIONS>
+<ORGANISATIONS>
+<RéfOrgas>708</RéfOrgas>
+<CONTACT_x0020_NOM>BERNY</CONTACT_x0020_NOM>
+<CONTAC_x0020_PRENOM>Alexia</CONTAC_x0020_PRENOM>
+<ORGANISATION>AFCDRP / Maire pour la Paix France</ORGANISATION>
+<ADRESSE_x0020_1>Hôtel de Ville</ADRESSE_x0020_1>
+<ADRESSE_x0020_2>Place du onze Novembre</ADRESSE_x0020_2>
+<CP>92240</CP>
+<VILLE>MALAKOFF</VILLE>
+<TEL>01 47 46 75 32</TEL>
+<FAX>01 42 53 04 03</FAX>
+<MAIL>secretariat@afcdrp.com</MAIL>
+<Abolition_x0020_2000>0</Abolition_x0020_2000>
+<Campagne_x0020_Désarmement_x0020_Nucléaire>1</Campagne_x0020_Désarmement_x0020_Nucléaire>
+<Décénie>0</Décénie>
+<Mise_x0020_à_x0020_jour>2013-06-24T00:00:00</Mise_x0020_à_x0020_jour>
+</ORGANISATIONS>
+</dataroot>

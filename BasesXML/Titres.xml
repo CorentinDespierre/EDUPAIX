@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Titres.xsd" generated="2018-03-23T09:23:33">
+<Titres>
+<RefTitre>1</RefTitre>
+<Titre>Mlle</Titre>
+</Titres>
+<Titres>
+<RefTitre>2</RefTitre>
+<Titre>Mme</Titre>
+</Titres>
+<Titres>
+<RefTitre>3</RefTitre>
+<Titre>M.</Titre>
+</Titres>
+<Titres>
+<RefTitre>4</RefTitre>
+<Titre>Intitulé</Titre>
+</Titres>
+<Titres>
+<RefTitre>6</RefTitre>
+<Titre>M. Mme</Titre>
+</Titres>
+</dataroot>

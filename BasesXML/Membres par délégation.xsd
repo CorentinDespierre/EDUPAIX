@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:od="urn:schemas-microsoft-com:officedata">
+<xsd:element name="dataroot">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element ref="Membres_x0020_par_x0020_délégation" minOccurs="0" maxOccurs="unbounded"/>
+</xsd:sequence>
+<xsd:attribute name="generated" type="xsd:dateTime"/>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name="Membres_x0020_par_x0020_délégation">
+<xsd:annotation>
+<xsd:appinfo>
+<od:index index-name="Membre par PétitionRéfMembre" index-key="RéfMembre " primary="no" unique="no" clustered="no" order="asc"/>
+<od:index index-name="Membre par PétitionRéfPétition" index-key="RéfDélégation " primary="no" unique="no" clustered="no" order="asc"/>
+<od:index index-name="PrimaryKey" index-key="RéfMembre RéfDélégation " primary="yes" unique="yes" clustered="no" order="asc asc"/>
+<od:tableProperty name="Orientation" type="2" value="0"/>
+<od:tableProperty name="OrderByOn" type="1" value="0"/>
+<od:tableProperty name="DefaultView" type="2" value="2"/>
+<od:tableProperty name="NameMap" type="11" value="CswOVQAAAABTlIjlmSpcSoxQdf29YDE2AAAAAGSFXPZSIONAAAAAAAAAAABNAGUA
+bQBiAHIAZQBzACAAcABhAHIAIABkAOkAbADpAGcAYQB0AGkAbwBuAAAAAAAAAHqH
+k75oy0BBp3dnp0kWkKoHAAAAU5SI5ZkqXEqMUHX9vWAxNlIA6QBmAE0AZQBtAGIA
+cgBlAEQA6QBsAOkAZwBhAHQAaQBvAG4AAAAAAAAARoGN1j2/lE+4yt8g5epFeQcA
+AABTlIjlmSpcSoxQdf29YDE2UgDpAGYATQBlAG0AYgByAGUAAAAAAAAAIUVU+Sr0
+t0SoHx+43YtQ8QcAAABTlIjlmSpcSoxQdf29YDE2UgDpAGYARADpAGwA6QBnAGEA
+dABpAG8AbgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAIAAAAAAAAAAAAAAAAA
+AAAAAA==
+"/>
+<od:tableProperty name="GUID" type="9" value="U5SI5ZkqXEqMUHX9vWAxNg==
+"/>
+</xsd:appinfo>
+</xsd:annotation>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="RéfMembreDélégation" minOccurs="1" od:jetType="autonumber" od:sqlSType="int" od:autoUnique="yes" od:nonNullable="yes" type="xsd:int">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="ColumnWidth" type="3" value="-1"/>
+<od:fieldProperty name="ColumnOrder" type="3" value="0"/>
+<od:fieldProperty name="ColumnHidden" type="1" value="0"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+<xsd:element name="RéfMembre" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="ColumnWidth" type="3" value="-1"/>
+<od:fieldProperty name="ColumnOrder" type="3" value="0"/>
+<od:fieldProperty name="ColumnHidden" type="1" value="0"/>
+<od:fieldProperty name="DecimalPlaces" type="2" value="255"/>
+<od:fieldProperty name="DefaultValue" type="12" value="0"/>
+<od:fieldProperty name="Required" type="1" value="0"/>
+<od:fieldProperty name="DisplayControl" type="3" value="109"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+<xsd:element name="RéfDélégation" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="ColumnWidth" type="3" value="-1"/>
+<od:fieldProperty name="ColumnOrder" type="3" value="0"/>
+<od:fieldProperty name="ColumnHidden" type="1" value="0"/>
+<od:fieldProperty name="DecimalPlaces" type="2" value="255"/>
+<od:fieldProperty name="DefaultValue" type="12" value="0"/>
+<od:fieldProperty name="Required" type="1" value="0"/>
+<od:fieldProperty name="DisplayControl" type="3" value="109"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>

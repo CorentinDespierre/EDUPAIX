@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:od="urn:schemas-microsoft-com:officedata">
+<xsd:element name="dataroot">
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element ref="Membres_x0020_du_x0020_Comité" minOccurs="0" maxOccurs="unbounded"/>
+</xsd:sequence>
+<xsd:attribute name="generated" type="xsd:dateTime"/>
+</xsd:complexType>
+</xsd:element>
+<xsd:element name="Membres_x0020_du_x0020_Comité">
+<xsd:annotation>
+<xsd:appinfo>
+<od:index index-name="CommitteeMembers" index-key="RéfComité RéfMembre " primary="no" unique="yes" clustered="no" order="asc asc"/>
+<od:index index-name="PrimaryKey" index-key="RéfMembreComité " primary="yes" unique="yes" clustered="no" order="asc"/>
+<od:index index-name="RéfComité" index-key="RéfComité " primary="no" unique="no" clustered="no" order="asc"/>
+<od:index index-name="RéfMembre" index-key="RéfMembre " primary="no" unique="no" clustered="no" order="asc"/>
+<od:tableProperty name="GUID" type="9" value="3rl+EayT/EGut4sTRGCejw==
+"/>
+<od:tableProperty name="Orientation" type="2" value="0"/>
+<od:tableProperty name="OrderByOn" type="1" value="0"/>
+<od:tableProperty name="NameMap" type="11" value="CswOVQAAAADeuX4RrJP8Qa63ixNEYJ6PAAAAAJfbH+wSHeNAAAAAAAAAAABNAGUA
+bQBiAHIAZQBzACAAZAB1ACAAQwBvAG0AaQB0AOkAAAAAAAAAfmeDQC/9o02qGfpw
+MMjdSQcAAADeuX4RrJP8Qa63ixNEYJ6PUgDpAGYATQBlAG0AYgByAGUAQwBvAG0A
+aQB0AOkAAAAAAAAAl4GS4sfSA0O26fielc4oWQAAAADrSXPezB3jQAAAAAAAAAAA
+QwBvAG0AaQB0AOkAcwAAAAAAAADtBDWJb6NRQbgOsIVS+cmiBwAAAJeBkuLH0gND
+tun4npXOKFlOAG8AbQBDAG8AbQBpAHQA6QAAAAAAAAD2p9MpaPaiS7nXWqD2flyE
+BwAAAN65fhGsk/xBrreLE0Rgno9SAOkAZgBDAG8AbQBpAHQA6QAAAAAAAACrrzQ5
+an+iQYaYzFaM9A4MAAAAAGteNxEUIONAAAAAAAAAAABNAGUAbQBiAHIAZQBzAAAA
+AAAAACTw18jVljNIn+GyGskH/b8HAAAAq680OWp/okGGmMxWjPQODFIA6QBmAE0A
+ZQBtAGIAcgBlAAAAAAAAAA7O0xE+YEtDvKeI9hZkD7sHAAAAq680OWp/okGGmMxW
+jPQODFAAcgDpAG4AbwBtAAAAAAAAABjnqwnHDfdKtTY5rQT6LyoHAAAA3rl+EayT
+/EGut4sTRGCej1IA6QBmAE0AZQBtAGIAcgBlAAAAAAAAAP3y9yz0eitFksBJ6+1b
+HsYHAAAA3rl+EayT/EGut4sTRGCej0YAbwBuAGMAdABpAG8AbgBDAG8AbQBpAHQA
+6QAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAAAAAIAAAAAAAAAAAAAAAAAAAAAAA==
+"/>
+<od:tableProperty name="DefaultView" type="2" value="2"/>
+</xsd:appinfo>
+</xsd:annotation>
+<xsd:complexType>
+<xsd:sequence>
+<xsd:element name="RéfMembreComité" minOccurs="1" od:jetType="autonumber" od:sqlSType="int" od:autoUnique="yes" od:nonNullable="yes" type="xsd:int">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="Caption" type="12" value="Réf membre du comité"/>
+<od:fieldProperty name="GUID" type="9" value="fmeDQC/9o02qGfpwMMjdSQ==
+"/>
+<od:fieldProperty name="ColumnWidth" type="3" value="-1"/>
+<od:fieldProperty name="ColumnOrder" type="3" value="0"/>
+<od:fieldProperty name="ColumnHidden" type="1" value="0"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+<xsd:element name="RéfComité" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="Required" type="1" value="0"/>
+<od:fieldProperty name="Caption" type="12" value="Réf comité"/>
+<od:fieldProperty name="DisplayControl" type="3" value="111"/>
+<od:fieldProperty name="RowSourceType" type="10" value="Table/Query"/>
+<od:fieldProperty name="RowSource" type="12" value="SELECT DISTINCTROW Comités.* FROM Comités ORDER BY Comités.NomComité; "/>
+<od:fieldProperty name="BoundColumn" type="3" value="1"/>
+<od:fieldProperty name="ColumnCount" type="3" value="2"/>
+<od:fieldProperty name="ColumnHeads" type="1" value="0"/>
+<od:fieldProperty name="ColumnWidths" type="10" value="0;2880"/>
+<od:fieldProperty name="ListRows" type="3" value="8"/>
+<od:fieldProperty name="ListWidth" type="10" value="2835twip"/>
+<od:fieldProperty name="LimitToList" type="1" value="1"/>
+<od:fieldProperty name="GUID" type="9" value="9qfTKWj2oku511qg9n5chA==
+"/>
+<od:fieldProperty name="ColumnWidth" type="3" value="-1"/>
+<od:fieldProperty name="ColumnOrder" type="3" value="0"/>
+<od:fieldProperty name="ColumnHidden" type="1" value="0"/>
+<od:fieldProperty name="DecimalPlaces" type="2" value="255"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+<xsd:element name="RéfMembre" minOccurs="0" od:jetType="longinteger" od:sqlSType="int" type="xsd:int">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="Required" type="1" value="0"/>
+<od:fieldProperty name="Caption" type="12" value="Réf adhérent"/>
+<od:fieldProperty name="DisplayControl" type="3" value="111"/>
+<od:fieldProperty name="RowSourceType" type="10" value="Table/Query"/>
+<od:fieldProperty name="RowSource" type="12" value="SELECT DISTINCTROW Membres.RéfMembre, [NomFamille] &amp; &quot;, &quot; &amp; [Prénom] AS [Nom membre] FROM Membres ORDER BY [NomFamille] &amp; &quot;, &quot; &amp; [Prénom]; "/>
+<od:fieldProperty name="BoundColumn" type="3" value="1"/>
+<od:fieldProperty name="ColumnCount" type="3" value="2"/>
+<od:fieldProperty name="ColumnHeads" type="1" value="0"/>
+<od:fieldProperty name="ColumnWidths" type="10" value="0;2880"/>
+<od:fieldProperty name="ListRows" type="3" value="8"/>
+<od:fieldProperty name="ListWidth" type="10" value="2835twip"/>
+<od:fieldProperty name="LimitToList" type="1" value="1"/>
+<od:fieldProperty name="GUID" type="9" value="GOerCccN90q1NjmtBPovKg==
+"/>
+<od:fieldProperty name="ColumnWidth" type="3" value="-1"/>
+<od:fieldProperty name="ColumnOrder" type="3" value="0"/>
+<od:fieldProperty name="ColumnHidden" type="1" value="0"/>
+<od:fieldProperty name="DecimalPlaces" type="2" value="255"/>
+</xsd:appinfo>
+</xsd:annotation>
+</xsd:element>
+<xsd:element name="FonctionComité" minOccurs="0" od:jetType="text" od:sqlSType="nvarchar">
+<xsd:annotation>
+<xsd:appinfo>
+<od:fieldProperty name="AllowZeroLength" type="1" value="0"/>
+<od:fieldProperty name="Required" type="1" value="0"/>
+<od:fieldProperty name="Caption" type="12" value="Fonction"/>
+<od:fieldProperty name="GUID" type="9" value="/fL3LPR6K0WSwEnr7Vsexg==
+"/>
+<od:fieldProperty name="ColumnWidth" type="3" value="-1"/>
+<od:fieldProperty name="ColumnOrder" type="3" value="0"/>
+<od:fieldProperty name="ColumnHidden" type="1" value="0"/>
+<od:fieldProperty name="DisplayControl" type="3" value="109"/>
+<od:fieldProperty name="IMEMode" type="2" value="0"/>
+<od:fieldProperty name="IMESentenceMode" type="2" value="3"/>
+<od:fieldProperty name="UnicodeCompression" type="1" value="1"/>
+</xsd:appinfo>
+</xsd:annotation>
+<xsd:simpleType>
+<xsd:restriction base="xsd:string">
+<xsd:maxLength value="30"/>
+</xsd:restriction>
+</xsd:simpleType>
+</xsd:element>
+</xsd:sequence>
+</xsd:complexType>
+</xsd:element>
+</xsd:schema>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="Info%20sur%20mon%20organisation.xsd" generated="2018-03-23T09:22:08">
+<Info_x0020_sur_x0020_mon_x0020_organisation>
+<Référence_x0020_Info_x0020_sur_x0020_mon_x0020_organisation>1</Référence_x0020_Info_x0020_sur_x0020_mon_x0020_organisation>
+<NomSociété>Le Mouvement de la Paix</NomSociété>
+<Adresse>139 boulevard Victor Hugo</Adresse>
+<Ville>Saint OUEN</Ville>
+<DépartementOuRégion>93</DépartementOuRégion>
+<Pays>France</Pays>
+<NuméroTél>0140120912</NuméroTél>
+<NumTélécopie>0140115787</NumTélécopie>
+<Courriel>national@mvtpaix.org</Courriel>
+<SiteWeb>www.mvtpaix.org</SiteWeb>
+</Info_x0020_sur_x0020_mon_x0020_organisation>
+</dataroot>
