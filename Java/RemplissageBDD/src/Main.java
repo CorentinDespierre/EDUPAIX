@@ -1,5 +1,9 @@
 import java.io.File;
 import java.security.KeyStore.Entry.Attribute;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.sql.Statement;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Date;
@@ -12,7 +16,7 @@ import org.dom4j.io.SAXReader;
 
 public class Main {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws SQLException {
 		// TODO Auto-generated method stub
 
 
@@ -79,6 +83,16 @@ public class Main {
 				peti.add(p);
 			}
 			System.out.println("petitions: "+peti.size());
+
+			//CONNEXION BDD  ET REQUETE
+
+			Connection con=DriverManager.getConnection("jdbc:postgresql://148.60.11.198:5432/Edupaixv1","Alexis","postgresmdp");
+			Statement statement = con.createStatement();
+			System.out.println(peti.get(0).getTheme());
+
+			statement.execute( "INSERT INTO public.\"Theme\"VALUES(1,"+"'"+peti.get(0).getTheme()+"'"+");");
+			//int statut = statement.executeUpdate( "INSERT INTO Petition VALUES("+peti.get(0).getId()+","+peti.get(0).getId()+",1,"+peti.get(0).getDate()+","+peti.get(0).isMaire()+","+peti.get(0).isDepute()+","+peti.get(0).isDeputeeuro()+","+peti.get(0).isPres()+","+peti.get(0).isInternet()+","+peti.get(0).isPresparlement()+");");
+			statement.close();
 		} catch (DocumentException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();

@@ -14,6 +14,10 @@ public class Petition {
 	public void setMembre(int membre) {
 		this.membre = membre;
 	}
+	
+	public String getTheme() {
+		return theme;
+	}
 	public void setTheme(String theme) {
 		this.theme = theme;
 	}
