@@ -4,7 +4,7 @@ public class Petition {
 	
 	private int id,membre;
 	private String theme;
-	private int date;
+	private LocalDate date;
 	private boolean maire=false,depute=false,deputeeuro=false,pres=false,internet=false,presparlement=false;
 	
 	
@@ -40,10 +40,10 @@ public class Petition {
 		this.id = id;
 	}
 	
-	public int getDate() {
+	public LocalDate getDate() {
 		return date;
 	}
-	public void setDate(int l) {
+	public void setDate(LocalDate l) {
 		this.date = l;
 	}
 	public boolean isMaire() {
