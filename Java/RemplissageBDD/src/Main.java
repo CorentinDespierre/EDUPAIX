@@ -23,7 +23,7 @@ public class Main {
 
 
 		try {
-			File file = new File("C:/GIT/EDUPAIX/BasesXML/Petitions.xml");
+			File file = new File("C:/GIT/EDUPAIX/BasesXML/Comites.xml");
 			SAXReader reader = new SAXReader();
 			Document doc = reader.read(file);
 			Element root = doc.getRootElement();
@@ -31,6 +31,7 @@ public class Main {
 			List<Element> elem = root.elements();
 			System.out.println("elem: "+elem.size());
 
+			/*                                      PARTIE PETITION
 			List<Element> autre = new ArrayList<>();
 			List<Element> bonne = new ArrayList<>();
 			List<String> themes = new ArrayList<>();
@@ -105,7 +106,7 @@ public class Main {
 			{
 				statement.execute( "INSERT INTO public.\"Theme\"VALUES("+i+","+"'"+s+"'"+");");
 				i++;
-			}*/
+			}
 
 			for(Petition p :peti)
 			{
@@ -120,6 +121,8 @@ public class Main {
 				statement.execute( "INSERT INTO public.\"Petition\" VALUES("+p.getId()+","+idtheme+","+p.isMaire()+","+p.isDepute()+","+p.isDeputeeuro()+","+p.isPres()+","+p.isInternet()+","+p.isPresparlement()+","+"'"+p.getDate()+"'"+");");
 			}
 			statement.close();
+			*/
+			
 		} catch (DocumentException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
