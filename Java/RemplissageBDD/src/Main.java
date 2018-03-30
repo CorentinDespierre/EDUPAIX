@@ -30,7 +30,29 @@ public class Main {
 			System.out.println(root.toString());
 			List<Element> elem = root.elements();
 			System.out.println("elem: "+elem.size());
+			
+			List<Element> autre = new ArrayList<>();
+			List<Element> bonne = new ArrayList<>();
+			
+			for(Element e: elem)
+			{
+				if(e.elements().size()<9)
+					autre.add(e);
+				else
+					bonne.add(e);
+			}
+			System.out.println("autre: "+ autre.size());
+			System.out.println("bonne: "+bonne.size());
+			
+			for(Element e:bonne)
+			{
 
+				List<Element> attrib=e.elements();
+				Structure_Comites sc = new Structure_Comites();
+				sc.setId(Integer.parseInt(attrib.get(0).getText()));
+				System.out.println(attrib.get(0).getName());
+				
+			}
 			/*                                      PARTIE PETITION
 			List<Element> autre = new ArrayList<>();
 			List<Element> bonne = new ArrayList<>();
