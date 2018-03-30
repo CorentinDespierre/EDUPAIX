@@ -1,11 +1,18 @@
 
 public class Structure_Comites {
 
-	private String nom,adresse1,adresse2,ville,mobile,telephone,courriel,contact,region;
+	private String nom,adresse1,adresse2,ville,mobile,telephone,courriel,contact,region,fax;
 	private int codeP,niveau,departement,categorie,id;
 	private boolean actif,declaree,declarationdoc;
 	
 	
+	
+	public String getFax() {
+		return fax;
+	}
+	public void setFax(String fax) {
+		this.fax = fax;
+	}
 	public int getId() {
 		return id;
 	}
