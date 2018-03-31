@@ -97,6 +97,30 @@ public class Main {
 				case "CodeP":
 					sc.setCodeP(Integer.parseInt(attrib.get(4).getText()));
 					break;
+				case "Ville":
+					sc.setVille(attrib.get(6).getText());
+					break;
+				case "Téléphone":
+					sc.setTelephone(attrib.get(6).getText());
+					break;
+				case "Mobile":
+					sc.setMobile(attrib.get(6).getText());
+					break;
+				case "Fax":
+					sc.setFax(attrib.get(6).getText());
+					break;
+				case "Courriel":
+					sc.setCourriel(attrib.get(6).getText());
+					break;
+				case "Contact":
+					sc.setContact(attrib.get(6).getText());
+					break;
+				case "Association_x0020_déclarée":
+					if(Integer.parseInt(attrib.get(6).getText())==1)
+						sc.setDeclaree(true);
+					else
+						sc.setDeclaree(false);
+					break;
 
 				}
 
@@ -114,6 +138,28 @@ public class Main {
 				case "Ville":
 					sc.setVille(attrib.get(5).getText());
 					break;
+				case "Téléphone":
+					sc.setTelephone(attrib.get(5).getText());
+					break;
+				case "Mobile":
+					sc.setMobile(attrib.get(5).getText());
+					break;
+				case "Fax":
+					sc.setFax(attrib.get(5).getText());
+					break;
+				case "Courriel":
+					sc.setCourriel(attrib.get(5).getText());
+					break;
+				case "Contact":
+					sc.setContact(attrib.get(5).getText());
+					break;
+				case "Association_x0020_déclarée":
+					if(Integer.parseInt(attrib.get(6).getText())==1)
+						sc.setDeclaree(true);
+					else
+						sc.setDeclaree(false);
+					break;
+				
 				}
 
 				switch(attrib.get(6).getName())
@@ -486,8 +532,10 @@ public class Main {
 			System.out.println(listsc.size());
 			Connection con=DriverManager.getConnection("jdbc:postgresql://148.60.11.198:5432/Edupaixv1","Alexis","postgresmdp");
 			Statement statement = con.createStatement();
+			List<Structure_Comites> aretravailler = new ArrayList<>();
 			for (Structure_Comites sc : listsc)
 			{
+				System.out.println(sc.getId()+sc.toString());
 				if(sc.getRegion()==null)
 					sc.setRegion("");
 				if(sc.getMobile()==null)
@@ -502,10 +550,36 @@ public class Main {
 					sc.setCourriel("");
 				if(sc.getContact()==null)
 					sc.setContact("");
+				if(sc.getVille()==null) {
+					sc.setVille("");
+				
+				
+				}
+				
+				//REMPLACEMENT DES '
+				
+				if(sc.getRegion().contains("'"))
+					sc.setRegion(sc.getRegion().replace("'", " "));
+				if(sc.getAdresse1().contains("'"))
+					sc.setAdresse1(sc.getAdresse1().replace("'", " "));
+				if(sc.getAdresse2().contains("'"))
+					sc.setAdresse2(sc.getAdresse2().replace("'", " "));
+				if(sc.getVille().contains("'"))
+					sc.setVille(sc.getVille().replace("'", " "));
+				if(sc.getContact().contains("'"))
+					sc.setContact(sc.getContact().replace("'", " "));
+				if(sc.getNom().contains("'"))
+					sc.setNom(sc.getNom().replace("'", " "));
+			
 				
 				statement.execute( "INSERT INTO public.\"Structure\" VALUES("+sc.getId()+",'"+sc.getNom()+"','"+sc.getAdresse1()+"','"+sc.getAdresse2()+"',"+sc.getCodeP()+",'"+sc.getVille()+"',1,'"+sc.getMobile()+"','"+sc.getTelephone()+"','"+sc.getCourriel()+"','"+sc.getContact()+"',"+sc.getDepartement()+",'"+sc.getRegion()+"',"+sc.isDeclaree()+","+sc.getCategorie()+","+sc.isDeclarationdoc()+","+sc.isActif()+");");
 			}
 			statement.close();
+			System.out.println("elem:"+elem.size());
+			System.out.println("autre:"+autre.size());
+			System.out.println("bonne"+bonne.size());
+			System.out.println("listsc"+listsc.size());
+			System.out.println("aretravailler:"+aretravailler.size());
 			 
 			/*                                      PARTIE PETITION
 			List<Element> autre = new ArrayList<>();
