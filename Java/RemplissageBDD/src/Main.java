@@ -35,7 +35,7 @@ public class Main {
 			List<Element> bonne = new ArrayList<>();
 			List <Structure_Comites>listsc = new ArrayList<>();
 
-			for(Element e: elem)
+			/*for(Element e: elem)
 			{
 				if(e.elements().size()<9)
 					autre.add(e);
@@ -43,9 +43,11 @@ public class Main {
 					bonne.add(e);
 			}
 			System.out.println("autre: "+ autre.size());
-			System.out.println("bonne: "+bonne.size());
+			System.out.println("bonne: "+bonne.size());*/
 
-			for(Element e : bonne)
+
+
+			for(Element e : elem)
 			{
 				List<Element> attrib = e.elements();
 				System.out.println("attrib="+attrib.size());
@@ -159,7 +161,7 @@ public class Main {
 					else
 						sc.setDeclaree(false);
 					break;
-				
+
 				}
 
 				switch(attrib.get(6).getName())
@@ -195,7 +197,9 @@ public class Main {
 						sc.setDeclaree(false);
 					break;
 				}
-
+				if(attrib.size()==7) {
+					listsc.add(sc);				
+					continue;}
 				switch(attrib.get(7).getName())
 				{
 				case "CodeP":
@@ -239,7 +243,9 @@ public class Main {
 					break;
 
 				}
-
+				if(attrib.size()==8) {
+					listsc.add(sc);				
+					continue;}
 				switch(attrib.get(8).getName())
 				{
 				case "Ville":
@@ -322,7 +328,7 @@ public class Main {
 				default:
 					System.out.println("attribut 9");
 				}
-				
+
 				if(attrib.size()==10) {
 					listsc.add(sc);
 					continue;}
@@ -361,7 +367,7 @@ public class Main {
 				default:
 					System.out.println("attribut 10");
 				}
-				
+
 				if(attrib.size()==11) {
 					listsc.add(sc);
 					continue;}
@@ -397,7 +403,7 @@ public class Main {
 				default:
 					System.out.println("attribut 11");
 				}
-				
+
 				if(attrib.size()==12) {
 					listsc.add(sc);
 					continue;}
@@ -461,7 +467,7 @@ public class Main {
 				default:
 					System.out.println("attribut 13");
 				}
-				
+
 				if(attrib.size()==14) {
 					listsc.add(sc);
 					continue;}
@@ -488,10 +494,10 @@ public class Main {
 				default:
 					System.out.println("attribut 14");
 				}
-				
+
 				if(attrib.size()==15)
 				{listsc.add(sc);
-					continue;}
+				continue;}
 				switch(attrib.get(15).getName())
 				{				
 				case "n_x00B0__x0020_de_x0020_déclaration":
@@ -509,7 +515,7 @@ public class Main {
 				default:
 					System.out.println("attribut 15");
 				}
-				
+
 				if(attrib.size()==16) {
 					listsc.add(sc);
 					continue;
@@ -525,8 +531,16 @@ public class Main {
 				default:
 					System.out.println("attribut 16");
 				}
-				
+
 				listsc.add(sc);
+			}
+
+			for(Structure_Comites sc:listsc)
+			{
+				if(sc.getAdresse1()==null && sc.getAdresse2()==null && sc.getCodeP()==0 && sc.getVille()==null)
+					sc.setNiveau(2);
+				else
+					sc.setNiveau(1);
 			}
 
 			System.out.println(listsc.size());
@@ -535,7 +549,6 @@ public class Main {
 			List<Structure_Comites> aretravailler = new ArrayList<>();
 			for (Structure_Comites sc : listsc)
 			{
-				System.out.println(sc.getId()+sc.toString());
 				if(sc.getRegion()==null)
 					sc.setRegion("");
 				if(sc.getMobile()==null)
@@ -552,12 +565,12 @@ public class Main {
 					sc.setContact("");
 				if(sc.getVille()==null) {
 					sc.setVille("");
-				
-				
+
+
 				}
-				
+
 				//REMPLACEMENT DES '
-				
+
 				if(sc.getRegion().contains("'"))
 					sc.setRegion(sc.getRegion().replace("'", " "));
 				if(sc.getAdresse1().contains("'"))
@@ -570,17 +583,46 @@ public class Main {
 					sc.setContact(sc.getContact().replace("'", " "));
 				if(sc.getNom().contains("'"))
 					sc.setNom(sc.getNom().replace("'", " "));
-			
-				
-				statement.execute( "INSERT INTO public.\"Structure\" VALUES("+sc.getId()+",'"+sc.getNom()+"','"+sc.getAdresse1()+"','"+sc.getAdresse2()+"',"+sc.getCodeP()+",'"+sc.getVille()+"',1,'"+sc.getMobile()+"','"+sc.getTelephone()+"','"+sc.getCourriel()+"','"+sc.getContact()+"',"+sc.getDepartement()+",'"+sc.getRegion()+"',"+sc.isDeclaree()+","+sc.getCategorie()+","+sc.isDeclarationdoc()+","+sc.isActif()+");");
+
+
+
+
+				statement.execute( "INSERT INTO public.\"Structure\" VALUES("+sc.getId()+",'"+sc.getNom()+"','"+sc.getAdresse1()+"','"+sc.getAdresse2()+"',"+sc.getCodeP()+",'"+sc.getVille()+"',"+sc.getNiveau()+",'"+sc.getMobile()+"','"+sc.getTelephone()+"','"+sc.getCourriel()+"','"+sc.getContact()+"',"+sc.getDepartement()+",'"+sc.getRegion()+"',"+sc.isDeclaree()+","+sc.getCategorie()+","+sc.isDeclarationdoc()+","+sc.isActif()+");");
 			}
 			statement.close();
-			System.out.println("elem:"+elem.size());
-			System.out.println("autre:"+autre.size());
-			System.out.println("bonne"+bonne.size());
-			System.out.println("listsc"+listsc.size());
-			System.out.println("aretravailler:"+aretravailler.size());
-			 
+
+			Statement st= con.createStatement();
+			List<StructureHisto> listsh = new ArrayList<>();
+			int i=1;
+			for(Structure_Comites sc :listsc)
+			{
+				StructureHisto sh = new StructureHisto();
+				sh.setIdHisto(i);
+				sh.setIdStructure(sc.getId());
+				sh.setDatepremierecreation( LocalDate.of(9999,1,1));
+				if(sc.isActif())
+				{
+					sh.setDateDisparition(LocalDate.of(9999, 1, 1));
+					sh.setDateDerniereCreation(LocalDate.of(9999, 1, 1));
+				}
+				else
+				{
+					sh.setDateDisparition(LocalDate.now());
+					sh.setDateDerniereCreation(LocalDate.of(9999, 1, 1));
+				}
+				listsh.add(sh);
+				i++;
+			}
+
+			for(StructureHisto sh: listsh)
+			{
+				st.execute("INSERT INTO public.\"StructureHisto\" VALUES("+sh.getIdHisto()+","+sh.getIdStructure()+",'"+sh.getDateDisparition()+"','"+sh.getDateDerniereCreation()+"','"+sh.getDatepremierecreation()+"');");
+			}
+			System.out.println("sh"+listsh.size());
+			st.close();
+			con.close();
+
+
 			/*                                      PARTIE PETITION
 			List<Element> autre = new ArrayList<>();
 			List<Element> bonne = new ArrayList<>();
