@@ -22,6 +22,13 @@ public class Main {
 		// TODO Auto-generated method stub
 
 
+
+	}
+
+
+	public void parseComites()
+	{
+
 		try {
 			File file = new File("C:/GIT/EDUPAIX/BasesXML/Comites.xml");
 			SAXReader reader = new SAXReader();
@@ -623,7 +630,27 @@ public class Main {
 			con.close();
 
 
-			/*                                      PARTIE PETITION
+
+		} catch (DocumentException | SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}	
+	}
+	
+	public void parsePetition()
+	{
+		try {
+			File file = new File("C:/GIT/EDUPAIX/BasesXML/Petitions.xml");
+			SAXReader reader = new SAXReader();
+			Document doc = reader.read(file);
+			Element root = doc.getRootElement();
+			System.out.println(root.toString());
+			List<Element> elem = root.elements();
+			System.out.println("elem: "+elem.size());
+
+
+
+
 			List<Element> autre = new ArrayList<>();
 			List<Element> bonne = new ArrayList<>();
 			List<String> themes = new ArrayList<>();
@@ -692,7 +719,7 @@ public class Main {
 			Connection con=DriverManager.getConnection("jdbc:postgresql://148.60.11.198:5432/Edupaixv1","Alexis","postgresmdp");
 			Statement statement = con.createStatement();
 
-			/*AJOUT DES THEMES SAUF 6
+			//AJOUT DES THEMES SAUF  CEUX NOTES 6
 			int i=1;
 			for(String s :themes)
 			{
@@ -713,13 +740,12 @@ public class Main {
 				statement.execute( "INSERT INTO public.\"Petition\" VALUES("+p.getId()+","+idtheme+","+p.isMaire()+","+p.isDepute()+","+p.isDeputeeuro()+","+p.isPres()+","+p.isInternet()+","+p.isPresparlement()+","+"'"+p.getDate()+"'"+");");
 			}
 			statement.close();
-			 */
 
-		} catch (DocumentException e) {
+
+		} catch (DocumentException | SQLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-
 	}
 
 }
