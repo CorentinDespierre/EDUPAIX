@@ -1,7 +1,15 @@
 
 public class ContactPersonne {
 	
-	private String mobile,telDomicile,telProfessionel,faxPro,faxDomicile,courriel;
+	private String mobile,telDomicile,telProfessionel,faxPro,faxDomicile,courriel,portable;
+
+	public String getPortable() {
+		return portable;
+	}
+
+	public void setPortable(String portable) {
+		this.portable = portable;
+	}
 
 	public String getMobile() {
 		return mobile;

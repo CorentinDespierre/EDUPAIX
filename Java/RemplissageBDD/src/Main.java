@@ -7,9 +7,12 @@ import java.sql.SQLException;
 import java.sql.Statement;
 import java.time.LocalDate;
 import java.time.Month;
+import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Date;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 import org.dom4j.Document;
 import org.dom4j.DocumentException;
@@ -21,12 +24,246 @@ public class Main {
 	public static void main(String[] args) throws SQLException {
 		// TODO Auto-generated method stub
 
-
+		parseMembre();
 
 	}
 
 
-	public void parseComites()
+	
+	public static void parseMembre()
+	{
+		try {
+			
+			File file = new File("C:/GIT/EDUPAIX/BasesXML/Membres.xml");
+			SAXReader reader = new SAXReader();
+			Document doc = reader.read(file);
+			Element root = doc.getRootElement();
+			System.out.println(root.toString());
+			List<Element> elem = root.elements();
+			System.out.println("elem: "+elem.size());
+
+			
+			List <Personne>listp = new ArrayList<>();
+						
+			Map<Integer,ContactPersonne> map = new HashMap<>();
+			int i=1;
+			for(Element e: elem)
+			{
+				Personne p= new Personne();
+				p.setId(i);
+				ContactPersonne cp= new ContactPersonne();
+				List<Element>attrib = e.elements();
+				for(Element f:attrib)
+				{
+					
+					switch(f.getName())
+					{
+					case "RéfMembre":
+						p.setRef(Integer.parseInt(f.getText()));
+						break;
+					case "Adhérent_x0020_ou_x0020_contact":
+						p.setAouC(f.getText());
+						break;
+					case "Miseàjour":
+						String maj=f.getText().substring(0, 10);
+						 DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd");
+						p.setMaj(LocalDate.parse(maj, formatter));
+						break;
+					case "RefTitre":
+						if(Integer.parseInt(f.getText())==1)
+							p.setTitre("Mlle");
+						else if(Integer.parseInt(f.getText())==2)
+							p.setTitre("Mme");
+						else if(Integer.parseInt(f.getText())==3)
+							p.setTitre("M.");
+						else if(Integer.parseInt(f.getText())==4)
+							p.setTitre("Intitulé");
+						else if(Integer.parseInt(f.getText())==6)
+							p.setTitre("M. Mme");
+							
+						break;
+					case "Nom":
+						p.setNom(f.getText());
+						break;
+					case "Prénom":
+						p.setPrenom(f.getText());
+						break;
+					case "Adresse1":
+						p.setAdresse1(f.getText());
+						break;
+					case "Adresse2":
+						p.setAdresse2(f.getText());
+						break;
+					case "Adresse3":
+						p.setAdresse3(f.getText());
+						break;
+					case "CodeP":
+						p.setCodeP(Integer.parseInt(f.getText()));
+						break;
+					case "Ville":
+						p.setVille(f.getText());
+						break;
+					case "N_x00B0_dép":
+						p.setDep(Integer.parseInt(f.getText()));
+						break;
+					case "N_x00B0_dépt":
+						p.setDepRattaches(Integer.parseInt(f.getText()));
+						break;
+					case "Date_x0020_de_x0020_Naissance":
+						String ma=f.getText().substring(0, 10);
+						DateTimeFormatter format = DateTimeFormatter.ofPattern("yyyy-MM-dd");
+						p.setMaj(LocalDate.parse(ma, format));
+						break;
+					case "Lieu_x0020_de_x0020_Naissance":
+						p.setLieuNaissance(f.getText());
+						break;
+					case "N_x00B0__x0020_Passeport":
+						p.setNumPasseport(f.getText());
+						break;
+					case "Délivré_x0020_le":
+						String m=f.getText().substring(0, 10);
+						DateTimeFormatter forma = DateTimeFormatter.ofPattern("yyyy-MM-dd");
+						p.setMaj(LocalDate.parse(m, forma));
+						break;
+					case "Préfecture":
+						p.setPrefecture(f.getText());
+						break;
+					case "Mobile":
+						cp.setMobile(f.getText());
+						break;
+					case "RéfComité":
+						p.setRefComite(Integer.parseInt(f.getText()));
+						break;
+					case "TélDomicile":
+						cp.setTelDomicile(f.getText());
+						break;
+					case "FaxDomicile":
+						cp.setFaxDomicile(f.getText());
+						break;
+					case "TélPortable":
+						cp.setPortable(f.getText());
+						break;
+					case "Courriel":
+						cp.setCourriel(f.getText());
+						break;
+					case "FaxProfessionnel":
+						cp.setFaxPro(f.getText());
+						break;
+					
+					case "TélProfessionnel":
+						cp.setTelProfessionel(f.getText());
+						break;
+					case "Fiche":
+						if(Integer.parseInt(f.getText())==0)
+							p.setFiche(false);
+						else
+							p.setFiche(true);
+						break;
+					case "Pétitionnaire":
+						if(Integer.parseInt(f.getText())==0)
+							p.setPetitionnaire(false);
+						else
+							p.setPetitionnaire(true);
+						break;
+					case "Elus":
+						if(Integer.parseInt(f.getText())==0)
+							p.setElus(false);
+						else
+							p.setElus(true);
+						break;
+					case "Mailing":
+						if(Integer.parseInt(f.getText())==0)
+							p.setMailing(false);
+						else
+							p.setMailing(true);
+						break;
+					case "Retour":
+						if(Integer.parseInt(f.getText())==0)
+							p.setRetour(false);
+						else
+							p.setRetour(true);
+						break;
+					case "Souscription":
+						if(Integer.parseInt(f.getText())==0)
+							p.setSouscription(false);
+						else
+							p.setSouscription(true);
+						break;
+					case "Contacts":
+						if(Integer.parseInt(f.getText())==0)
+							p.setContact(false);
+						else
+							p.setContact(true);
+						break;
+					case "Orga":
+						if(Integer.parseInt(f.getText())==0)
+							p.setOrganisation(false);
+						else
+							p.setOrganisation(true);
+						break;
+					case "Cté":
+						if(Integer.parseInt(f.getText())==0)
+							p.setComite(false);
+						else
+							p.setComite(true);
+						break;
+					case "Mairie":
+						if(Integer.parseInt(f.getText())==0)
+							p.setMairie(false);
+						else
+							p.setMairie(true);
+						break;
+					case "Bibliothèque":
+						if(Integer.parseInt(f.getText())==0)
+							p.setBibli(false);
+						else
+							p.setBibli(true);
+						break;
+					case "Couple":
+						if(Integer.parseInt(f.getText())==0)
+							p.setCouple(false);
+						else
+							p.setCouple(true);
+						break;
+					case "Sans_x0020_Adresse":
+						if(Integer.parseInt(f.getText())==0)
+							p.setSansAdrese(false);
+						else
+							p.setSansAdrese(true);
+						break;
+					case "Etranger":
+						if(Integer.parseInt(f.getText())==0)
+							p.setEtranger(false);
+						else
+							p.setEtranger(true);
+						break;
+					default:
+						break;
+						
+						
+					}
+				}
+				listp.add(p);
+				map.put(p.getId(), cp);
+				i++;
+			}
+		
+			System.out.println("listp"+listp.size());
+			System.out.println("map"+map.size());
+			
+			Connection con=DriverManager.getConnection("jdbc:postgresql://148.60.11.198:5432/Edupaixv1","Alexis","postgresmdp");
+			Statement statement = con.createStatement();
+			
+			
+			
+	} catch (DocumentException | NumberFormatException | SQLException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+	}
+	}
+	
+	
+	public static void parseComites()
 	{
 
 		try {
@@ -628,7 +865,7 @@ public class Main {
 			System.out.println("sh"+listsh.size());
 			st.close();
 			con.close();
-
+ 
 
 
 		} catch (DocumentException | SQLException e) {
@@ -637,7 +874,7 @@ public class Main {
 		}	
 	}
 	
-	public void parsePetition()
+	public static void parsePetition()
 	{
 		try {
 			File file = new File("C:/GIT/EDUPAIX/BasesXML/Petitions.xml");
