@@ -1,13 +1,31 @@
 import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.List;
 
 public class Personne {
 	
 	
 	private int id, ref,codeP,dep,depRattaches,refComite;
-	private LocalDate maj,passeportDelivery;
+	private LocalDate maj,passeportDelivery,dateNaissance;
 	private boolean fiche,petitionnaire,elus,mailing,retour,souscription,contact,organisation,comite,mairie,bibli,couple,sansAdrese,Etranger;
+	private String numPasseport,prefecture,ville,AouC,nom,prenom,lieuNaissance,adresse1,adresse2,adresse3,remarque,titre;
+	public LocalDate getDateNaissance() {
+		return dateNaissance;
+	}
+	public void setDateNaissance(LocalDate dateNaissance) {
+		this.dateNaissance = dateNaissance;
+	}
+
+	
+	private List<RolePersonne> roles= new ArrayList<>();
 	public int getId() {
 		return id;
+	}
+	public List<RolePersonne> getRoles() {
+		return roles;
+	}
+	public void setRoles(List<RolePersonne> roles) {
+		this.roles = roles;
 	}
 	public void setId(int id) {
 		this.id = id;
@@ -210,6 +228,6 @@ public class Personne {
 	public void setTitre(String titre) {
 		this.titre = titre;
 	}
-	private String numPasseport,prefecture,ville,AouC,nom,prenom,lieuNaissance,adresse1,adresse2,adresse3,remarque,titre;
+
 
 }

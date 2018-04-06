@@ -1,15 +1,10 @@
 
 public class RolePersonne {
 	
-	private int idLiaison, idStructure,idPersonne,idRole;
+	private int  idStructure,idPersonne,idRole;
 
-	public int getIdLiaison() {
-		return idLiaison;
-	}
 
-	public void setIdLiaison(int idLiaison) {
-		this.idLiaison = idLiaison;
-	}
+
 
 	public int getIdStructure() {
 		return idStructure;

@@ -11,6 +11,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
@@ -29,11 +30,12 @@ public class Main {
 	}
 
 
-	
+
 	public static void parseMembre()
 	{
 		try {
-			
+			Connection con=DriverManager.getConnection("jdbc:postgresql://148.60.11.198:5432/Edupaixv1","Alexis","postgresmdp");
+			Statement statement = con.createStatement();
 			File file = new File("C:/GIT/EDUPAIX/BasesXML/Membres.xml");
 			SAXReader reader = new SAXReader();
 			Document doc = reader.read(file);
@@ -42,9 +44,9 @@ public class Main {
 			List<Element> elem = root.elements();
 			System.out.println("elem: "+elem.size());
 
-			
+
 			List <Personne>listp = new ArrayList<>();
-						
+
 			Map<Integer,ContactPersonne> map = new HashMap<>();
 			int i=1;
 			for(Element e: elem)
@@ -55,7 +57,7 @@ public class Main {
 				List<Element>attrib = e.elements();
 				for(Element f:attrib)
 				{
-					
+
 					switch(f.getName())
 					{
 					case "RéfMembre":
@@ -66,7 +68,7 @@ public class Main {
 						break;
 					case "Miseàjour":
 						String maj=f.getText().substring(0, 10);
-						 DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd");
+						DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd");
 						p.setMaj(LocalDate.parse(maj, formatter));
 						break;
 					case "RefTitre":
@@ -80,7 +82,7 @@ public class Main {
 							p.setTitre("Intitulé");
 						else if(Integer.parseInt(f.getText())==6)
 							p.setTitre("M. Mme");
-							
+
 						break;
 					case "Nom":
 						p.setNom(f.getText());
@@ -112,7 +114,7 @@ public class Main {
 					case "Date_x0020_de_x0020_Naissance":
 						String ma=f.getText().substring(0, 10);
 						DateTimeFormatter format = DateTimeFormatter.ofPattern("yyyy-MM-dd");
-						p.setMaj(LocalDate.parse(ma, format));
+						p.setDateNaissance(LocalDate.parse(ma, format));
 						break;
 					case "Lieu_x0020_de_x0020_Naissance":
 						p.setLieuNaissance(f.getText());
@@ -149,7 +151,7 @@ public class Main {
 					case "FaxProfessionnel":
 						cp.setFaxPro(f.getText());
 						break;
-					
+
 					case "TélProfessionnel":
 						cp.setTelProfessionel(f.getText());
 						break;
@@ -237,32 +239,203 @@ public class Main {
 						else
 							p.setEtranger(true);
 						break;
+					case "Resp_x0020_locales":
+						if(f.getText().contains("CPT"))
+						{
+
+							RolePersonne rolePersonne = new RolePersonne();
+							rolePersonne.setIdPersonne(p.getId());
+							rolePersonne.setIdStructure(p.getRefComite());
+							rolePersonne.setIdRole(7);
+							RolePersonne rolePersonne1 = new RolePersonne();
+							rolePersonne1.setIdPersonne(p.getId());
+							rolePersonne1.setIdStructure(p.getRefComite());
+							rolePersonne1.setIdRole(3);
+							p.getRoles().add(rolePersonne);
+							p.getRoles().add(rolePersonne1);
+
+						}
+						else if (!f.getText().contains("M") && !f.getText().contains("RCP"))
+						{
+							ResultSet resultat = statement.executeQuery( "SELECT \"idTypeRole\" FROM public.\"TypeRole\" WHERE \"Initiale\"="+"'"+f.getText().toUpperCase()+"'"+";" );
+							int id=0;
+							while(resultat.next())
+							{
+								id= resultat.getInt(1);
+							}
+							RolePersonne rolePersonne2 = new RolePersonne();
+							rolePersonne2.setIdPersonne(p.getId());
+							rolePersonne2.setIdStructure(p.getRefComite());
+							rolePersonne2.setIdRole(id);
+							p.getRoles().add(rolePersonne2);
+
+
+						}
+						break;
+
+					case "Resp_x0020_nationales":
+						if(f.getText()=="BN")
+						{
+							RolePersonne rolePersonne = new RolePersonne();
+							rolePersonne.setIdPersonne(p.getId());
+							rolePersonne.setIdStructure(p.getRefComite());
+							rolePersonne.setIdRole(8);
+							p.getRoles().add(rolePersonne);							
+							break;
+
+						}
+						else if(f.getText()=="CN")
+						{
+							RolePersonne rolePersonne = new RolePersonne();
+							rolePersonne.setIdPersonne(p.getId());
+							rolePersonne.setIdStructure(p.getRefComite());
+							rolePersonne.setIdRole(9);
+							p.getRoles().add(rolePersonne);							
+							break;
+						}
+						else
+						{
+							break;
+						}
+
+					case "Remarque":
+						p.setRemarque(f.getText());
+						break;
 					default:
 						break;
-						
-						
+
+
 					}
 				}
 				listp.add(p);
 				map.put(p.getId(), cp);
 				i++;
 			}
-		
+
 			System.out.println("listp"+listp.size());
 			System.out.println("map"+map.size());
-			
-			Connection con=DriverManager.getConnection("jdbc:postgresql://148.60.11.198:5432/Edupaixv1","Alexis","postgresmdp");
-			Statement statement = con.createStatement();
-			
-			
-			
-	} catch (DocumentException | NumberFormatException | SQLException e) {
-		// TODO Auto-generated catch block
-		e.printStackTrace();
+
+			for(Personne p :listp)
+			{
+
+				if(p.getTitre()==null)
+					p.setTitre("");
+				if(p.getNom()==null)
+					p.setNom("");
+				if(p.getAdresse1()==null)
+					p.setAdresse1("");
+				if(p.getAdresse2()==null)
+					p.setAdresse2("");
+				if(p.getAdresse3()==null)
+					p.setAdresse3("");
+				if(p.getAouC()==null)
+					p.setAouC("");
+				if(p.getPrenom()==null)
+					p.setPrenom("");
+				if(p.getVille()==null) 
+					p.setVille("");
+				if(p.getLieuNaissance()==null)
+					p.setLieuNaissance("");
+				if(p.getNumPasseport()==null)
+					p.setNumPasseport("");
+				if(p.getPrefecture()==null)
+					p.setPrefecture("");
+				if(p.getRemarque()==null)
+					p.setRemarque("");
+				if(p.getDateNaissance()==null)
+					p.setDateNaissance(LocalDate.of(9999,01,01));
+				if(p.getMaj()==null)
+					p.setMaj(LocalDate.of(9999,01,01));
+				if(p.getPasseportDelivery()==null)
+					p.setPasseportDelivery(LocalDate.of(9999,01,01));
+
+
+				//REMPLACEMENT DES '
+
+				if(p.getNom().contains("'"))
+					p.setNom(p.getNom().replace("'", " "));
+				if(p.getPrenom().contains("'"))
+					p.setPrenom(p.getPrenom().replace("'", " "));
+				if(p.getAdresse1().contains("'"))
+					p.setAdresse1(p.getAdresse1().replace("'", " "));
+				if(p.getAdresse2().contains("'"))
+					p.setAdresse2(p.getAdresse2().replace("'", " "));
+				if(p.getAdresse3().contains("'"))
+					p.setAdresse3(p.getAdresse3().replace("'", " "));
+				if(p.getVille().contains("'"))
+					p.setVille(p.getVille().replace("'", " "));
+				if(p.getLieuNaissance().contains("'"))
+					p.setLieuNaissance(p.getLieuNaissance().replace("'", " "));
+				if(p.getPrefecture().contains("'"))
+					p.setPrefecture(p.getPrefecture().replace("'", " "));
+				if(p.getRemarque().contains("'"))
+					p.setRemarque(p.getRemarque().replace("'", " "));
+				if(p.getNumPasseport().contains("'"))
+					p.setNumPasseport(p.getNumPasseport().replaceAll("'", " "));
+
+				statement.execute( "INSERT INTO public.\"Personne\" VALUES("+p.getId()+","+p.getRef()+",'"+p.getTitre()+"','"+p.getNom()+"','"+p.getPrenom()+"','"+p.getAouC()+"','"+p.getMaj()+"','"+p.getAdresse1()+"','"+p.getAdresse2()+"','"+p.getAdresse3()+"',"+p.getCodeP()+",'"+p.getVille()+"',"+p.getDep()+","+p.getDepRattaches()+",'"+p.getDateNaissance()+"','"+p.getLieuNaissance()+"','"+p.getNumPasseport()+"','"+p.getPasseportDelivery()+"','"+p.getPrefecture()+"',"+p.getRefComite()+","+p.isFiche()+","+p.isPetitionnaire()+","+p.isElus()+","+p.isMailing()+","+p.isRetour()+","+p.isSouscription()+","+p.isContact()+","+p.isOrganisation()+","+p.isComite()+","+p.isMairie()+","+p.isBibli()+","+p.isCouple()+","+p.isSansAdrese()+","+p.isEtranger()+",'"+p.getRemarque()+"');");
+
+			}
+			System.out.println("FIN REQUETE 1");
+
+			int j=1;
+			for(Map.Entry<Integer, ContactPersonne> entry:map.entrySet())
+			{
+				if(entry.getValue().getPortable()!=null) {
+					statement.execute("INSERT INTO public.\"TypeContact_Personne\" VALUES("+j+","+entry.getKey()+",1,'"+entry.getValue().getPortable()+"');");
+					j++;
+				}
+				if(entry.getValue().getTelDomicile()!=null) {
+					statement.execute("INSERT INTO public.\"TypeContact_Personne\" VALUES("+j+","+entry.getKey()+",2,'"+entry.getValue().getTelDomicile()+"');");
+					j++;
+				}
+				if(entry.getValue().getTelProfessionel()!=null) {
+					statement.execute("INSERT INTO public.\"TypeContact_Personne\" VALUES("+j+","+entry.getKey()+",3,'"+entry.getValue().getTelProfessionel()+"');");
+					j++;
+				}
+				if(entry.getValue().getMobile()!=null) {
+					statement.execute("INSERT INTO public.\"TypeContact_Personne\" VALUES("+j+","+entry.getKey()+",4,'"+entry.getValue().getMobile()+"');");
+					j++;
+				}
+				if(entry.getValue().getFaxPro()!=null) {
+					statement.execute("INSERT INTO public.\"TypeContact_Personne\" VALUES("+j+","+entry.getKey()+",5,'"+entry.getValue().getFaxPro()+"');");
+					j++;
+				}
+				if(entry.getValue().getFaxDomicile()!=null) {
+					statement.execute("INSERT INTO public.\"TypeContact_Personne\" VALUES("+j+","+entry.getKey()+",6,'"+entry.getValue().getFaxDomicile()+"');");
+					j++;
+				}
+				if(entry.getValue().getCourriel()!=null) {
+					statement.execute("INSERT INTO public.\"TypeContact_Personne\" VALUES("+j+","+entry.getKey()+",7,'"+entry.getValue().getCourriel()+"');");
+					j++;
+				}
+			}
+			System.out.println("FIN REQUETE 2");
+			int size=0;
+			int k=1;
+			for(Personne p :listp)
+			{
+				size+=p.getRoles().size();
+				if(!p.getRoles().isEmpty()) {
+					for(RolePersonne rp : p.getRoles())
+					{
+						statement.execute("INSERT INTO public.\"Role_Structure_Personne\" VALUES("+k+","+rp.getIdRole()+","+rp.getIdStructure()+","+p.getId()+");");
+						k++;
+					}
+				}
+
+			}
+			System.out.println("FIN REQUETE 3");
+			System.out.println(size);
+			statement.close();
+			con.close();
+		} catch (DocumentException | NumberFormatException | SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
-	}
-	
-	
+
+
 	public static void parseComites()
 	{
 
@@ -865,7 +1038,7 @@ public class Main {
 			System.out.println("sh"+listsh.size());
 			st.close();
 			con.close();
- 
+
 
 
 		} catch (DocumentException | SQLException e) {
@@ -873,7 +1046,7 @@ public class Main {
 			e.printStackTrace();
 		}	
 	}
-	
+
 	public static void parsePetition()
 	{
 		try {
