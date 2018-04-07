@@ -25,7 +25,7 @@ public class Main {
 	public static void main(String[] args) throws SQLException {
 		// TODO Auto-generated method stub
 
-		parseMembre();
+	//	parseMembre();
 
 	}
 
@@ -1057,12 +1057,8 @@ public class Main {
 			List<Element> elem = root.elements();
 			System.out.println("elem: "+elem.size());
 
-
-
-
 			List<Element> autre = new ArrayList<>();
 			List<Element> bonne = new ArrayList<>();
-			List<String> themes = new ArrayList<>();
 			for(Element e: elem)
 			{
 
@@ -1083,9 +1079,7 @@ public class Main {
 				p.setId(Integer.parseInt(attrib.get(0).getText()));
 				p.setMembre(Integer.parseInt(attrib.get(1).getText()));
 
-				if(attrib.get(2).getText()!="6" && !themes.contains(attrib.get(2).getText()))
-					themes.add(attrib.get(2).getText());
-
+			
 				p.setTheme(attrib.get(2).getText());
 				LocalDate ldate = LocalDate.of(Integer.parseInt(attrib.get(3).getText()),Month.JANUARY,01);
 				p.setDate(ldate);
@@ -1129,22 +1123,11 @@ public class Main {
 			Statement statement = con.createStatement();
 
 			//AJOUT DES THEMES SAUF  CEUX NOTES 6
-			int i=1;
-			for(String s :themes)
-			{
-				statement.execute( "INSERT INTO public.\"Theme\"VALUES("+i+","+"'"+s+"'"+");");
-				i++;
-			}
 
 			for(Petition p :peti)
 			{
 
-				ResultSet resultat = statement.executeQuery( "SELECT \"idTheme\" FROM public.\"Theme\" WHERE \"Denomination\"="+"'"+p.getTheme()+"'"+";" );
-				int idtheme=0;
-				while(resultat.next())
-				{
-					idtheme= resultat.getInt(1);
-				}
+				
 
 				statement.execute( "INSERT INTO public.\"Petition\" VALUES("+p.getId()+","+idtheme+","+p.isMaire()+","+p.isDepute()+","+p.isDeputeeuro()+","+p.isPres()+","+p.isInternet()+","+p.isPresparlement()+","+"'"+p.getDate()+"'"+");");
 			}
