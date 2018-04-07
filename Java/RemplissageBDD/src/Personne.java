@@ -7,8 +7,18 @@ public class Personne {
 	
 	private int id, ref,codeP,dep,depRattaches,refComite;
 	private LocalDate maj,passeportDelivery,dateNaissance;
-	private boolean fiche,petitionnaire,elus,mailing,retour,souscription,contact,organisation,comite,mairie,bibli,couple,sansAdrese,Etranger;
-	private String numPasseport,prefecture,ville,AouC,nom,prenom,lieuNaissance,adresse1,adresse2,adresse3,remarque,titre;
+	private boolean fiche,petitionnaire,elus,retour,mairie,bibli,Etranger;
+	private String numPasseport,prefecture,ville,nom,prenom,lieuNaissance,adresse1,adresse2,adresse3,remarque,titre;
+	private List<RolePersonne> roles= new ArrayList<>();
+	private List<Integer> categ = new ArrayList<>();
+	
+	
+	public List<Integer> getCateg() {
+		return categ;
+	}
+	public void setCateg(List<Integer> categ) {
+		this.categ = categ;
+	}
 	public LocalDate getDateNaissance() {
 		return dateNaissance;
 	}
@@ -17,7 +27,7 @@ public class Personne {
 	}
 
 	
-	private List<RolePersonne> roles= new ArrayList<>();
+
 	public int getId() {
 		return id;
 	}
@@ -90,42 +100,15 @@ public class Personne {
 	public void setElus(boolean elus) {
 		this.elus = elus;
 	}
-	public boolean isMailing() {
-		return mailing;
-	}
-	public void setMailing(boolean mailing) {
-		this.mailing = mailing;
-	}
+
 	public boolean isRetour() {
 		return retour;
 	}
 	public void setRetour(boolean retour) {
 		this.retour = retour;
 	}
-	public boolean isSouscription() {
-		return souscription;
-	}
-	public void setSouscription(boolean souscription) {
-		this.souscription = souscription;
-	}
-	public boolean isContact() {
-		return contact;
-	}
-	public void setContact(boolean contact) {
-		this.contact = contact;
-	}
-	public boolean isOrganisation() {
-		return organisation;
-	}
-	public void setOrganisation(boolean organisation) {
-		this.organisation = organisation;
-	}
-	public boolean isComite() {
-		return comite;
-	}
-	public void setComite(boolean comite) {
-		this.comite = comite;
-	}
+	
+	
 	public boolean isMairie() {
 		return mairie;
 	}
@@ -138,18 +121,7 @@ public class Personne {
 	public void setBibli(boolean bibli) {
 		this.bibli = bibli;
 	}
-	public boolean isCouple() {
-		return couple;
-	}
-	public void setCouple(boolean couple) {
-		this.couple = couple;
-	}
-	public boolean isSansAdrese() {
-		return sansAdrese;
-	}
-	public void setSansAdrese(boolean sansAdrese) {
-		this.sansAdrese = sansAdrese;
-	}
+	
 	public boolean isEtranger() {
 		return Etranger;
 	}
@@ -173,12 +145,6 @@ public class Personne {
 	}
 	public void setVille(String ville) {
 		this.ville = ville;
-	}
-	public String getAouC() {
-		return AouC;
-	}
-	public void setAouC(String aouC) {
-		AouC = aouC;
 	}
 	public String getNom() {
 		return nom;

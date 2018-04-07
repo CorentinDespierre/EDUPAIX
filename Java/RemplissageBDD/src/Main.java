@@ -48,6 +48,7 @@ public class Main {
 			List <Personne>listp = new ArrayList<>();
 
 			Map<Integer,ContactPersonne> map = new HashMap<>();
+
 			int i=1;
 			for(Element e: elem)
 			{
@@ -64,7 +65,22 @@ public class Main {
 						p.setRef(Integer.parseInt(f.getText()));
 						break;
 					case "Adhérent_x0020_ou_x0020_contact":
-						p.setAouC(f.getText());
+
+						if(f.getText().contains("A") && !f.getText().contains("z"))
+						{
+							p.getCateg().add(1);
+						}
+						if(f.getText().contains("J"))
+						{
+							p.getCateg().add(3);
+						}
+						if(f.getText().contains("C"))
+						{
+							p.getCateg().add(2);
+						}
+						else
+							break;
+
 						break;
 					case "Miseàjour":
 						String maj=f.getText().substring(0, 10);
@@ -174,10 +190,6 @@ public class Main {
 							p.setElus(true);
 						break;
 					case "Mailing":
-						if(Integer.parseInt(f.getText())==0)
-							p.setMailing(false);
-						else
-							p.setMailing(true);
 						break;
 					case "Retour":
 						if(Integer.parseInt(f.getText())==0)
@@ -186,28 +198,12 @@ public class Main {
 							p.setRetour(true);
 						break;
 					case "Souscription":
-						if(Integer.parseInt(f.getText())==0)
-							p.setSouscription(false);
-						else
-							p.setSouscription(true);
 						break;
 					case "Contacts":
-						if(Integer.parseInt(f.getText())==0)
-							p.setContact(false);
-						else
-							p.setContact(true);
 						break;
 					case "Orga":
-						if(Integer.parseInt(f.getText())==0)
-							p.setOrganisation(false);
-						else
-							p.setOrganisation(true);
 						break;
 					case "Cté":
-						if(Integer.parseInt(f.getText())==0)
-							p.setComite(false);
-						else
-							p.setComite(true);
 						break;
 					case "Mairie":
 						if(Integer.parseInt(f.getText())==0)
@@ -222,16 +218,8 @@ public class Main {
 							p.setBibli(true);
 						break;
 					case "Couple":
-						if(Integer.parseInt(f.getText())==0)
-							p.setCouple(false);
-						else
-							p.setCouple(true);
 						break;
 					case "Sans_x0020_Adresse":
-						if(Integer.parseInt(f.getText())==0)
-							p.setSansAdrese(false);
-						else
-							p.setSansAdrese(true);
 						break;
 					case "Etranger":
 						if(Integer.parseInt(f.getText())==0)
@@ -328,8 +316,6 @@ public class Main {
 					p.setAdresse2("");
 				if(p.getAdresse3()==null)
 					p.setAdresse3("");
-				if(p.getAouC()==null)
-					p.setAouC("");
 				if(p.getPrenom()==null)
 					p.setPrenom("");
 				if(p.getVille()==null) 
@@ -373,10 +359,25 @@ public class Main {
 				if(p.getNumPasseport().contains("'"))
 					p.setNumPasseport(p.getNumPasseport().replaceAll("'", " "));
 
-				statement.execute( "INSERT INTO public.\"Personne\" VALUES("+p.getId()+","+p.getRef()+",'"+p.getTitre()+"','"+p.getNom()+"','"+p.getPrenom()+"','"+p.getAouC()+"','"+p.getMaj()+"','"+p.getAdresse1()+"','"+p.getAdresse2()+"','"+p.getAdresse3()+"',"+p.getCodeP()+",'"+p.getVille()+"',"+p.getDep()+","+p.getDepRattaches()+",'"+p.getDateNaissance()+"','"+p.getLieuNaissance()+"','"+p.getNumPasseport()+"','"+p.getPasseportDelivery()+"','"+p.getPrefecture()+"',"+p.getRefComite()+","+p.isFiche()+","+p.isPetitionnaire()+","+p.isElus()+","+p.isMailing()+","+p.isRetour()+","+p.isSouscription()+","+p.isContact()+","+p.isOrganisation()+","+p.isComite()+","+p.isMairie()+","+p.isBibli()+","+p.isCouple()+","+p.isSansAdrese()+","+p.isEtranger()+",'"+p.getRemarque()+"');");
+				//statement.execute( "INSERT INTO public.\"Personne\" VALUES("+p.getId()+","+p.getRef()+",'"+p.getTitre()+"','"+p.getNom()+"','"+p.getPrenom()+"','"+p.getMaj()+"','"+p.getAdresse1()+"','"+p.getAdresse2()+"','"+p.getAdresse3()+"',"+p.getCodeP()+",'"+p.getVille()+"',"+p.getDep()+","+p.getDepRattaches()+",'"+p.getDateNaissance()+"','"+p.getLieuNaissance()+"','"+p.getNumPasseport()+"','"+p.getPasseportDelivery()+"','"+p.getPrefecture()+"',"+p.getRefComite()+","+p.isFiche()+","+p.isPetitionnaire()+","+p.isElus()+","+p.isRetour()+","+p.isMairie()+","+p.isBibli()+","+p.isEtranger()+",'"+p.getRemarque()+"');");
 
 			}
 			System.out.println("FIN REQUETE 1");
+
+			int l=1;
+			for(Personne per: listp)
+			{
+				if(!per.getCateg().isEmpty())
+				{
+					for(Integer in : per.getCateg())
+					{
+						statement.execute("INSERT INTO public.\"CategoriePersonne_Personne_CotisationHisto\" VALUES("+l+","+in+","+per.getId()+");");
+						l++;
+					}
+
+				}
+			}
+			System.out.println("FIN REQUETE 2");
 
 			int j=1;
 			for(Map.Entry<Integer, ContactPersonne> entry:map.entrySet())
@@ -410,12 +411,10 @@ public class Main {
 					j++;
 				}
 			}
-			System.out.println("FIN REQUETE 2");
-			int size=0;
+			System.out.println("FIN REQUETE 3");
 			int k=1;
 			for(Personne p :listp)
 			{
-				size+=p.getRoles().size();
 				if(!p.getRoles().isEmpty()) {
 					for(RolePersonne rp : p.getRoles())
 					{
@@ -425,8 +424,8 @@ public class Main {
 				}
 
 			}
-			System.out.println("FIN REQUETE 3");
-			System.out.println(size);
+			System.out.println("FIN REQUETE 4");
+
 			statement.close();
 			con.close();
 		} catch (DocumentException | NumberFormatException | SQLException e) {
