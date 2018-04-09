@@ -25,8 +25,11 @@ public class Main {
 	public static void main(String[] args) throws SQLException {
 		// TODO Auto-generated method stub
 
-	//	parseMembre();
-
+		parseVille();
+		//parseRegion();
+		//parseComites();
+		//parseMembre();
+		//parsePetition();
 	}
 
 
@@ -47,14 +50,14 @@ public class Main {
 
 			List <Personne>listp = new ArrayList<>();
 
-			Map<Integer,ContactPersonne> map = new HashMap<>();
+			Map<Integer,Contact> map = new HashMap<>();
 
 			int i=1;
 			for(Element e: elem)
 			{
 				Personne p= new Personne();
 				p.setId(i);
-				ContactPersonne cp= new ContactPersonne();
+				Contact cp= new Contact();
 				List<Element>attrib = e.elements();
 				for(Element f:attrib)
 				{
@@ -362,7 +365,7 @@ public class Main {
 				//statement.execute( "INSERT INTO public.\"Personne\" VALUES("+p.getId()+","+p.getRef()+",'"+p.getTitre()+"','"+p.getNom()+"','"+p.getPrenom()+"','"+p.getMaj()+"','"+p.getAdresse1()+"','"+p.getAdresse2()+"','"+p.getAdresse3()+"',"+p.getCodeP()+",'"+p.getVille()+"',"+p.getDep()+","+p.getDepRattaches()+",'"+p.getDateNaissance()+"','"+p.getLieuNaissance()+"','"+p.getNumPasseport()+"','"+p.getPasseportDelivery()+"','"+p.getPrefecture()+"',"+p.getRefComite()+","+p.isFiche()+","+p.isPetitionnaire()+","+p.isElus()+","+p.isRetour()+","+p.isMairie()+","+p.isBibli()+","+p.isEtranger()+",'"+p.getRemarque()+"');");
 
 			}
-			System.out.println("FIN REQUETE 1");
+			System.out.println("FIN REQUETE 1 PERSONNE");
 
 			int l=1;
 			for(Personne per: listp)
@@ -377,10 +380,10 @@ public class Main {
 
 				}
 			}
-			System.out.println("FIN REQUETE 2");
+			System.out.println("FIN REQUETE 2 CATEGORIEPERSONNE_PERSONNE_COTISATIONHISTO");
 
 			int j=1;
-			for(Map.Entry<Integer, ContactPersonne> entry:map.entrySet())
+			for(Map.Entry<Integer, Contact> entry:map.entrySet())
 			{
 				if(entry.getValue().getPortable()!=null) {
 					statement.execute("INSERT INTO public.\"TypeContact_Personne\" VALUES("+j+","+entry.getKey()+",1,'"+entry.getValue().getPortable()+"');");
@@ -411,7 +414,7 @@ public class Main {
 					j++;
 				}
 			}
-			System.out.println("FIN REQUETE 3");
+			System.out.println("FIN REQUETE 3 TYPECONTACT_PERSONNE");
 			int k=1;
 			for(Personne p :listp)
 			{
@@ -424,7 +427,7 @@ public class Main {
 				}
 
 			}
-			System.out.println("FIN REQUETE 4");
+			System.out.println("FIN REQUETE 4 ROLE_STRUCTURE_PERSONNE");
 
 			statement.close();
 			con.close();
@@ -450,16 +453,6 @@ public class Main {
 			List<Element> autre = new ArrayList<>();
 			List<Element> bonne = new ArrayList<>();
 			List <Structure_Comites>listsc = new ArrayList<>();
-
-			/*for(Element e: elem)
-			{
-				if(e.elements().size()<9)
-					autre.add(e);
-				else
-					bonne.add(e);
-			}
-			System.out.println("autre: "+ autre.size());
-			System.out.println("bonne: "+bonne.size());*/
 
 
 
@@ -1046,7 +1039,6 @@ public class Main {
 		}	
 	}
 
-	//REFAIRE LA REQUETE
 	public static void parsePetition()
 	{
 		try {
@@ -1080,7 +1072,7 @@ public class Main {
 				p.setId(Integer.parseInt(attrib.get(0).getText()));
 				p.setMembre(Integer.parseInt(attrib.get(1).getText()));
 
-			
+
 				p.setTheme(attrib.get(2).getText());
 				LocalDate ldate = LocalDate.of(Integer.parseInt(attrib.get(3).getText()),Month.JANUARY,01);
 				p.setDate(ldate);
@@ -1128,12 +1120,120 @@ public class Main {
 			for(Petition p :peti)
 			{
 
-				
-
-				statement.execute( "INSERT INTO public.\"Petition\" VALUES("+p.getId()+","+idtheme+","+p.isMaire()+","+p.isDepute()+","+p.isDeputeeuro()+","+p.isPres()+","+p.isInternet()+","+p.isPresparlement()+","+"'"+p.getDate()+"'"+");");
+				statement.execute( "INSERT INTO public.\"Petition\" VALUES("+p.getId()+",'"+p.getTheme()+"','"+p.getDate()+"',"+p.isMaire()+","+p.isDepute()+","+p.isDeputeeuro()+","+p.isPres()+","+p.isInternet()+","+p.isPresparlement()+");");
 			}
+			System.out.println("FIN REQUETE PETITION");
 			statement.close();
+			con.close();
 
+		} catch (DocumentException | SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+	//MARCHE POUR DEPARTEMENTS ET REGION
+	public static void parseRegion()
+	{
+		try {
+			File file = new File("C:/GIT/EDUPAIX/BasesXML/region.xml");
+			SAXReader reader = new SAXReader();
+			Document doc = reader.read(file);
+			Element root = doc.getRootElement();
+			System.out.println(root.toString());
+			List<Element> elem = root.elements();
+			System.out.println("elem: "+elem.size());
+
+			List<Region> reg= new ArrayList<>();
+			for(Element e:elem)
+			{
+				Region r= new Region();
+				List<Element> attrib=e.elements();
+				for(Element f:attrib)
+				{
+
+					switch (f.getName())
+					{
+					case "REGION":
+							r.setId(1000+Integer.parseInt(f.getText()));
+						break;
+					case "NCCENR":
+						r.setNom(f.getText());
+						break;
+					}
+
+				}
+				reg.add(r);
+			}
+
+			//CONNEXION BDD  ET REQUETE
+
+			Connection con=DriverManager.getConnection("jdbc:postgresql://148.60.11.198:5432/Edupaixv1","Alexis","postgresmdp");
+			Statement statement = con.createStatement();
+
+			for(Region re: reg)
+			{
+
+				if(re.getNom().contains("'"))
+					re.setNom(re.getNom().replace("'", " "));
+				statement.execute( "INSERT INTO public.\"ZoneGeographique\" VALUES("+re.getId()+",'"+re.getNom()+"');");
+			}
+			System.out.println("FIN REQUETE REGION");
+			statement.close();
+			con.close();
+
+		} catch (DocumentException | SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+	public static void parseVille()
+	{
+		try {
+			File file = new File("C:/GIT/EDUPAIX/BasesXML/ville.xml");
+			SAXReader reader = new SAXReader();
+			Document doc = reader.read(file);
+			Element root = doc.getRootElement();
+			System.out.println(root.toString());
+			List<Element> elem = root.elements();
+			System.out.println("elem: "+elem.size());
+
+			List<Region> reg= new ArrayList<>();
+			for(Element e:elem)
+			{
+				List<Element> attrib=e.elements();
+				for(Element f:attrib)
+				{
+						System.out.println(x.getName());
+					/*switch (f.getName())
+					{
+					case "REGION":
+							r.setId(1000+Integer.parseInt(f.getText()));
+						break;
+					case "NCCENR":
+						r.setNom(f.getText());
+						break;
+					}*/
+
+				}
+			}
+
+			//CONNEXION BDD  ET REQUETE
+
+			Connection con=DriverManager.getConnection("jdbc:postgresql://148.60.11.198:5432/Edupaixv1","Alexis","postgresmdp");
+			Statement statement = con.createStatement();
+
+			/*for(Region re: reg)
+			{
+
+				if(re.getNom().contains("'"))
+					re.setNom(re.getNom().replace("'", " "));
+				statement.execute( "INSERT INTO public.\"ZoneGeographique\" VALUES("+re.getId()+",'"+re.getNom()+"');");
+			}
+			System.out.println("FIN REQUETE REGION");*/
+			statement.close();
+			con.close();
 
 		} catch (DocumentException | SQLException e) {
 			// TODO Auto-generated catch block
