@@ -27,7 +27,7 @@ public class Main {
 
 		//parseVille();
 		//parseRegion();
-		//parseComites();
+		parseComites();
 		parseMembre();
 		//parsePetition();
 	}
@@ -612,7 +612,33 @@ public class Main {
 			{
 				st.execute("INSERT INTO public.\"StructureHisto\" VALUES("+sh.getIdHisto()+",'"+sh.getDateDisparition()+"','"+sh.getDateDerniereCreation()+"','"+sh.getDatepremierecreation()+"',"+sh.getIdStructure()+");");
 			}
+			
 			System.out.println("FIN REQUETE STRUCTUREHISTO");
+			int j=1;
+			for(Map.Entry<Integer, Contact> entry:map.entrySet())
+			{
+				
+				if(entry.getValue().getTelDomicile()!=null) {
+					st.execute("INSERT INTO public.\"Structure_TypeContact\" VALUES("+j+","+entry.getKey()+",2,'"+entry.getValue().getTelDomicile()+"');");
+					j++;
+				}
+			
+				if(entry.getValue().getMobile()!=null) {
+					st.execute("INSERT INTO public.\"Structure_TypeContact\" VALUES("+j+","+entry.getKey()+",4,'"+entry.getValue().getMobile()+"');");
+					j++;
+				}
+
+				if(entry.getValue().getFaxDomicile()!=null) {
+					st.execute("INSERT INTO public.\"Structure_TypeContact\" VALUES("+j+","+entry.getKey()+",6,'"+entry.getValue().getFaxDomicile()+"');");
+					j++;
+				}
+				if(entry.getValue().getCourriel()!=null) {
+					st.execute("INSERT INTO public.\"Structure_TypeContact\" VALUES("+j+","+entry.getKey()+",7,'"+entry.getValue().getCourriel()+"');");
+					j++;
+				}
+			}
+			System.out.println("FIN REQUETE 3 STRUCTURE_TYPECONTACT");
+			
 			st.close();
 			con.close();
 
