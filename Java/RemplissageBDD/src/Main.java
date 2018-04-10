@@ -1,5 +1,7 @@
+import java.io.BufferedReader;
 import java.io.File;
-import java.security.KeyStore.Entry.Attribute;
+import java.io.FileReader;
+import java.io.IOException;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
@@ -9,9 +11,7 @@ import java.time.LocalDate;
 import java.time.Month;
 import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
-import java.util.Date;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
@@ -25,10 +25,10 @@ public class Main {
 	public static void main(String[] args) throws SQLException {
 		// TODO Auto-generated method stub
 
-		parseVille();
+		//parseVille();
 		//parseRegion();
 		//parseComites();
-		//parseMembre();
+		parseMembre();
 		//parsePetition();
 	}
 
@@ -362,7 +362,7 @@ public class Main {
 				if(p.getNumPasseport().contains("'"))
 					p.setNumPasseport(p.getNumPasseport().replaceAll("'", " "));
 
-				//statement.execute( "INSERT INTO public.\"Personne\" VALUES("+p.getId()+","+p.getRef()+",'"+p.getTitre()+"','"+p.getNom()+"','"+p.getPrenom()+"','"+p.getMaj()+"','"+p.getAdresse1()+"','"+p.getAdresse2()+"','"+p.getAdresse3()+"',"+p.getCodeP()+",'"+p.getVille()+"',"+p.getDep()+","+p.getDepRattaches()+",'"+p.getDateNaissance()+"','"+p.getLieuNaissance()+"','"+p.getNumPasseport()+"','"+p.getPasseportDelivery()+"','"+p.getPrefecture()+"',"+p.getRefComite()+","+p.isFiche()+","+p.isPetitionnaire()+","+p.isElus()+","+p.isRetour()+","+p.isMairie()+","+p.isBibli()+","+p.isEtranger()+",'"+p.getRemarque()+"');");
+				statement.execute( "INSERT INTO public.\"Personne\" VALUES("+p.getId()+","+p.getRef()+",'"+p.getTitre()+"','"+p.getNom()+"','"+p.getPrenom()+"','"+p.getMaj()+"','"+p.getAdresse1()+"','"+p.getAdresse2()+"','"+p.getAdresse3()+"',"+p.getCodeP()+",'"+p.getVille()+"',"+p.getDep()+","+p.getDepRattaches()+",'"+p.getDateNaissance()+"','"+p.getLieuNaissance()+"','"+p.getNumPasseport()+"','"+p.getPasseportDelivery()+"','"+p.getPrefecture()+"',"+p.getRefComite()+","+p.isFiche()+","+p.isPetitionnaire()+","+p.isElus()+","+p.isRetour()+","+p.isMairie()+","+p.isBibli()+","+p.isEtranger()+",'"+p.getRemarque()+"');");
 
 			}
 			System.out.println("FIN REQUETE 1 PERSONNE");
@@ -449,527 +449,104 @@ public class Main {
 			System.out.println(root.toString());
 			List<Element> elem = root.elements();
 			System.out.println("elem: "+elem.size());
-
-			List<Element> autre = new ArrayList<>();
-			List<Element> bonne = new ArrayList<>();
 			List <Structure_Comites>listsc = new ArrayList<>();
-
+			Map<Integer,Contact> map = new HashMap<>();
 
 
 			for(Element e : elem)
 			{
+
 				List<Element> attrib = e.elements();
-				System.out.println("attrib="+attrib.size());
 				Structure_Comites sc = new Structure_Comites();
-				sc.setId(Integer.parseInt(attrib.get(0).getText()));
+				Contact contact= new Contact();
 
-				switch(attrib.get(1).getName())
+				for(Element f:attrib)
 				{
-				case "Région":
-					sc.setRegion(attrib.get(1).getText());
-					break;
-				case "N_x00B0_dép":
-					sc.setDepartement(Integer.parseInt(attrib.get(1).getText()));
-					break;
+					switch(f.getName())
+					{
+					case "RéfComité":
+						sc.setId(Integer.parseInt(f.getText()));
+						break;
+					case "Région":
+						break;
+					case "N_x00B0_dép":
+						break;
+					case "NomComité":
+						sc.setNom(f.getText());
+						break;
+					case "N_x00B0_catégorie": 
+						break;
+					case "Adresse1":
+						sc.setAdresse1(f.getText());
+						break;
+					case "Adresse2":
+						sc.setAdresse2(f.getText());
+						break;
+					case "CodeP":
+						sc.setcodeP(Integer.parseInt(f.getText()));
+						break;
+
+					case "Téléphone":
+						contact.setTelDomicile(f.getText());
+						break;
+					case "Mobile":
+						contact.setMobile(f.getText());
+						break;
+					case "Fax":
+						contact.setFaxDomicile(f.getText());
+						break;
+					case "Courriel":
+						contact.setCourriel(f.getText());
+						break;
+					case "Contact":
+						sc.setContact(f.getText());
+						break;
+					case "Association_x0020_déclarée":
+						if(Integer.parseInt(f.getText())==1)
+							sc.setDeclaree(true);
+						else
+							sc.setDeclaree(false);
+						break;
+					case "n_x00B0__x0020_de_x0020_déclaration":
+						if(Integer.parseInt(f.getText())==1)
+							sc.setDeclarationdoc(true);
+						else
+							sc.setDeclarationdoc(false);
+						break;
+					case "Actif":
+						if(Integer.parseInt(f.getText())==1)
+							sc.setActif(true);
+						else
+							sc.setActif(false);
+						break;
+					case "Ville":
+						sc.setVille(f.getText());
+						break;
+
+					}
 
 				}
-
-				switch(attrib.get(2).getName())
-				{
-				case "N_x00B0_dép":
-					sc.setDepartement(Integer.parseInt(attrib.get(2).getText())); 
-					break;
-				case "NomComité":
-					sc.setNom(attrib.get(2).getText());
-					break;
-				}
-
-				switch(attrib.get(3).getName())
-				{
-				case "N_x00B0_catégorie":
-					sc.setCategorie(Integer.parseInt(attrib.get(3).getText())); 
-					break;
-				case "NomComité":
-					sc.setNom(attrib.get(3).getText());
-					break;
-				}
-
-				switch(attrib.get(4).getName())
-				{
-				case "N_x00B0_catégorie":
-					sc.setCategorie(Integer.parseInt(attrib.get(4).getText())); 
-					break;
-				case "Adresse1":
-					sc.setAdresse1(attrib.get(4).getText());
-					break;
-				case "Adresse2":
-					sc.setAdresse2(attrib.get(4).getText());
-					break;
-				case "CodeP":
-					sc.setCodeP(Integer.parseInt(attrib.get(4).getText()));
-					break;
-				case "Ville":
-					sc.setVille(attrib.get(6).getText());
-					break;
-				case "Téléphone":
-					sc.setTelephone(attrib.get(6).getText());
-					break;
-				case "Mobile":
-					sc.setMobile(attrib.get(6).getText());
-					break;
-				case "Fax":
-					sc.setFax(attrib.get(6).getText());
-					break;
-				case "Courriel":
-					sc.setCourriel(attrib.get(6).getText());
-					break;
-				case "Contact":
-					sc.setContact(attrib.get(6).getText());
-					break;
-				case "Association_x0020_déclarée":
-					if(Integer.parseInt(attrib.get(6).getText())==1)
-						sc.setDeclaree(true);
-					else
-						sc.setDeclaree(false);
-					break;
-
-				}
-
-				switch(attrib.get(5).getName())
-				{
-				case "Adresse1":
-					sc.setAdresse1(attrib.get(5).getText());
-					break;
-				case "Adresse2":
-					sc.setAdresse2(attrib.get(5).getText());
-					break;
-				case "CodeP":
-					sc.setCodeP(Integer.parseInt(attrib.get(5).getText()));
-					break;
-				case "Ville":
-					sc.setVille(attrib.get(5).getText());
-					break;
-				case "Téléphone":
-					sc.setTelephone(attrib.get(5).getText());
-					break;
-				case "Mobile":
-					sc.setMobile(attrib.get(5).getText());
-					break;
-				case "Fax":
-					sc.setFax(attrib.get(5).getText());
-					break;
-				case "Courriel":
-					sc.setCourriel(attrib.get(5).getText());
-					break;
-				case "Contact":
-					sc.setContact(attrib.get(5).getText());
-					break;
-				case "Association_x0020_déclarée":
-					if(Integer.parseInt(attrib.get(6).getText())==1)
-						sc.setDeclaree(true);
-					else
-						sc.setDeclaree(false);
-					break;
-
-				}
-
-				switch(attrib.get(6).getName())
-				{
-				case "Adresse2":
-					sc.setAdresse2(attrib.get(6).getText());
-					break;
-				case "CodeP":
-					sc.setCodeP(Integer.parseInt(attrib.get(6).getText()));
-					break;
-				case "Ville":
-					sc.setVille(attrib.get(6).getText());
-					break;
-				case "Téléphone":
-					sc.setTelephone(attrib.get(6).getText());
-					break;
-				case "Mobile":
-					sc.setMobile(attrib.get(6).getText());
-					break;
-				case "Fax":
-					sc.setFax(attrib.get(6).getText());
-					break;
-				case "Courriel":
-					sc.setCourriel(attrib.get(6).getText());
-					break;
-				case "Contact":
-					sc.setContact(attrib.get(6).getText());
-					break;
-				case "Association_x0020_déclarée":
-					if(Integer.parseInt(attrib.get(6).getText())==1)
-						sc.setDeclaree(true);
-					else
-						sc.setDeclaree(false);
-					break;
-				}
-				if(attrib.size()==7) {
-					listsc.add(sc);				
-					continue;}
-				switch(attrib.get(7).getName())
-				{
-				case "CodeP":
-					sc.setCodeP(Integer.parseInt(attrib.get(7).getText()));
-					break;
-				case "Ville":
-					sc.setVille(attrib.get(7).getText());
-					break;
-				case "Téléphone":
-					sc.setTelephone(attrib.get(7).getText());
-					break;
-				case "Mobile":
-					sc.setMobile(attrib.get(7).getText());
-					break;
-				case "Fax":
-					sc.setFax(attrib.get(7).getText());
-					break;
-				case "Courriel":
-					sc.setCourriel(attrib.get(7).getText());
-					break;
-				case "Contact":
-					sc.setContact(attrib.get(7).getText());
-					break;
-				case "Association_x0020_déclarée":
-					if(Integer.parseInt(attrib.get(7).getText())==1)
-						sc.setDeclaree(true);
-					else
-						sc.setDeclaree(false);
-					break;
-				case "n_x00B0__x0020_de_x0020_déclaration":
-					if(Integer.parseInt(attrib.get(7).getText())==1)
-						sc.setDeclarationdoc(true);
-					else
-						sc.setDeclarationdoc(false);
-					break;
-				case "Actif":
-					if(Integer.parseInt(attrib.get(7).getText())==1)
-						sc.setActif(true);
-					else
-						sc.setActif(false);
-					break;
-
-				}
-				if(attrib.size()==8) {
-					listsc.add(sc);				
-					continue;}
-				switch(attrib.get(8).getName())
-				{
-				case "Ville":
-					sc.setVille(attrib.get(8).getText());
-					break;
-				case "Téléphone":
-					sc.setTelephone(attrib.get(8).getText());
-					break;
-				case "Mobile":
-					sc.setMobile(attrib.get(8).getText());
-					break;
-				case "Fax":
-					sc.setFax(attrib.get(8).getText());
-					break;
-				case "Courriel":
-					sc.setCourriel(attrib.get(8).getText());
-					break;
-				case "Contact":
-					sc.setContact(attrib.get(8).getText());
-					break;
-				case "Association_x0020_déclarée":
-					if(Integer.parseInt(attrib.get(8).getText())==1)
-						sc.setDeclaree(true);
-					else
-						sc.setDeclaree(false);
-					break;
-				case "n_x00B0__x0020_de_x0020_déclaration":
-					if(Integer.parseInt(attrib.get(8).getText())==1)
-						sc.setDeclarationdoc(true);
-					else
-						sc.setDeclarationdoc(false);
-					break;
-				case "Actif":
-					if(Integer.parseInt(attrib.get(8).getText())==1)
-						sc.setActif(true);
-					else
-						sc.setActif(false);
-					break;
-				default:
-					System.out.println("attribut 8");
-				}
-				if(attrib.size()==9) {
-					listsc.add(sc);				
-					continue;}
-				switch(attrib.get(9).getName())
-				{				
-				case "Téléphone":
-					sc.setTelephone(attrib.get(9).getText());
-					break;
-				case "Mobile":
-					sc.setMobile(attrib.get(9).getText());
-					break;
-				case "Fax":
-					sc.setFax(attrib.get(9).getText());
-					break;
-				case "Courriel":
-					sc.setCourriel(attrib.get(9).getText());
-					break;
-				case "Contact":
-					sc.setContact(attrib.get(9).getText());
-					break;
-				case "Association_x0020_déclarée":
-					if(Integer.parseInt(attrib.get(9).getText())==1)
-						sc.setDeclaree(true);
-					else
-						sc.setDeclaree(false);
-					break;
-				case "n_x00B0__x0020_de_x0020_déclaration":
-					if(Integer.parseInt(attrib.get(9).getText())==1)
-						sc.setDeclarationdoc(true);
-					else
-						sc.setDeclarationdoc(false);
-					break;
-				case "Actif":
-					if(Integer.parseInt(attrib.get(9).getText())==1)
-						sc.setActif(true);
-					else
-						sc.setActif(false);
-					break;
-				default:
-					System.out.println("attribut 9");
-				}
-
-				if(attrib.size()==10) {
-					listsc.add(sc);
-					continue;}
-				switch(attrib.get(10).getName())
-				{				
-				case "Mobile":
-					sc.setMobile(attrib.get(10).getText());
-					break;
-				case "Fax":
-					sc.setFax(attrib.get(10).getText());
-					break;
-				case "Courriel":
-					sc.setCourriel(attrib.get(10).getText());
-					break;
-				case "Contact":
-					sc.setContact(attrib.get(10).getText());
-					break;
-				case "Association_x0020_déclarée":
-					if(Integer.parseInt(attrib.get(10).getText())==1)
-						sc.setDeclaree(true);
-					else
-						sc.setDeclaree(false);
-					break;
-				case "n_x00B0__x0020_de_x0020_déclaration":
-					if(Integer.parseInt(attrib.get(10).getText())==1)
-						sc.setDeclarationdoc(true);
-					else
-						sc.setDeclarationdoc(false);
-					break;
-				case "Actif":
-					if(Integer.parseInt(attrib.get(10).getText())==1)
-						sc.setActif(true);
-					else
-						sc.setActif(false);
-					break;
-				default:
-					System.out.println("attribut 10");
-				}
-
-				if(attrib.size()==11) {
-					listsc.add(sc);
-					continue;}
-				switch(attrib.get(11).getName())
-				{				
-				case "Fax":
-					sc.setFax(attrib.get(11).getText());
-					break;
-				case "Courriel":
-					sc.setCourriel(attrib.get(11).getText());
-					break;
-				case "Contact":
-					sc.setContact(attrib.get(11).getText());
-					break;
-				case "Association_x0020_déclarée":
-					if(Integer.parseInt(attrib.get(11).getText())==1)
-						sc.setDeclaree(true);
-					else
-						sc.setDeclaree(false);
-					break;
-				case "n_x00B0__x0020_de_x0020_déclaration":
-					if(Integer.parseInt(attrib.get(11).getText())==1)
-						sc.setDeclarationdoc(true);
-					else
-						sc.setDeclarationdoc(false);
-					break;
-				case "Actif":
-					if(Integer.parseInt(attrib.get(11).getText())==1)
-						sc.setActif(true);
-					else
-						sc.setActif(false);
-					break;
-				default:
-					System.out.println("attribut 11");
-				}
-
-				if(attrib.size()==12) {
-					listsc.add(sc);
-					continue;}
-				switch(attrib.get(12).getName())
-				{				
-
-				case "Courriel":
-					sc.setCourriel(attrib.get(12).getText());
-					break;
-				case "Contact":
-					sc.setContact(attrib.get(12).getText());
-					break;
-				case "Association_x0020_déclarée":
-					if(Integer.parseInt(attrib.get(12).getText())==1)
-						sc.setDeclaree(true);
-					else
-						sc.setDeclaree(false);
-					break;
-				case "n_x00B0__x0020_de_x0020_déclaration":
-					if(Integer.parseInt(attrib.get(12).getText())==1)
-						sc.setDeclarationdoc(true);
-					else
-						sc.setDeclarationdoc(false);
-					break;
-				case "Actif":
-					if(Integer.parseInt(attrib.get(12).getText())==1)
-						sc.setActif(true);
-					else
-						sc.setActif(false);
-					break;
-				default:
-					System.out.println("attribut 12");
-				}
-
-				if(attrib.size()==13) {
-					listsc.add(sc);
-					continue;}
-				switch(attrib.get(13).getName())
-				{				
-				case "Contact":
-					sc.setContact(attrib.get(13).getText());
-					break;
-				case "Association_x0020_déclarée":
-					if(Integer.parseInt(attrib.get(13).getText())==1)
-						sc.setDeclaree(true);
-					else
-						sc.setDeclaree(false);
-					break;
-				case "n_x00B0__x0020_de_x0020_déclaration":
-					if(Integer.parseInt(attrib.get(13).getText())==1)
-						sc.setDeclarationdoc(true);
-					else
-						sc.setDeclarationdoc(false);
-					break;
-				case "Actif":
-					if(Integer.parseInt(attrib.get(13).getText())==1)
-						sc.setActif(true);
-					else
-						sc.setActif(false);
-					break;
-				default:
-					System.out.println("attribut 13");
-				}
-
-				if(attrib.size()==14) {
-					listsc.add(sc);
-					continue;}
-				switch(attrib.get(14).getName())
-				{				
-				case "Association_x0020_déclarée":
-					if(Integer.parseInt(attrib.get(14).getText())==1)
-						sc.setDeclaree(true);
-					else
-						sc.setDeclaree(false);
-					break;
-				case "n_x00B0__x0020_de_x0020_déclaration":
-					if(Integer.parseInt(attrib.get(14).getText())==1)
-						sc.setDeclarationdoc(true);
-					else
-						sc.setDeclarationdoc(false);
-					break;
-				case "Actif":
-					if(Integer.parseInt(attrib.get(14).getText())==1)
-						sc.setActif(true);
-					else
-						sc.setActif(false);
-					break;
-				default:
-					System.out.println("attribut 14");
-				}
-
-				if(attrib.size()==15)
-				{listsc.add(sc);
-				continue;}
-				switch(attrib.get(15).getName())
-				{				
-				case "n_x00B0__x0020_de_x0020_déclaration":
-					if(Integer.parseInt(attrib.get(15).getText())==1)
-						sc.setDeclarationdoc(true);
-					else
-						sc.setDeclarationdoc(false);
-					break;
-				case "Actif":
-					if(Integer.parseInt(attrib.get(15).getText())==1)
-						sc.setActif(true);
-					else
-						sc.setActif(false);
-					break;
-				default:
-					System.out.println("attribut 15");
-				}
-
-				if(attrib.size()==16) {
-					listsc.add(sc);
-					continue;
-				}
-				switch(attrib.get(16).getName())
-				{				
-				case "Actif":
-					if(Integer.parseInt(attrib.get(16).getText())==1)
-						sc.setActif(true);
-					else
-						sc.setActif(false);
-					break;
-				default:
-					System.out.println("attribut 16");
-				}
-
 				listsc.add(sc);
+				map.put(sc.getId(), contact);
 			}
 
 			for(Structure_Comites sc:listsc)
 			{
-				if(sc.getAdresse1()==null && sc.getAdresse2()==null && sc.getCodeP()==0 && sc.getVille()==null)
+				if(sc.getAdresse1()==null && sc.getAdresse2()==null && sc.getcodeP()==0 && sc.getVille()==null)
 					sc.setNiveau(2);
 				else
 					sc.setNiveau(1);
 			}
 
-			System.out.println(listsc.size());
 			Connection con=DriverManager.getConnection("jdbc:postgresql://148.60.11.198:5432/Edupaixv1","Alexis","postgresmdp");
 			Statement statement = con.createStatement();
-			List<Structure_Comites> aretravailler = new ArrayList<>();
+			
 			for (Structure_Comites sc : listsc)
 			{
-				if(sc.getRegion()==null)
-					sc.setRegion("");
-				if(sc.getMobile()==null)
-					sc.setMobile("");
 				if(sc.getAdresse1()==null)
 					sc.setAdresse1("");
 				if(sc.getAdresse2()==null)
 					sc.setAdresse2("");
-				if(sc.getTelephone()==null)
-					sc.setTelephone("");
-				if(sc.getCourriel()==null)
-					sc.setCourriel("");
 				if(sc.getContact()==null)
 					sc.setContact("");
 				if(sc.getVille()==null) {
@@ -980,8 +557,6 @@ public class Main {
 
 				//REMPLACEMENT DES '
 
-				if(sc.getRegion().contains("'"))
-					sc.setRegion(sc.getRegion().replace("'", " "));
 				if(sc.getAdresse1().contains("'"))
 					sc.setAdresse1(sc.getAdresse1().replace("'", " "));
 				if(sc.getAdresse2().contains("'"))
@@ -996,8 +571,18 @@ public class Main {
 
 
 
-				statement.execute( "INSERT INTO public.\"Structure\" VALUES("+sc.getId()+",'"+sc.getNom()+"','"+sc.getAdresse1()+"','"+sc.getAdresse2()+"',"+sc.getCodeP()+",'"+sc.getVille()+"',"+sc.getNiveau()+",'"+sc.getMobile()+"','"+sc.getTelephone()+"','"+sc.getCourriel()+"','"+sc.getContact()+"',"+sc.getDepartement()+",'"+sc.getRegion()+"',"+sc.isDeclaree()+","+sc.getCategorie()+","+sc.isDeclarationdoc()+","+sc.isActif()+");");
+				statement.execute( "INSERT INTO public.\"Structure\" VALUES("+sc.getId()+",'"+sc.getNom()+"','"+sc.getAdresse1()+"','"+sc.getAdresse2()+"',"+sc.getNiveau()+","+sc.isDeclaree()+","+sc.isDeclarationdoc()+","+sc.isActif()+",'"+sc.getSiret()+"','"+sc.getRna()+"','"+sc.getContact()+"',false,'9999-01-01');");
 			}
+			
+			System.out.println("FIN REQUETE STRUCTURE");
+			
+			int k=1;
+			for(Structure_Comites sc : listsc)
+			{
+				statement.execute( "INSERT INTO public.\"NatureStructure_Structure\" VALUES("+k+",1,"+sc.getId()+");");
+				k++;
+			}
+			System.out.println("FIN REQUETE NATURESTRUCTURE_STRUCTURE");
 			statement.close();
 
 			Statement st= con.createStatement();
@@ -1025,9 +610,9 @@ public class Main {
 
 			for(StructureHisto sh: listsh)
 			{
-				st.execute("INSERT INTO public.\"StructureHisto\" VALUES("+sh.getIdHisto()+","+sh.getIdStructure()+",'"+sh.getDateDisparition()+"','"+sh.getDateDerniereCreation()+"','"+sh.getDatepremierecreation()+"');");
+				st.execute("INSERT INTO public.\"StructureHisto\" VALUES("+sh.getIdHisto()+",'"+sh.getDateDisparition()+"','"+sh.getDateDerniereCreation()+"','"+sh.getDatepremierecreation()+"',"+sh.getIdStructure()+");");
 			}
-			System.out.println("sh"+listsh.size());
+			System.out.println("FIN REQUETE STRUCTUREHISTO");
 			st.close();
 			con.close();
 
@@ -1155,7 +740,7 @@ public class Main {
 					switch (f.getName())
 					{
 					case "REGION":
-							r.setId(1000+Integer.parseInt(f.getText()));
+						r.setId(1000+Integer.parseInt(f.getText()));
 						break;
 					case "NCCENR":
 						r.setNom(f.getText());
@@ -1190,55 +775,34 @@ public class Main {
 
 	public static void parseVille()
 	{
-		try {
-			File file = new File("C:/GIT/EDUPAIX/BasesXML/ville.xml");
-			SAXReader reader = new SAXReader();
-			Document doc = reader.read(file);
-			Element root = doc.getRootElement();
-			System.out.println(root.toString());
-			List<Element> elem = root.elements();
-			System.out.println("elem: "+elem.size());
+		String csvFile = "C:/GIT/EDUPAIX/BasesXML/insee.csv";
+		String line = "";
+		String cvsSplitBy = ";";
 
-			List<Region> reg= new ArrayList<>();
-			for(Element e:elem)
-			{
-				List<Element> attrib=e.elements();
-				for(Element f:attrib)
-				{
-						System.out.println(x.getName());
-					/*switch (f.getName())
-					{
-					case "REGION":
-							r.setId(1000+Integer.parseInt(f.getText()));
-						break;
-					case "NCCENR":
-						r.setNom(f.getText());
-						break;
-					}*/
-
-				}
-			}
-
-			//CONNEXION BDD  ET REQUETE
-
+		try (BufferedReader br = new BufferedReader(new FileReader(csvFile))) {
 			Connection con=DriverManager.getConnection("jdbc:postgresql://148.60.11.198:5432/Edupaixv1","Alexis","postgresmdp");
 			Statement statement = con.createStatement();
+			int i=1;
+			while ((line = br.readLine()) != null) {
 
-			/*for(Region re: reg)
-			{
+				// use comma as separator
+				String[] country = line.split(cvsSplitBy);
+				if(country[2].equals("CODE POSTAL"))
+					continue;
 
-				if(re.getNom().contains("'"))
-					re.setNom(re.getNom().replace("'", " "));
-				statement.execute( "INSERT INTO public.\"ZoneGeographique\" VALUES("+re.getId()+",'"+re.getNom()+"');");
+				System.out.println("Country [code= " + country[1] + " , name=" + country[2] + "]");
+
+				statement.execute( "INSERT INTO public.\"Commune\" VALUES("+i+",'"+country[1]+"',0,"+country[2]+");");
+				i++;
 			}
-			System.out.println("FIN REQUETE REGION");*/
+			System.out.println("FIN REQUETE VILLE");
 			statement.close();
 			con.close();
 
-		} catch (DocumentException | SQLException e) {
-			// TODO Auto-generated catch block
+		} catch (IOException | SQLException e) {
 			e.printStackTrace();
 		}
-	}
 
+
+	}
 }
