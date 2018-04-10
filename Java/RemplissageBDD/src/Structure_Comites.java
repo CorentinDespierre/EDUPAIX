@@ -2,6 +2,9 @@
 public class Structure_Comites {
 
 	private String nom,adresse1,adresse2,ville,contact,siret="",rna="";
+	private int niveau,id,codeP;
+	private boolean actif,declaree,declarationdoc;
+	
 	public String getSiret() {
 		return siret;
 	}
@@ -20,8 +23,7 @@ public class Structure_Comites {
 	public void setCodeP(int codeP) {
 		this.codeP = codeP;
 	}
-	private int niveau,id,codeP;
-	private boolean actif,declaree,declarationdoc;
+	
 	public String getNom() {
 		return nom;
 	}

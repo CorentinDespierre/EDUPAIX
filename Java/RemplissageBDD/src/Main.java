@@ -28,7 +28,7 @@ public class Main {
 		//parseVille();
 		//parseRegion();
 		parseComites();
-		parseMembre();
+		//parseMembre();
 		//parsePetition();
 	}
 
@@ -540,7 +540,7 @@ public class Main {
 
 			Connection con=DriverManager.getConnection("jdbc:postgresql://148.60.11.198:5432/Edupaixv1","Alexis","postgresmdp");
 			Statement statement = con.createStatement();
-			
+
 			for (Structure_Comites sc : listsc)
 			{
 				if(sc.getAdresse1()==null)
@@ -570,12 +570,11 @@ public class Main {
 
 
 
-
 				statement.execute( "INSERT INTO public.\"Structure\" VALUES("+sc.getId()+",'"+sc.getNom()+"','"+sc.getAdresse1()+"','"+sc.getAdresse2()+"',"+sc.getNiveau()+","+sc.isDeclaree()+","+sc.isDeclarationdoc()+","+sc.isActif()+",'"+sc.getSiret()+"','"+sc.getRna()+"','"+sc.getContact()+"',false,'9999-01-01');");
 			}
-			
+
 			System.out.println("FIN REQUETE STRUCTURE");
-			
+
 			int k=1;
 			for(Structure_Comites sc : listsc)
 			{
@@ -583,6 +582,26 @@ public class Main {
 				k++;
 			}
 			System.out.println("FIN REQUETE NATURESTRUCTURE_STRUCTURE");
+
+			int z=1;
+			for(Structure_Comites sc : listsc)
+			{
+				
+				
+				ResultSet set= statement.executeQuery("SELECT \"idCommune\" FROM public.\"Commune\" WHERE \"codeP\"="+sc.getCodeP()+";");
+				int id=0;
+				while(set.next())
+				{
+					id=set.getInt(1);
+				}
+				if(id==0)
+					continue;
+					
+				statement.execute( "INSERT INTO public.\"Structure_Commune\" VALUES("+z+","+sc.getId()+","+id+");");
+				z++;
+			}
+
+			System.out.println("FIN REQUETE STRUCTURE_Commune");
 			statement.close();
 
 			Statement st= con.createStatement();
@@ -612,17 +631,17 @@ public class Main {
 			{
 				st.execute("INSERT INTO public.\"StructureHisto\" VALUES("+sh.getIdHisto()+",'"+sh.getDateDisparition()+"','"+sh.getDateDerniereCreation()+"','"+sh.getDatepremierecreation()+"',"+sh.getIdStructure()+");");
 			}
-			
+
 			System.out.println("FIN REQUETE STRUCTUREHISTO");
 			int j=1;
 			for(Map.Entry<Integer, Contact> entry:map.entrySet())
 			{
-				
+
 				if(entry.getValue().getTelDomicile()!=null) {
 					st.execute("INSERT INTO public.\"Structure_TypeContact\" VALUES("+j+","+entry.getKey()+",2,'"+entry.getValue().getTelDomicile()+"');");
 					j++;
 				}
-			
+
 				if(entry.getValue().getMobile()!=null) {
 					st.execute("INSERT INTO public.\"Structure_TypeContact\" VALUES("+j+","+entry.getKey()+",4,'"+entry.getValue().getMobile()+"');");
 					j++;
@@ -637,8 +656,8 @@ public class Main {
 					j++;
 				}
 			}
-			System.out.println("FIN REQUETE 3 STRUCTURE_TYPECONTACT");
-			
+			System.out.println("FIN REQUETE  STRUCTURE_TYPECONTACT");
+
 			st.close();
 			con.close();
 
