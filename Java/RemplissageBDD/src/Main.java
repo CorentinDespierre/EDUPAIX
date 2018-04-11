@@ -27,8 +27,8 @@ public class Main {
 
 		//parseVille();
 		//parseRegion();
-		parseComites();
-		//parseMembre();
+		//parseComites();
+		parseMembre();
 		//parsePetition();
 	}
 
