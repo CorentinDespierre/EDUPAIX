@@ -27,9 +27,10 @@ public class Main {
 
 		//parseVille();
 		//parseRegion();
-		parseComites();
+		//parseComites();
 		//parseMembre();
 		//parsePetition();
+		mettreVilleDansDepartement();
 	}
 
 
@@ -586,8 +587,8 @@ public class Main {
 			int z=1;
 			for(Structure_Comites sc : listsc)
 			{
-				
-				
+
+
 				ResultSet set= statement.executeQuery("SELECT \"idCommune\" FROM public.\"Commune\" WHERE \"codeP\"="+sc.getCodeP()+";");
 				int id=0;
 				while(set.next())
@@ -595,10 +596,24 @@ public class Main {
 					id=set.getInt(1);
 				}
 				if(id==0)
-					continue;
-					
-				statement.execute( "INSERT INTO public.\"Structure_Commune\" VALUES("+z+","+sc.getId()+","+id+");");
-				z++;
+				{
+					ResultSet max= statement.executeQuery("SELECT count(\"idCommune\") FROM public.\"Commune\";");
+					int maxi=0;
+					while(max.next())
+					{
+						maxi=max.getInt(1);
+					}
+					maxi++;
+					System.out.println(maxi);
+					statement.execute( "INSERT INTO public.\"Commune\" VALUES("+maxi+",'"+sc.getVille()+"',0,"+sc.getCodeP()+");");
+					statement.execute( "INSERT INTO public.\"Structure_Commune\" VALUES("+z+","+sc.getId()+","+maxi+");");
+					z++;
+				}
+				else
+				{
+					statement.execute( "INSERT INTO public.\"Structure_Commune\" VALUES("+z+","+sc.getId()+","+id+");");
+					z++;
+				}
 			}
 
 			System.out.println("FIN REQUETE STRUCTURE_Commune");
@@ -850,4 +865,69 @@ public class Main {
 
 
 	}
+
+	public static void mettreVilleDansDepartement()
+	{
+		Connection con;
+		try {
+			con = DriverManager.getConnection("jdbc:postgresql://148.60.11.198:5432/Edupaixv1","Alexis","postgresmdp");
+			Statement statement = con.createStatement();
+			int k=1;
+			
+			ResultSet sete= statement.executeQuery("SELECT \"idCommune\" FROM public.\"Commune\" where \"idCommune\"="+k+";");
+			int id=0;
+			while(sete.next())
+			{
+				id=sete.getInt(1);
+				System.out.println(id);
+				if(id==0)
+					continue;
+				int NumberOfDigits = String.valueOf(id).length();
+				if(NumberOfDigits==4)
+				{
+					Character carac = String.valueOf(id).charAt(0);
+					
+					ResultSet dep= statement.executeQuery("SELECT \"idZone\" FROM public.\"ZoneGeographique\" WHERE \"idZone\"="+Integer.parseInt(carac.toString())+";");
+					int idep=0;
+					while(dep.next())
+					{
+						idep=dep.getInt(1);
+
+					}
+					if(idep==0) {
+						System.out.println("probleme 4");
+						continue;
+					}
+					statement.execute( "INSERT INTO public.\"Commune_ZoneGeographique\" VALUES("+k+","+id+","+idep+");");
+					k++;
+				}
+				else
+				{
+					String carac = String.valueOf(id).substring(0, 1);
+					
+					ResultSet dep2= statement.executeQuery("SELECT \"idZone\" FROM public.\"ZoneGeographique\" WHERE \"idZone\"="+Integer.parseInt(carac)+";");
+					int idep2=0;
+					while(dep2.next())
+					{
+						idep2=dep2.getInt(1);
+
+					}
+					if(idep2==0) {
+						System.out.println("probleme 5");
+						continue;
+					}
+					statement.execute( "INSERT INTO public.\"Commune_ZoneGeographique\" VALUES("+k+","+id+","+idep2+");");
+					k++;
+				}
+
+				
+				statement.close();
+				con.close();
+			}
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
 }
