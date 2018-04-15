@@ -868,62 +868,62 @@ public class Main {
 
 	public static void mettreVilleDansDepartement()
 	{
-		Connection con;
 		try {
-			con = DriverManager.getConnection("jdbc:postgresql://148.60.11.198:5432/Edupaixv1","Alexis","postgresmdp");
-			Statement statement = con.createStatement();
+			 Connection con = DriverManager.getConnection("jdbc:postgresql://148.60.11.198:5432/Edupaixv1","Alexis","postgresmdp");
 			int k=1;
-			
-			ResultSet sete= statement.executeQuery("SELECT \"idCommune\" FROM public.\"Commune\" where \"idCommune\"="+k+";");
-			int id=0;
+			ResultSet sete= con.createStatement().executeQuery("SELECT \"idCommune\",\"codeP\" FROM public.\"Commune\";");
+
 			while(sete.next())
 			{
-				id=sete.getInt(1);
-				System.out.println(id);
+				int id=sete.getInt("idCommune");
+				int codeP=sete.getInt("codeP");
+				System.out.println("id="+id);
 				if(id==0)
 					continue;
-				int NumberOfDigits = String.valueOf(id).length();
+				int NumberOfDigits = String.valueOf(codeP).length();
 				if(NumberOfDigits==4)
 				{
-					Character carac = String.valueOf(id).charAt(0);
-					
-					ResultSet dep= statement.executeQuery("SELECT \"idZone\" FROM public.\"ZoneGeographique\" WHERE \"idZone\"="+Integer.parseInt(carac.toString())+";");
-					int idep=0;
+					Character carac = String.valueOf(codeP).charAt(0);
+					System.out.println(carac+",4");
+
+					ResultSet dep=con.createStatement().executeQuery("SELECT \"idZone\" FROM public.\"ZoneGeographique\" WHERE \"idZone\"="+Integer.parseInt(carac.toString())+";");
+
 					while(dep.next())
 					{
-						idep=dep.getInt(1);
+						int idep=dep.getInt(1);
+						
 
+
+						if(idep==0) {
+							System.out.println("probleme 4");
+							continue;
+						}
+						con.createStatement().execute( "INSERT INTO public.\"Commune_ZoneGeographique\" VALUES("+k+","+id+","+idep+");");
+						k++;
 					}
-					if(idep==0) {
-						System.out.println("probleme 4");
-						continue;
-					}
-					statement.execute( "INSERT INTO public.\"Commune_ZoneGeographique\" VALUES("+k+","+id+","+idep+");");
-					k++;
 				}
 				else
 				{
-					String carac = String.valueOf(id).substring(0, 1);
-					
-					ResultSet dep2= statement.executeQuery("SELECT \"idZone\" FROM public.\"ZoneGeographique\" WHERE \"idZone\"="+Integer.parseInt(carac)+";");
-					int idep2=0;
+					String carac = String.valueOf(codeP).substring(0, 2);
+					System.out.println(carac+",5");
+					ResultSet dep2= con.createStatement().executeQuery("SELECT \"idZone\" FROM public.\"ZoneGeographique\" WHERE \"idZone\"="+Integer.parseInt(carac)+";");
 					while(dep2.next())
 					{
-						idep2=dep2.getInt(1);
+						int idep2=dep2.getInt(1);
 
+
+						if(idep2==0) {
+							System.out.println("probleme 5");
+							continue;
+						}
+						con.createStatement().execute( "INSERT INTO public.\"Commune_ZoneGeographique\" VALUES("+k+","+id+","+idep2+");");
+						k++;
 					}
-					if(idep2==0) {
-						System.out.println("probleme 5");
-						continue;
-					}
-					statement.execute( "INSERT INTO public.\"Commune_ZoneGeographique\" VALUES("+k+","+id+","+idep2+");");
-					k++;
 				}
 
-				
-				statement.close();
-				con.close();
+
 			}
+			System.out.println("FIN REQUETE COMMUNE_ZONE");
 		} catch (SQLException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
