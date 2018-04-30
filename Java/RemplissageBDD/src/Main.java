@@ -25,11 +25,11 @@ public class Main {
 	public static void main(String[] args) throws SQLException {
 		// TODO Auto-generated method stub
 
-		//parseVille();
-		//parseRegion();
-		//parseComites();
-		//parseMembre();
-		//parsePetition();
+		parseVille();
+		parseRegion();
+		parseComites();
+		parseMembre();
+		parsePetition();
 		mettreVilleDansDepartement();
 	}
 
@@ -787,7 +787,7 @@ public class Main {
 			Element root = doc.getRootElement();
 			System.out.println(root.toString());
 			List<Element> elem = root.elements();
-			System.out.println("elem: "+elem.size());
+
 
 			List<Region> reg= new ArrayList<>();
 			for(Element e:elem)
@@ -850,8 +850,6 @@ public class Main {
 				if(country[2].equals("CODE POSTAL"))
 					continue;
 
-				System.out.println("Country [code= " + country[1] + " , name=" + country[2] + "]");
-
 				statement.execute( "INSERT INTO public.\"Commune\" VALUES("+i+",'"+country[1]+"',0,"+country[2]+");");
 				i++;
 			}
@@ -877,7 +875,6 @@ public class Main {
 			{
 				int id=sete.getInt("idCommune");
 				int codeP=sete.getInt("codeP");
-				System.out.println("id="+id);
 				if(id==0)
 					continue;
 				int NumberOfDigits = String.valueOf(codeP).length();
